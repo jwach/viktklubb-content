@@ -9,10 +9,6 @@
       "type": "cta-element",
       "order": "0",
       "props": {
-        "timer": {
-          "text": "Erbjudandet går ut om:",
-          "endDate": "2016-05-17T00:00+02:00"
-        },
         "label": "Kom i form till midsommar – 3 mån till 50% rabatt!"
       }
     }
