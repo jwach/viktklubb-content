@@ -1,0 +1,20 @@
+{
+  "props": {
+    "empty": true,
+    "shadowBox": false,
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "cta-element",
+      "order": "0",
+      "props": {
+        "timer": {
+          "text": "Erbjudandet går ut om:",
+          "endDate": "2016-05-23T22:00+00:00"
+        },
+        "label": "3 mån till 50% rabatt!"
+      }
+    }
+  ]
+}
