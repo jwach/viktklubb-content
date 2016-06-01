@@ -1,0 +1,41 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "adjustments": {
+          "primaryTopMargin": "30"
+        },
+        "primaryImage": {
+          "imageId": "22809491",
+          "sources": {
+            "extraWide": "http://gfx.aftonbladet-cdn.se/image/22809491/234/extraWide/0e7c45a858c0f/header_and_jen_viktklubb.png",
+            "fourByThree": "http://gfx.aftonbladet-cdn.se/image/22809491/160/fourByThree/af2dc37ed2c0f/header_and_jen_viktklubb.png",
+            "imageColumn": "http://gfx.aftonbladet-cdn.se/image/22809491/160/imageColumn/8ad1f789f0c0f/header_and_jen_viktklubb.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/22809491/336/imageColumnDouble/a744502907c0f/header_and_jen_viktklubb.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/22809491/333/nineBythirteen/58fb297fe7c0f/header_and_jen_viktklubb.png",
+            "normal": "http://gfx.aftonbladet-cdn.se/image/22809491/480/normal/0b4e145366c0f/header_and_jen_viktklubb.png",
+            "square": "http://gfx.aftonbladet-cdn.se/image/22809491/160/square/f532d78e57c0f/header_and_jen_viktklubb.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/22809491/481/thirteenByNine/5843d531abc0f/header_and_jen_viktklubb.png",
+            "widescreen": "http://gfx.aftonbladet-cdn.se/image/22809491/480/widescreen/52550a3ed5c0f/header_and_jen_viktklubb.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22809491.ab/BINARY/header_and_jen_viktklubb.png"
+          },
+          "alt": "Viktklubb Andreas och Jennie",
+          "format": "binary"
+        },
+        "header": "Njut av sommaren med gott samvete – håll vikten med oss!",
+        "ctaAdd": "",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Börja idag!",
+        "disclaimer": "",
+        "body": ""
+      }
+    }
+  ]
+}

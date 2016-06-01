@@ -1,0 +1,20 @@
+{
+  "props": {
+    "empty": true,
+    "shadowBox": false,
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "cta-element",
+      "order": "0",
+      "props": {
+        "timer": {
+          "text": "Erbjudandet går ut om:",
+          "endDate": "2016-06-07T22:00+00:00"
+        },
+        "label": "50% rabatt – Viktklubb i 3 mån!"
+      }
+    }
+  ]
+}
