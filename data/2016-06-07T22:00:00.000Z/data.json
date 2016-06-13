@@ -76,7 +76,7 @@
     },
     "bmi": {
       "containers": [
-        "bmi-calculator",
+        "bmi-calc",
         "bmi-range-display",
         "bmi-result-cta",
         "bmi-case-match",
@@ -91,7 +91,7 @@
 
     "article-bottom-ad": {
       "containers": [
-        "bmi-calculator",
+        "bmi-calc",
         "bmi-range-display",
         "bmi-result-cta"
       ]
