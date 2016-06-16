@@ -1,0 +1,41 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "adjustments": {
+          "primaryTopMargin": "30"
+        },
+        "primaryImage": {
+          "imageId": "22825787",
+          "sources": {
+            "extraWide": "http://gfx.aftonbladet-cdn.se/image/22825787/234/extraWide/0e7c45a858c0f/header_and_jen_disc.png",
+            "fourByThree": "http://gfx.aftonbladet-cdn.se/image/22825787/160/fourByThree/af2dc37ed2c0f/header_and_jen_disc.png",
+            "imageColumn": "http://gfx.aftonbladet-cdn.se/image/22825787/160/imageColumn/8ad1f789f0c0f/header_and_jen_disc.png",
+            "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/22825787/336/imageColumnDouble/a744502907c0f/header_and_jen_disc.png",
+            "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/22825787/333/nineBythirteen/58fb297fe7c0f/header_and_jen_disc.png",
+            "normal": "http://gfx.aftonbladet-cdn.se/image/22825787/480/normal/0b4e145366c0f/header_and_jen_disc.png",
+            "square": "http://gfx.aftonbladet-cdn.se/image/22825787/160/square/f532d78e57c0f/header_and_jen_disc.png",
+            "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/22825787/481/thirteenByNine/5843d531abc0f/header_and_jen_disc.png",
+            "widescreen": "http://gfx.aftonbladet-cdn.se/image/22825787/480/widescreen/52550a3ed5c0f/header_and_jen_disc.png",
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article22825787.ab/BINARY/header_and_jen_disc.png"
+          },
+          "alt": "Viktklubb 1 krona första månaden",
+          "format": "binary"
+        },
+        "header": "Kroppen är toppen – ta hand om den!",
+        "ctaAdd": "1 kr första månaden*",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Börja idag!",
+        "disclaimer": "*1 kr första månaden gäller våra medlemskap på 6 mån och 12 mån.",
+        "body": ""
+      }
+    }
+  ]
+}
