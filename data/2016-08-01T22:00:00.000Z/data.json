@@ -60,7 +60,9 @@
         "ettan-banner",
         "testimonials",
         "vk-features",
-        "bmi-calc"
+        "bmi-calc",
+        "bmi-range-display",
+        "bmi-result-cta"
       ]
     },
     "vk-content": {
