@@ -45,11 +45,11 @@
         "campaignId": "11244"
       },
       "special-offer": {
-        "months": 12,
+        "months": 6,
         "unit": "1 kr första mån*",
-        "productId": "203285",
+        "productId": "203238",
         "campaignId": "11321",
-        "offerLength": 12,
+        "offerLength": 6,
         "lengthUnit": "månader"
       }
     }
