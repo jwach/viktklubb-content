@@ -25,7 +25,7 @@
           {
             "sticker": "1 kr första mån*",
             "cta": "Välj",
-            "offer": "six-months-monthly"
+            "offer": "twelve-months-monthly"
           },
           {
             "sticker": "",
@@ -55,7 +55,7 @@
           "cta": "Välj",
           "offer": "special-offer",
           "fontSize": "4",
-          "ctaAdd": "därefter 99 kr/mån"
+          "ctaAdd": "därefter 129 kr/mån"
         },
         "image": {
           "imageId": "20947393",
