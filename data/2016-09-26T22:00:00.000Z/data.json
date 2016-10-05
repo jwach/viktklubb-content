@@ -74,7 +74,8 @@
     },
     "bmi": {
       "containers": [
-        "bmi-calc"
+        "bmi-calc",
+        "all-features"
       ]
     },
 
