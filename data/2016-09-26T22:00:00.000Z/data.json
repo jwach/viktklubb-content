@@ -75,9 +75,6 @@
     "bmi": {
       "containers": [
         "bmi-calc",
-        "bmi-range-display",
-        "bmi-result-cta",
-        "bmi-case-match",
         "all-features"
       ]
     },
