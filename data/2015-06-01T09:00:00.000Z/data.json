@@ -53,10 +53,7 @@
     "frontpage": {
       "containers": [
         "ettan-banner",
-        "split-ad",
-        "bmi-calculator",
-        "bmi-range-display",
-        "bmi-result-cta",
+        "bmi-calc",
         "vk-features",
         "conversionVideo",
         "testimonials"
