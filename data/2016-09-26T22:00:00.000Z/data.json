@@ -93,6 +93,11 @@
         "bmi-calc"
       ]
     },
+    "article-pitch": {
+      "containers": [
+        "all-features"
+      ]
+    },
     "memberships": {
       "containers": [
         "memberships"
