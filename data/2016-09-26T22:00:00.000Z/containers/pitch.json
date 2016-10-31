@@ -21,6 +21,14 @@
       "props": {
         "text": "Gör som en halv miljon andra redan gjort – gå med i Viktklubb så hjälper vi dig hela vägen in i mål."
       }
+    },
+    {
+      "type": "cta-element",
+      "order": "2",
+      "props": {
+        "label": "Börja nu"
+      }
     }
+
   ]
 }
