@@ -4,7 +4,7 @@
     "width": "full",
     "margin": false,
     "grid": false,
-    "backgroundImage": "http://gfx.aftonbladet-cdn.se/image/23015981/728/normal/36a628211b740/Medelhavskost.png"
+    "background": "#D7DBE3"
   },
   "items": [
     {
