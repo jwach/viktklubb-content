@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Ett lättare liv med Viktklubb",
+        "label": "Ett lättare liv med Viktklubb!",
         "strength": 2,
         "align": "center"
       }
@@ -20,14 +20,14 @@
       "type": "paragraf",
       "order": "1",
       "props": {
-        "text": "Gör som en halv miljon andra redan gjort – gå med i Viktklubb så hjälper vi dig hela vägen in i mål."
+        "text": "Gör som 500 000 andra redan har gjort – gå med i Viktklubb så hjälper vi dig att gå ner i vikt och leva hälsosamt."
       }
     },
     {
       "type": "cta-element",
       "order": "2",
       "props": {
-        "label": "Börja nu"
+        "label": "Läs mer"
       }
     }
 
