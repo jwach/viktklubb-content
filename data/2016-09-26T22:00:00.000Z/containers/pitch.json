@@ -20,14 +20,15 @@
       "type": "paragraf",
       "order": "1",
       "props": {
-        "text": "Gör som 500 000 andra redan har gjort – gå med i Viktklubb så hjälper vi dig att gå ner i vikt och leva hälsosamt."
+        "text": "Gör som över 500 000 andra redan har gjort – gå med i Viktklubb så hjälper vi dig att gå ner i vikt och leva hälsosamt."
       }
     },
     {
       "type": "cta-element",
       "order": "2",
       "props": {
-        "label": "Läs mer"
+        "label": "Läs mer",
+        "href": "/kampanj"
       }
     }
 
