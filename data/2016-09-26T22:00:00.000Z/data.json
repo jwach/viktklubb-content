@@ -83,10 +83,19 @@
       "containers": [
       ]
     },
-
     "article-bottom-ad": {
       "containers": [
         "bmi-calc"
+      ]
+    },
+    "article-bmi": {
+      "containers": [
+        "bmi-calc"
+      ]
+    },
+    "article-pitch": {
+      "containers": [
+        "pitch"
       ]
     },
     "memberships": {

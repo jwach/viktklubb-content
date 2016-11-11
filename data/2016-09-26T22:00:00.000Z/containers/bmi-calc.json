@@ -1,6 +1,6 @@
 {
   "props": {
-    "shadowBox": true,
+    "shadowBox": false,
     "width": "full",
     "contentPadding": true,
     "margin": true
@@ -28,7 +28,7 @@
       "props": {
         "weight": {
           "value": 100,
-          "maxValue": 300,
+          "maxValue": 200,
           "minValue": 50,
           "cutoffValue": 110
         },
@@ -40,7 +40,7 @@
         },
         "goal": {
           "value": 90,
-          "maxValue": 300,
+          "maxValue": 200,
           "minValue": 50,
           "cutoffValue": 110
         },
