@@ -1,0 +1,35 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false,
+    "background": "gray3"
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Gå ner i vikt snabbt och enkelt med Viktklubb!",
+        "strength": 2,
+        "align": "center"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": "1",
+      "props": {
+        "text": "Campaign text"
+      }
+    },
+    {
+      "type": "cta-element",
+      "order": "2",
+      "props": {
+        "label": "BÖRJA NU"
+      }
+    }
+
+  ]
+}
