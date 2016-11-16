@@ -17,8 +17,29 @@
       }
     },
     {
-      "type": "list-element",
+      "type": "image-element",
       "order": "1",
+      "props": {
+        "imageId": "23918947",
+        "sources": {
+          "extraWide": "http://gfx.aftonbladet-cdn.se/image/23918947/234/extraWide/0e7c45a858c0f/header_september_633x472px_transp.png",
+          "fourByThree": "http://gfx.aftonbladet-cdn.se/image/23918947/160/fourByThree/af2dc37ed2c0f/header_september_633x472px_transp.png",
+          "imageColumn": "http://gfx.aftonbladet-cdn.se/image/23918947/160/imageColumn/8ad1f789f0c0f/header_september_633x472px_transp.png",
+          "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/23918947/336/imageColumnDouble/a744502907c0f/header_september_633x472px_transp.png",
+          "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/23918947/333/nineBythirteen/58fb297fe7c0f/header_september_633x472px_transp.png",
+          "normal": "http://gfx.aftonbladet-cdn.se/image/23918947/480/normal/0b4e145366c0f/header_september_633x472px_transp.png",
+          "square": "http://gfx.aftonbladet-cdn.se/image/23918947/160/square/f532d78e57c0f/header_september_633x472px_transp.png",
+          "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/23918947/481/thirteenByNine/5843d531abc0f/header_september_633x472px_transp.png",
+          "widescreen": "http://gfx.aftonbladet-cdn.se/image/23918947/480/widescreen/52550a3ed5c0f/header_september_633x472px_transp.png",
+          "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23918947.ab/BINARY/header_september_633x472px_transp.png"
+        },
+        "alt": "Splash stegräknare på köpet",
+        "format": "binary"
+      }
+    },
+    {
+      "type": "list-element",
+      "order": "2",
       "props": {
         "items": [
           "Massor med nyttiga recept",
@@ -29,14 +50,14 @@
     },
     {
       "type": "cta-element",
-      "order": "2",
+      "order": "3",
       "props": {
         "label": "BÖRJA NU"
       }
     },
     {
       "type": "paragraf",
-      "order": "3",
+      "order": "4",
       "props": {
         "text": "*värde 99 kr. Erbjudandet gäller vid tecknande av medlemskap på 6 respektive 12 månader t.o.m. 28/2 2017"
       }
