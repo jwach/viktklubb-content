@@ -98,6 +98,11 @@
         "pitch"
       ]
     },
+    "article-offer": {
+      "containers": [
+        "offer"
+      ]
+    },
     "memberships": {
       "containers": [
         "memberships"
