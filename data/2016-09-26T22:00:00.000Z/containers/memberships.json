@@ -57,16 +57,6 @@
           "fontSize": "4",
           "ctaAdd": ""
         },
-        "image": {
-          "imageId": "20947393",
-          "sources": {
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/article20947393.ab/BINARY/splash_junikamp_pil.png"
-          },
-          "alt": "Gäller till 15 juli",
-          "format": "binary"
-        },
-        "width": "30%",
-        "left": "68%",
         "subHeader": ""
       }
     },
