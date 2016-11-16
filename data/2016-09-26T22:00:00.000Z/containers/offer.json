@@ -20,18 +20,18 @@
       "type": "image-element",
       "order": "1",
       "props": {
-        "imageId": "23918947",
+        "imageId": "23923911",
         "sources": {
-          "extraWide": "http://gfx.aftonbladet-cdn.se/image/23918947/234/extraWide/0e7c45a858c0f/Splash_stegraknare.jpg",
-          "fourByThree": "http://gfx.aftonbladet-cdn.se/image/23918947/160/fourByThree/af2dc37ed2c0f/Splash_stegraknare.jpg",
-          "imageColumn": "http://gfx.aftonbladet-cdn.se/image/23918947/160/imageColumn/8ad1f789f0c0f/Splash_stegraknare.jpg",
-          "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/23918947/336/imageColumnDouble/a744502907c0f/Splash_stegraknare.jpg",
-          "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/23918947/333/nineBythirteen/58fb297fe7c0f/Splash_stegraknare.jpg",
-          "normal": "http://gfx.aftonbladet-cdn.se/image/23918947/480/normal/0b4e145366c0f/Splash_stegraknare.jpg",
-          "square": "http://gfx.aftonbladet-cdn.se/image/23918947/160/square/f532d78e57c0f/Splash_stegraknare.jpg",
-          "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/23918947/481/thirteenByNine/5843d531abc0f/Splash_stegraknare.jpg",
-          "widescreen": "http://gfx.aftonbladet-cdn.se/image/23918947/480/widescreen/52550a3ed5c0f/Splash_stegraknare.jpg",
-          "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23918947.ab/BINARY/Splash_stegraknare.jpg"
+          "extraWide": "http://gfx.aftonbladet-cdn.se/image/23923911/234/extraWide/0e7c45a858c0f/Splash_stegraknare.png",
+          "fourByThree": "http://gfx.aftonbladet-cdn.se/image/23923911/160/fourByThree/af2dc37ed2c0f/Splash_stegraknare.png",
+          "imageColumn": "http://gfx.aftonbladet-cdn.se/image/23923911/160/imageColumn/8ad1f789f0c0f/Splash_stegraknare.png",
+          "imageColumnDouble": "http://gfx.aftonbladet-cdn.se/image/23923911/336/imageColumnDouble/a744502907c0f/Splash_stegraknare.png",
+          "nineBythirteen": "http://gfx.aftonbladet-cdn.se/image/23923911/333/nineBythirteen/58fb297fe7c0f/Splash_stegraknare.png",
+          "normal": "http://gfx.aftonbladet-cdn.se/image/23923911/480/normal/0b4e145366c0f/Splash_stegraknare.png",
+          "square": "http://gfx.aftonbladet-cdn.se/image/23923911/160/square/f532d78e57c0f/Splash_stegraknare.png",
+          "thirteenByNine": "http://gfx.aftonbladet-cdn.se/image/23923911/481/thirteenByNine/5843d531abc0f/Splash_stegraknare.png",
+          "widescreen": "http://gfx.aftonbladet-cdn.se/image/23923911/480/widescreen/52550a3ed5c0f/Splash_stegraknare.png",
+          "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23923911.ab/BINARY/Splash_stegraknare.png"
         },
         "alt": "Splash stegräknare på köpet",
         "format": "binary"
