@@ -13,19 +13,32 @@
           "primaryTopMargin": "30"
         },
         "primaryImage": {
-          "imageId": "23477493",
+          "imageId": "23926373",
           "sources": {
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23477493.ab/BINARY/header_september_633x472px_transp.png"
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23926373.ab/BINARY/Helen-main-banner.png"
           },
-          "alt": "Emily_Håkan_Viktklubb",
+          "alt": "Helen",
           "format": "binary"
         },
-        "header": "Dags att tappa några kilon?",
+        "backgroundImage": {
+          "imageId": "23926361",
+          "sources": {
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23926361.ab/BINARY/Background_viktklubb_jan2017_3000x1500.jpg"
+          },
+          "alt": "Campaign-background",
+          "format": "binary"
+        },
+        "bulletList": [
+          "Inga konstigheter — bara vanlig mat",
+          "Stöd och hjälp från experter och medlemmar",
+          "Få koll på kalorierna med vår smarta loggbok"
+        ],
+        "header": "Gå ner i vikt snabbt och enkelt",
         "ctaAdd": "",
         "ctaHref": "/kampanj/blimedlem",
-        "ctaLabel": "Kom igång nu!",
+        "ctaLabel": "Börja idag!",
         "disclaimer": "",
-        "body": "Du har viljan — vi har resten"
+        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska institutet"
       }
     }
   ]
