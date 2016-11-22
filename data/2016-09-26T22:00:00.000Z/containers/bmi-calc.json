@@ -12,7 +12,8 @@
       "props": {
         "label": "Räkna ut när du kan nå din målvikt",
         "strength": 2,
-        "align": "center"
+        "align": "center",
+        "cssClass": "section-header"
       }
     },
     {

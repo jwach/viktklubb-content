@@ -37,7 +37,8 @@
         ],
         "header": {
           "align": "center",
-          "label": "Vi har lyckats"
+          "label": "Vi har lyckats",
+          "cssClass": "section-header"
         },
         "ctaHref": "/magasin/lyckats",
         "ctaLabel": "Läs om fler medlemmar"
