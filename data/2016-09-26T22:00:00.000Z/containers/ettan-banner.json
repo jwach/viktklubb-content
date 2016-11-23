@@ -11,25 +11,25 @@
       "props": {
         "primaryImage": {
           "desktop" : {
-            "imageId": "23955298",
+            "imageId": "23955957",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955298.ab/BINARY/Helen-Desktop.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955957.ab/BINARY/Helen-without-bubble.png"
             },
             "alt": "Helen",
             "format": "binary"
           },
           "tablet": {
-            "imageId": "23955303",
+            "imageId": "23955957",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955303.ab/BINARY/Helen-tablet.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955957.ab/BINARY/Helen-without-bubble.png"
             },
             "alt": "Helen",
             "format": "binary"
           },
           "mobile": {
-            "imageId": "23955302",
+            "imageId": "23955957",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955302.ab/BINARY/Helen-mobile.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955957.ab/BINARY/Helen-without-bubble.png"
             },
             "alt": "Helen",
             "format": "binary"
