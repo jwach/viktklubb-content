@@ -3,7 +3,7 @@
     "shadowBox": false,
     "width": "full",
     "margin": false,
-    "grid": true
+    "grid": false
   },
   "items": [
     {
