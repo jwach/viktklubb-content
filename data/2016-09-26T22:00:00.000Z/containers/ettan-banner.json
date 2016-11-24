@@ -11,25 +11,25 @@
       "props": {
         "primaryImage": {
           "desktop" : {
-            "imageId": "23955957",
+            "imageId": "23978415",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955957.ab/BINARY/Helen-without-bubble.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23978415.ab/BINARY/Helen-without-bubble-compressed.png"
             },
             "alt": "Helen",
             "format": "binary"
           },
           "tablet": {
-            "imageId": "23955957",
+            "imageId": "23978415",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955957.ab/BINARY/Helen-without-bubble.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23978415.ab/BINARY/Helen-without-bubble-compressed.png"
             },
             "alt": "Helen",
             "format": "binary"
           },
           "mobile": {
-            "imageId": "23955957",
+            "imageId": "23978415",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955957.ab/BINARY/Helen-without-bubble.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23978415.ab/BINARY/Helen-without-bubble-compressed.png"
             },
             "alt": "Helen",
             "format": "binary"
