@@ -58,9 +58,9 @@
     "frontpage": {
       "containers": [
         "ettan-banner",
+        "vk-features",
         "bmi-calc",
-        "testimonials",
-        "vk-features"
+        "testimonials"
       ]
     },
     "vk-content": {
