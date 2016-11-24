@@ -9,23 +9,49 @@
       "type": "standard-banner-v2",
       "order": "1",
       "props": {
-        "adjustments": {
-          "primaryTopMargin": "30"
-        },
         "primaryImage": {
-          "imageId": "23477493",
-          "sources": {
-            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23477493.ab/BINARY/header_september_633x472px_transp.png"
+          "desktop" : {
+            "imageId": "23955957",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955957.ab/BINARY/Helen-without-bubble.png"
+            },
+            "alt": "Helen",
+            "format": "binary"
           },
-          "alt": "Emily_Håkan_Viktklubb",
+          "tablet": {
+            "imageId": "23955957",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955957.ab/BINARY/Helen-without-bubble.png"
+            },
+            "alt": "Helen",
+            "format": "binary"
+          },
+          "mobile": {
+            "imageId": "23955957",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23955957.ab/BINARY/Helen-without-bubble.png"
+            },
+            "alt": "Helen",
+            "format": "binary"
+          }
+        },
+        "backgroundImage": {
+          "imageId": "23926361",
+          "sources": {
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23926361.ab/BINARY/Background_viktklubb_jan2017_3000x1500.jpg"
+          },
+          "alt": "Campaign-background",
           "format": "binary"
         },
-        "header": "Dags att tappa några kilon?",
-        "ctaAdd": "",
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "header": "Gå ner i vikt snabbt och enkelt",
         "ctaHref": "/kampanj/blimedlem",
-        "ctaLabel": "Kom igång nu!",
-        "disclaimer": "",
-        "body": "Du har viljan — vi har resten"
+        "ctaLabel": "Börja idag!",
+        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska institutet"
       }
     }
   ]

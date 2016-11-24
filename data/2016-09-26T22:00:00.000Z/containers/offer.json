@@ -32,6 +32,7 @@
       "type": "list-element",
       "order": "2",
       "props": {
+        "glyphicon": "ok-sign",
         "items": [
           "Massor med nyttiga recept",
           "Logga enkelt mat och träning via app eller webb",
