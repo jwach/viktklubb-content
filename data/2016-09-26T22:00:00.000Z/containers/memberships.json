@@ -46,10 +46,44 @@
             "cta": "Välj",
             "offer": "twelve-months-monthly"
           }
-        ],
-        "subHeader": ""
+        ]
       }
     },
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Ett samarbete med Karolinska Institutet",
+        "align": "center",
+        "strength": 2
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": "4",
+      "props": {
+        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över en halv miljon medlemmar att skaffa en hälsosammare livsstil och gå ner i vikt. Du kan räkna med oss!"
+      }
+    },
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Allt detta ingår",
+        "align": "center",
+        "strength": 2
+      }
+    },
+    "bulletList": [
+      "1000+ hälsosamma recept",
+      "Digital loggbok för kost & träning",
+      "Personlig motivationsprogram",
+      "Följ din utvecklingskurva",
+      "Individuell kostplan",
+      "Hundratals artiklar om mat, hälsa & träning",
+      "Experter inom mat, motion och motivation",
+      "Stöd av andra medlemmar i vårt digitala forum"
+    ],
     {
       "type": "disclaimer-footer",
       "order": 4,
