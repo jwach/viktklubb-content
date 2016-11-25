@@ -9,23 +9,37 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Idag börjar ditt hälsosamma liv!",
+        "label": "Börja ditt hälsosamma liv idag!",
         "align": "center",
         "strength": 2
       }
     },
     {
-      "type": "special-offering",
+      "type": "text-element",
       "order": 1,
       "props": {
+        "label": "Du har viljan – vi har resten",
+        "align": "center",
+        "fontSize": "20"
+      }
+    }
+    {
+      "type": "special-offering",
+      "order": 2,
+      "props": {
         "discreet": true,
-        "selectedType": "monthly",
-        "hideTypeSwitch": true,
+        "special": {
+          "sticker": "Populärast!",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "fontSize": "4",
+          "ctaAdd": ""
+        },
         "monthly": [
           {
-            "sticker": "Populärast!",
+            "sticker": "Kickstart!",
             "cta": "Välj",
-            "offer": "six-months-monthly"
+            "offer": "three-months-monthly"
           },
           {
             "sticker": "Billigast!",
@@ -33,59 +47,15 @@
             "offer": "twelve-months-monthly"
           }
         ],
-        "total": [
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "twelve-months-upfront"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "six-months-upfront"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "three-months-upfront"
-          }
-        ],
-        "special": {
-          "sticker": "Kickstart!",
-          "cta": "Välj",
-          "offer": "special-offer",
-          "fontSize": "4",
-          "ctaAdd": ""
-        },
         "subHeader": ""
       }
     },
     {
-      "type": "features",
-      "order": 2,
-      "props": {
-        "items": [
-          "Viktminskningsplan anpassad för Dig",
-          "Logga det du äter och din träning — vi håller koll på resten",
-          "Tjänsten är utvecklad i samarbete med Karolinska Institutet"
-        ]
-      }
-    },
-    {
       "type": "disclaimer-footer",
-      "order": 3,
+      "order": 4,
       "props": {
         "safetyNote": "Betala säkert",
         "disclaimer": ""
-      }
-    },
-    {
-      "type": "text-element",
-      "order": "0.1",
-      "props": {
-        "label": "Du har viljan — Vi har resten",
-        "align": "center",
-        "fontSize": "20"
       }
     }
   ]
