@@ -45,11 +45,11 @@
         "campaignId": "11244"
       },
       "special-offer": {
-        "months": 3,
-        "unit": "149 kr per mån",
+        "months": 6,
+        "unit": "129 kr per mån",
         "productId": "203215",
         "campaignId": "11378",
-        "offerLength": 3,
+        "offerLength": 6,
         "lengthUnit": "månader"
       }
     }
