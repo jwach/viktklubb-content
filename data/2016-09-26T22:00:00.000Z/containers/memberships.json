@@ -27,22 +27,19 @@
       "type": "special-offering",
       "order": 2,
       "props": {
-        "discreet": true,
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "Populärast",
           "cta": "Välj",
-          "offer": "special-offer",
-          "fontSize": "4",
-          "ctaAdd": ""
+          "offer": "special-offer"
         },
         "monthly": [
           {
-            "sticker": "Kickstart!",
+            "sticker": "Kickstart",
             "cta": "Välj",
             "offer": "three-months-monthly"
           },
           {
-            "sticker": "Billigast!",
+            "sticker": "Billigast",
             "cta": "Välj",
             "offer": "twelve-months-monthly"
           }
@@ -71,7 +68,8 @@
       "props": {
         "label": "Allt detta ingår",
         "align": "center",
-        "strength": 2
+        "strength": 2,
+        "cssClass": "section-header"
       }
     },
     {
