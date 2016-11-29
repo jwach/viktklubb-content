@@ -2,8 +2,7 @@
   "props": {
     "shadowBox": false,
     "width": "single",
-    "margin": true,
-    "backgroundImage": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23974376.ab/BINARY/Torskgryta_Blimedlem.jpg"
+    "margin": true
   },
   "items": [
     {
@@ -13,7 +12,8 @@
         "label": "Börja ditt hälsosamma liv idag!",
         "align": "center",
         "strength": 2,
-        "cssClass": "with-bg-image"
+        "cssClass": "with-bg-image",
+        "backgroundImage": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23974376.ab/BINARY/Torskgryta_Blimedlem.jpg"
       }
     },
     {
