@@ -12,7 +12,7 @@
         "label": "Börja ditt hälsosamma liv idag!",
         "align": "center",
         "strength": 2,
-        "cssClass": "with-bg-image",
+        "cssClass": "bg-image-header",
         "backgroundImage": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23974376.ab/BINARY/Torskgryta_Blimedlem.jpg"
       }
     },
