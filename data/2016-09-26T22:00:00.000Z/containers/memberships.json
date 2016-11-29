@@ -62,7 +62,8 @@
       "props": {
         "label": "Ett samarbete med Karolinska Institutet",
         "align": "center",
-        "strength": 2
+        "strength": 2,
+        "cssClass": "small-header"
       }
     },
     {
@@ -78,7 +79,8 @@
       "props": {
         "label": "Visste du att viktklubb täcks av friskvårdsbidraget?",
         "align": "center",
-        "strength": 2
+        "strength": 2,
+        "cssClass": "colored-bg-header"
       }
     },
     {
