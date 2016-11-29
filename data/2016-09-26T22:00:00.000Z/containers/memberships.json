@@ -84,7 +84,16 @@
       "type": "header",
       "order": 5,
       "props": {
-        "label": "Allt detta ingår",
+        "label": "Visste du att viktklubb täcks av friskvårdsbidraget?",
+        "align": "center",
+        "strength": 2
+      }
+    },
+    {
+      "type": "header",
+      "order": 6,
+      "props": {
+        "label": "Gå ner i vikt med:",
         "align": "center",
         "strength": 2,
         "cssClass": "section-header"
@@ -92,23 +101,18 @@
     },
     {
       "type": "list-element",
-      "order": 6,
+      "order": 7,
       "props": {
         "items": [
-          "1000+ hälsosamma recept",
-          "Digital loggbok för kost & träning",
-          "Personlig motivationsprogram",
-          "Följ din utvecklingskurva",
-          "Individuell kostplan",
-          "Hundratals artiklar om mat, hälsa & träning",
-          "Experter inom mat, motion och motivation",
-          "Stöd av andra medlemmar i vårt digitala forum"
+          "1000+ goda & hälsosamma recept",
+          "Loggbok för mat & motion",
+          "Stöd från experter & medlemmar"
         ]
       }
     },
     {
       "type": "disclaimer-footer",
-      "order": 7,
+      "order": 8,
       "props": {
         "safetyNote": "Betala säkert",
         "disclaimer": ""
