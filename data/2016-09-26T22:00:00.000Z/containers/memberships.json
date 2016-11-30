@@ -70,7 +70,7 @@
       "type": "paragraf",
       "order": 3,
       "props": {
-        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över en halv miljon medlemmar att skaffa en hälsosammare livsstil och gå ner i vikt. Du kan räkna med oss!"
+        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil."
       }
     },
     {
@@ -84,29 +84,8 @@
       }
     },
     {
-      "type": "header",
-      "order": 5,
-      "props": {
-        "label": "Gå ner i vikt med:",
-        "align": "center",
-        "strength": 2,
-        "cssClass": "section-header"
-      }
-    },
-    {
-      "type": "list-element",
-      "order": 6,
-      "props": {
-        "items": [
-          "1000+ goda & hälsosamma recept",
-          "Loggbok för mat & motion",
-          "Stöd från experter & medlemmar"
-        ]
-      }
-    },
-    {
       "type": "disclaimer-footer",
-      "order": 7,
+      "order": 5,
       "props": {
         "safetyNote": "Betala säkert",
         "disclaimer": ""
