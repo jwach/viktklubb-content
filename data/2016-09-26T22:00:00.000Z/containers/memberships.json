@@ -63,15 +63,14 @@
         "label": "Ett samarbete med Karolinska Institutet",
         "align": "center",
         "strength": 2,
-        "cssClass": "small-header col-xs-12 col-sm-6 col-sm-offset-3"
+        "cssClass": "small-header"
       }
     },
     {
       "type": "paragraf",
       "order": 3,
       "props": {
-        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över en halv miljon medlemmar att skaffa en hälsosammare livsstil och gå ner i vikt. Du kan räkna med oss!",
-        "cssClass": "col-xs-12 col-sm-6 col-sm-offset-3"
+        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över en halv miljon medlemmar att skaffa en hälsosammare livsstil och gå ner i vikt. Du kan räkna med oss!"
       }
     },
     {
