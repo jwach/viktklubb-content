@@ -24,15 +24,7 @@
         "special": {
           "sticker": "Populärast",
           "cta": "Välj",
-          "offer": "special-offer",
-          "stickerImage": {
-            "imageId": "24002935",
-            "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24002935.ab/BINARY/Splash_stegraknare_jan2017.png"
-            },
-            "alt": "offer-sticker",
-            "format": "binary"
-          }
+          "offer": "special-offer"
         },
         "monthly": [
           {
@@ -43,15 +35,7 @@
           {
             "sticker": "Billigast",
             "cta": "Välj",
-            "offer": "twelve-months-monthly",
-            "stickerImage": {
-              "imageId": "24002935",
-              "sources": {
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24002935.ab/BINARY/Splash_stegraknare_jan2017.png"
-              },
-              "alt": "offer-sticker",
-              "format": "binary"
-            }
+            "offer": "twelve-months-monthly"
           }
         ]
       }
