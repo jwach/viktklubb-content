@@ -9,18 +9,18 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Idag börjar ditt hälsosamma liv!",
+        "label": "Börja ditt hälsosamma liv idag!",
+        "sublabel": "Du har viljan – vi har resten",
         "align": "center",
-        "strength": 2
+        "strength": 2,
+        "cssClass": "bg-image-header",
+        "backgroundImage": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24014474.ab/BINARY/Blimedlem-background-2.jpg"
       }
     },
     {
       "type": "special-offering",
       "order": 1,
       "props": {
-        "discreet": true,
-        "selectedType": "monthly",
-        "hideTypeSwitch": true,
         "monthly": [
           {
             "sticker": "Populärast!",
@@ -28,64 +28,50 @@
             "offer": "six-months-monthly"
           },
           {
-            "sticker": "Billigast!",
+            "sticker": "Billigast",
             "cta": "Välj",
             "offer": "twelve-months-monthly"
-          }
-        ],
-        "total": [
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "twelve-months-upfront"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "six-months-upfront"
-          },
-          {
-            "sticker": "",
-            "cta": "Välj",
-            "offer": "three-months-upfront"
           }
         ],
         "special": {
           "sticker": "Kickstart!",
           "cta": "Välj",
-          "offer": "special-offer",
-          "fontSize": "4",
-          "ctaAdd": ""
-        },
-        "subHeader": ""
+          "offer": "special-offer"
+        }      }
+    },
+    {
+      "type": "header",
+      "order": 2,
+      "props": {
+        "label": "Ett samarbete med Karolinska Institutet",
+        "align": "center",
+        "strength": 2,
+        "cssClass": "small-header"
       }
     },
     {
-      "type": "features",
-      "order": 2,
+      "type": "paragraf",
+      "order": 3,
       "props": {
-        "items": [
-          "Viktminskningsplan anpassad för Dig",
-          "Logga det du äter och din träning — vi håller koll på resten",
-          "Tjänsten är utvecklad i samarbete med Karolinska Institutet"
-        ]
+        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil."
+      }
+    },
+    {
+      "type": "header",
+      "order": 4,
+      "props": {
+        "label": "Visste du att viktklubb täcks av friskvårdsbidraget?",
+        "align": "center",
+        "strength": 2,
+        "cssClass": "colored-bg-header"
       }
     },
     {
       "type": "disclaimer-footer",
-      "order": 3,
+      "order": 5,
       "props": {
         "safetyNote": "Betala säkert",
         "disclaimer": ""
-      }
-    },
-    {
-      "type": "text-element",
-      "order": "0.1",
-      "props": {
-        "label": "Du har viljan — Vi har resten",
-        "align": "center",
-        "fontSize": "20"
       }
     }
   ]

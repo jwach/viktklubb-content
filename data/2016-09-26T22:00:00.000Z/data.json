@@ -7,19 +7,22 @@
     "offers": {
       "three-months-monthly": {
         "months": 3,
-        "unit": "149 kr per mån",
+        "price": 149,
+        "unit": "månad",
         "productId": "203215",
         "campaignId": "11378"
       },
       "six-months-monthly": {
         "months": 6,
-        "unit": "129 kr per mån",
+        "price": 129,
+        "unit": "månad",
         "productId": "203216",
         "campaignId": "11378"
       },
       "twelve-months-monthly": {
         "months": 12,
-        "unit": "99 kr per månad",
+        "price": 99,
+        "unit": "månad",
         "productId": "203274",
         "campaignId": "11378"
       },
@@ -46,7 +49,8 @@
       },
       "special-offer": {
         "months": 3,
-        "unit": "149 kr per mån",
+        "price": 149,
+        "unit": "månad",
         "productId": "203215",
         "campaignId": "11378",
         "offerLength": 3,
