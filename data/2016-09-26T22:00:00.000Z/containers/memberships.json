@@ -21,24 +21,23 @@
       "type": "special-offering",
       "order": 1,
       "props": {
-        "special": {
-          "sticker": "Populärast",
-          "cta": "Välj",
-          "offer": "special-offer"
-        },
         "monthly": [
           {
-            "sticker": "Kickstart",
+            "sticker": "Populärast!",
             "cta": "Välj",
-            "offer": "three-months-monthly"
+            "offer": "six-months-monthly"
           },
           {
             "sticker": "Billigast",
             "cta": "Välj",
             "offer": "twelve-months-monthly"
           }
-        ]
-      }
+        ],
+        "special": {
+          "sticker": "Kickstart!",
+          "cta": "Välj",
+          "offer": "special-offer"
+        }      }
     },
     {
       "type": "header",

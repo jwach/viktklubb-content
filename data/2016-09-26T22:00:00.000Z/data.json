@@ -48,12 +48,12 @@
         "campaignId": "11244"
       },
       "special-offer": {
-        "months": 6,
-        "price": 129,
+        "months": 3,
+        "price": 149,
         "unit": "månad",
         "productId": "203215",
         "campaignId": "11378",
-        "offerLength": 6,
+        "offerLength": 3,
         "lengthUnit": "månader"
       }
     }
