@@ -49,12 +49,12 @@
       },
       "special-offer": {
         "months": 6,
-        "price": 534,
-        "unit": "kr",
-        "offerLength": 6,
-        "lengthUnit": "månader",
+        "price": 129,
+        "unit": "månad",
         "productId": "200073",
-        "campaignId": "12"
+        "campaignId": "12",
+        "offerLength": 6,
+        "lengthUnit": "månader"
       }
     }
   } }
