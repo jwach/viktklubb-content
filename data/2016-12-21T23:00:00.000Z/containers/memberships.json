@@ -23,9 +23,9 @@
       "props": {
         "monthly": [
           {
-            "sticker": "Populärast!",
+            "sticker": "Kickstart!",
             "cta": "Välj",
-            "offer": "six-months-monthly"
+            "offer": "three-months-monthly"
           },
           {
             "sticker": "Billigast",
@@ -34,7 +34,7 @@
           }
         ],
         "special": {
-          "sticker": "Kickstart!",
+          "sticker": "Populärast!",
           "cta": "Välj",
           "offer": "special-offer"
         }      }
