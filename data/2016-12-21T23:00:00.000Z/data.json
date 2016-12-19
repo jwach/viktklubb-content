@@ -10,7 +10,7 @@
         "price": 149,
         "unit": "månad",
         "productId": "203215",
-        "campaignId": "11378"
+        "campaignId": "11467"
       },
       "six-months-monthly": {
         "months": 6,
@@ -23,8 +23,8 @@
         "months": 12,
         "price": 99,
         "unit": "månad",
-        "productId": "203274",
-        "campaignId": "11378"
+        "productId": "203501",
+        "campaignId": "11467"
       },
       "three-months-upfront": {
         "months": 3,
