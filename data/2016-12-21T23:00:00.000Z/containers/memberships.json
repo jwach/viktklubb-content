@@ -26,9 +26,9 @@
           "cta": "Välj",
           "offer": "special-offer",
           "stickerImage": {
-            "imageId": "24024182",
+            "imageId": "24120877",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24024182.ab/BINARY/Splash-v1-compressed.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24120877.ab/BINARY/Splash-v3-compressed.png"
             },
             "alt": "offer-sticker",
             "format": "binary"
@@ -45,9 +45,9 @@
             "cta": "Välj",
             "offer": "twelve-months-monthly",
             "stickerImage": {
-              "imageId": "24024182",
+              "imageId": "24120877",
               "sources": {
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24024182.ab/BINARY/Splash-v1-compressed.png"
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24120877.ab/BINARY/Splash-v3-compressed.png"
               },
               "alt": "offer-sticker",
               "format": "binary"
