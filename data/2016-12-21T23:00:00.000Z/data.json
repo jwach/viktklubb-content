@@ -79,7 +79,7 @@
     "bmi": {
       "containers": [
         "bmi-calc",
-        "all-features"
+        "vk-features"
       ]
     },
 
