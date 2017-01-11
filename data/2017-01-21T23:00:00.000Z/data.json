@@ -90,6 +90,7 @@
     },
     "article-bottom-ad": {
       "containers": [
+        "bmi-calc"
       ]
     },
     "article-bmi": {
