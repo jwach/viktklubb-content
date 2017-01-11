@@ -85,11 +85,11 @@
 
     "article-top-ad": {
       "containers": [
+        "offer"
       ]
     },
     "article-bottom-ad": {
       "containers": [
-        "offer"
       ]
     },
     "article-bmi": {
