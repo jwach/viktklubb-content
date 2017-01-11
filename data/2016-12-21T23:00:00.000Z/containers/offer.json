@@ -44,6 +44,10 @@
       "type": "cta-element",
       "order": "3",
       "props": {
+        "timer": {
+          "text": "Erbjudandet går ut om:",
+          "endDate": "2017-01-12T22:00+00:00"
+        },
         "label": "Börja nu"
       }
     },
