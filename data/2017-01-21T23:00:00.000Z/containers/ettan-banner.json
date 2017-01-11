@@ -1,0 +1,64 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "timer": {
+          "text": "Erbjudandet går ut om:",
+          "endDate": "2017-01-23T23:00:00.000Z",
+          "cssClass": "countdown-timer-add-top-spacing"
+        },
+        "primaryImage": {
+          "desktop" : {
+            "imageId": "24226354",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24226354.ab/BINARY/Helen-1month+Stepcounter-desktop.png"
+            },
+            "alt": "Helen",
+            "format": "binary"
+          },
+          "tablet": {
+            "imageId": "24226354",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24226354.ab/BINARY/Helen-1month+Stepcounter-desktop.png"
+            },
+            "alt": "Helen",
+            "format": "binary"
+          },
+          "mobile": {
+            "imageId": "24226366",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24226366.ab/BINARY/Helen-1month+Stepcounter-mobile.png"
+            },
+            "alt": "Helen",
+            "format": "binary"
+          }
+        },
+        "backgroundImage": {
+          "imageId": "24029822",
+          "sources": {
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24029822.ab/BINARY/bck-leaves.jpg"
+          },
+          "alt": "Campaign-background",
+          "format": "binary"
+        },
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "header": "Gå ner i vikt snabbt och enkelt",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Börja idag!",
+        "ctaFootnote": "*Gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 28 feb 2017",
+        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska institutet"
+      }
+    }
+  ]
+}
