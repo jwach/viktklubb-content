@@ -11,12 +11,6 @@
       "props": {
         "experts": [
           {
-            "image": "sofia",
-            "title": "Sofia",
-            "tag": "Redaktör",
-            "body": "Som redaktör är det mitt jobb att hålla koll på den senaste utvecklingen inom kost, hälsa och träning. Jag ser fram emot att följa din personliga utveckling och lovar att skicka de senaste tipsen som hjälp på vägen."
-          },
-          {
             "image": "shirin",
             "title": "Shirin",
             "tag": "Personlig tränare",
