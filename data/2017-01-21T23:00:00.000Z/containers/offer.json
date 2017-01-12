@@ -20,9 +20,9 @@
       "type": "image-element",
       "order": "1",
       "props": {
-        "imageId": "24237523",
+        "imageId": "24237690",
         "sources": {
-          "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24237523.ab/BINARY/splash_1kr_stegraknare_rak.png"
+          "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24237690.ab/BINARY/splash_1kr_stegraknare.png"
         },
         "alt": "Stegräknare på köpet",
         "format": "binary"
