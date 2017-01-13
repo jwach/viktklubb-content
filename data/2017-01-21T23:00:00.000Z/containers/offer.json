@@ -11,33 +11,18 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "Gå ner i vikt snabbt och enkelt med Viktklubb!",
-        "strength": 2,
+        "label": "Just nu på Viktklubb!",
+        "strength": 1,
         "align": "center"
       }
     },
     {
-      "type": "image-element",
+      "type": "header",
       "order": "1",
       "props": {
-        "imageId": "24237690",
-        "sources": {
-          "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24237690.ab/BINARY/splash_1_stegraknare.png"
-        },
-        "alt": "Stegräknare på köpet",
-        "format": "binary"
-      }
-    },
-    {
-      "type": "list-element",
-      "order": "2",
-      "props": {
-        "glyphicon": "ok-sign",
-        "items": [
-          "Massor med nyttiga recept",
-          "Logga enkelt mat och träning via app eller webb",
-          "Följ din personliga utveckling"
-        ]
+        "label": "1 kr första månaden + stegräknare på köpet*",
+        "strength": 2,
+        "align": "center"
       }
     },
     {
@@ -55,7 +40,7 @@
       "type": "paragraf",
       "order": "4",
       "props": {
-        "text": "*värde 99 kr. Erbjudandet gäller vid tecknande av medlemskap på 6 respektive 12 månader t.o.m. 28/2 2017"
+        "text": "*värde upp till 227 kr. Gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 23 januari 2017"
       }
     }
   ]
