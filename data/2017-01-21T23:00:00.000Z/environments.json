@@ -22,7 +22,7 @@
       "twelve-months-monthly": {
         "months": 12,
         "price": 99,
-        "offerPrice": 1,
+        "offerPrice": "1 kr",
         "priceInfo": "första månaden, därefter 99 kr/månad",
         "productId": "10024",
         "campaignId": "11"
@@ -51,7 +51,7 @@
       "special-offer": {
         "months": 6,
         "price": 129,
-        "offerPrice": 1,
+        "offerPrice": "1 kr",
         "priceInfo": "första månaden, därefter 129 kr/månad",
         "productId": "200073",
         "campaignId": "12"
