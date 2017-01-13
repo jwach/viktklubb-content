@@ -21,7 +21,7 @@
       "order": "1",
       "props": {
         "label": "1 kr första månaden + stegräknare på köpet*",
-        "strength": 2,
+        "strength": 3,
         "align": "center"
       }
     },
