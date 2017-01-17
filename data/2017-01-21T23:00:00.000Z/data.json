@@ -85,7 +85,6 @@
 
     "article-top-ad": {
       "containers": [
-        "offer"
       ]
     },
     "article-bottom-ad": {
@@ -100,6 +99,7 @@
     },
     "article-pitch": {
       "containers": [
+        "pitch"
       ]
     },
     "article-offer": {
