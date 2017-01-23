@@ -20,8 +20,7 @@
       "type": "cta-element",
       "order": "1",
       "props": {
-        "label": "Bli medlem nu",
-        "href": "/blimedlem"
+        "label": "Bli medlem nu"
       }
     },
     {
