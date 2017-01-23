@@ -1,0 +1,35 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false,
+    "background": "primary1"
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Första månaden – 1 kr*",
+        "strength": 2,
+        "align": "center"
+      }
+    },
+    {
+      "type": "cta-element",
+      "order": "1",
+      "props": {
+        "label": "Bli medlem nu",
+        "href": "/blimedlem"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": "2",
+      "props": {
+        "text": "*gäller våra medlemskap på 6 mån och 12 mån."
+      }
+    }
+  ]
+}
