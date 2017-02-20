@@ -1,0 +1,58 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "primaryImage": {
+          "desktop" : {
+            "imageId": "23978415",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23978415.ab/BINARY/Helen-without-bubble-compressed.png"
+            },
+            "alt": "Helen",
+            "format": "binary"
+          },
+          "tablet": {
+            "imageId": "23978415",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23978415.ab/BINARY/Helen-without-bubble-compressed.png"
+            },
+            "alt": "Helen",
+            "format": "binary"
+          },
+          "mobile": {
+            "imageId": "23978415",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23978415.ab/BINARY/Helen-without-bubble-compressed.png"
+            },
+            "alt": "Helen",
+            "format": "binary"
+          }
+        },
+        "backgroundImage": {
+          "imageId": "24029822",
+          "sources": {
+            "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24029822.ab/BINARY/bck-leaves.jpg"
+          },
+          "alt": "Campaign-background",
+          "format": "binary"
+        },
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "header": "Gå ner i vikt snabbt och enkelt",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Börja idag!",
+        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska institutet"
+      }
+    }
+  ]
+}
