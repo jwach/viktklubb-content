@@ -25,11 +25,11 @@
           "cta": "Välj",
           "offer": "special-offer",
           "stickerImage": {
-            "imageId": "24670363",
+            "imageId": "24670437",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24670363.ab/BINARY/traningsbandpakopet.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24670437.ab/BINARY/traningsband.png"
             },
-            "alt": "Träningsband på köpet (värde 99 kr)",
+            "alt": "Träningsband på köpet",
             "format": "binary"
           }
         },
@@ -44,11 +44,11 @@
             "cta": "Välj",
             "offer": "twelve-months-monthly",
             "stickerImage": {
-              "imageId": "24670363",
+              "imageId": "24670437",
               "sources": {
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24670363.ab/BINARY/traningsbandpakopet.png"
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24670437.ab/BINARY/traningsband.png"
               },
-              "alt": "Träningsband på köpet (värde 99 kr)",
+              "alt": "Träningsband på köpet",
               "format": "binary"
             }
           }
