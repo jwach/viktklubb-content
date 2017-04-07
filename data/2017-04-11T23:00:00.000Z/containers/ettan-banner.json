@@ -11,31 +11,31 @@
       "props": {
         "primaryImage": {
           "desktop" : {
-            "imageId": "24670153",
+            "imageId": "24677521",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24670153.ab/BINARY/Leila-gradient-bubble-cp.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24677521.ab/BINARY/Leila-with-gradient-cp.png"
             },
             "alt": "Leila Söderholm, träningsband på köpet",
             "format": "binary"
           },
           "tablet": {
-            "imageId": "24670153",
+            "imageId": "24681218",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24670153.ab/BINARY/Leila-gradient-bubble-cp.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24681218.ab/BINARY/Leila with gradient-tablet-cp.png"
             },
             "alt": "Leila Söderholm, träningsband på köpet",
             "format": "binary"
           },
           "mobile": {
-            "imageId": "24670153",
+            "imageId": "24681218",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24670153.ab/BINARY/Leila-gradient-bubble-cp.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24681218.ab/BINARY/Leila with gradient-tablet-cp.png"
             },
             "alt": "Leila Söderholm, träningsband på köpet",
             "format": "binary"
           }
         },
-        "backgroundColor": "#4289AB",
+        "backgroundColor": "#519EC1",
         "bulletList": [
           "Vanlig, fräsch och nyttig mat",
           "Stöd från experter och medlemmar",
