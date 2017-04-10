@@ -11,27 +11,27 @@
       "props": {
         "primaryImage": {
           "desktop" : {
-            "imageId": "24677521",
+            "imageId": "24695899",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24677521.ab/BINARY/Leila-with-gradient-cp.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695899.ab/BINARY/Leila-gradient-name-cp.png"
             },
-            "alt": "Leila Söderholm, träningsband på köpet",
+            "alt": "Leila Söderholm, träningsexpert",
             "format": "binary"
           },
           "tablet": {
-            "imageId": "24681218",
+            "imageId": "24695947",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24681218.ab/BINARY/Leila with gradient-tablet-cp.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695947.ab/BINARY/Leila-gradient-name-tablet-cp.png"
             },
-            "alt": "Leila Söderholm, träningsband på köpet",
+            "alt": "Leila Söderholm, träningsexpert",
             "format": "binary"
           },
           "mobile": {
-            "imageId": "24681218",
+            "imageId": "24695947",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24681218.ab/BINARY/Leila with gradient-tablet-cp.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695947.ab/BINARY/Leila-gradient-name-tablet-cp.png"
             },
-            "alt": "Leila Söderholm, träningsband på köpet",
+            "alt": "Leila Söderholm, träningsexpert",
             "format": "binary"
           }
         },

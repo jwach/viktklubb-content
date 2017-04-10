@@ -20,7 +20,7 @@
       "type": "header",
       "order": "1",
       "props": {
-        "label": "1 kr första månaden + stegräknare på köpet*",
+        "label": "Gummiband på köpet*",
         "strength": 2,
         "align": "center"
       }
@@ -31,7 +31,7 @@
       "props": {
         "timer": {
           "text": "Erbjudandet går ut om:",
-          "endDate": "2017-01-23T23:00:00.000Z"
+          "endDate": "2017-05-31T23:00:00.000Z"
         },
         "label": "Börja nu"
       }
@@ -40,7 +40,7 @@
       "type": "paragraf",
       "order": "4",
       "props": {
-        "text": "*värde upp till 227 kr. Gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 23 januari 2017"
+        "text": "*värde 99 kr. Gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 31 maj 2017"
       }
     }
   ]
