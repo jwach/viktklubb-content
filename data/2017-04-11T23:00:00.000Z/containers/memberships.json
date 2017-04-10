@@ -25,11 +25,11 @@
           "cta": "Välj",
           "offer": "special-offer",
           "stickerImage": {
-            "imageId": "24670437",
+            "imageId": "24695880",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24670437.ab/BINARY/traningsband.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695880.ab/BINARY/gummiband.png"
             },
-            "alt": "Träningsband på köpet",
+            "alt": "Gummiband på köpet, värde 99 kr",
             "format": "binary"
           }
         },
@@ -44,11 +44,11 @@
             "cta": "Välj",
             "offer": "twelve-months-monthly",
             "stickerImage": {
-              "imageId": "24670437",
+              "imageId": "24695880",
               "sources": {
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24670437.ab/BINARY/traningsband.png"
+                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695880.ab/BINARY/gummiband.png"
               },
-              "alt": "Träningsband på köpet",
+              "alt": "Gummiband på köpet, värde 99 kr",
               "format": "binary"
             }
           }
