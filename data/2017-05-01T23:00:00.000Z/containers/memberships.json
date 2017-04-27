@@ -21,36 +21,28 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "BARA IDAG! Halva priset",
           "cta": "Välj",
           "offer": "special-offer",
           "stickerImage": {
-            "imageId": "24695880",
+            "imageId": "24781349",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695880.ab/BINARY/gummiband.png"
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695880.ab/BINARY/halva_priset_birthday.png"
             },
-            "alt": "Gummiband på köpet, värde 99 kr",
+            "alt": "Bara idag! 3 månader till halva priset",
             "format": "binary"
           }
         },
         "monthly": [
           {
-            "sticker": "Kickstart!",
+            "sticker": "Populärast!",
             "cta": "Välj",
-            "offer": "three-months-monthly"
+            "offer": "six-months-monthly"
           },
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly",
-            "stickerImage": {
-              "imageId": "24695880",
-              "sources": {
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695880.ab/BINARY/gummiband.png"
-              },
-              "alt": "Gummiband på köpet, värde 99 kr",
-              "format": "binary"
-            }
+            "offer": "twelve-months-monthly"
           }
         ]
       }
@@ -86,7 +78,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "*Erbjudandet gäller vid tecknande av minst 6 månaders medlemskap t.o.m. 2017-05-31. I samarbete med sanctbandactive.com. <a href=\"http://viktklubb.aftonbladet.se/kampanj/artikel/24675724\">Läs mer här  >></a>"
+        "text": "*3 månader till halva priset: Erbjudandet gäller bara idag, tisdagen den 2 maj 2017. 3 månader för endast 224 kr (ord pris 447 kr). Därefter 149 kr/månad tills uppsägning. **Gummiband: Erbjudandet gäller vid tecknande av minst 6 månaders medlemskap t.o.m. 2017-05-31. I samarbete med sanctbandactive.com. <a href=\"http://viktklubb.aftonbladet.se/kampanj/artikel/24675724\">Läs mer här >></a>"
       }
     },
     {

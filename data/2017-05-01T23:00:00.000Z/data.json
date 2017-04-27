@@ -15,14 +15,14 @@
       "six-months-monthly": {
         "months": 6,
         "price": 129,
-        "unit": "månad",
-        "productId": "203216",
-        "campaignId": "11378"
+        "unit": "månad**",
+        "productId": "203529",
+        "campaignId": "11600"
       },
       "twelve-months-monthly": {
         "months": 12,
         "price": 99,
-        "unit": "månad",
+        "unit": "månad**",
         "productId": "203530",
         "campaignId": "11600"
       },
@@ -48,12 +48,12 @@
         "campaignId": "11244"
       },
       "special-offer": {
-        "months": 6,
-        "price": 129,
-        "unit": "månad",
-        "productId": "203529",
-        "campaignId": "11600",
-        "offerLength": 6,
+        "months": 3,
+        "price": 224,
+        "unit": "(ord pris 447 kr)*",
+        "productId": "203219",
+        "campaignId": "11618",
+        "offerLength": 3,
         "lengthUnit": "månader"
       }
     }
