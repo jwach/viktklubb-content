@@ -1,0 +1,52 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "primaryImage": {
+          "desktop" : {
+            "imageId": "24695899",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695899.ab/BINARY/Leila-gradient-name-cp.png"
+            },
+            "alt": "Leila Söderholm, träningsexpert",
+            "format": "binary"
+          },
+          "tablet": {
+            "imageId": "24695947",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695947.ab/BINARY/Leila-gradient-name-tablet-cp.png"
+            },
+            "alt": "Leila Söderholm, träningsexpert",
+            "format": "binary"
+          },
+          "mobile": {
+            "imageId": "24695947",
+            "sources": {
+              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695947.ab/BINARY/Leila-gradient-name-tablet-cp.png"
+            },
+            "alt": "Leila Söderholm, träningsexpert",
+            "format": "binary"
+          }
+        },
+        "backgroundColor": "#519EC1",
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Loggboken håller koll på kalorierna",
+          "NYHET! Gummibandsträning med Leila"
+        ],
+        "header": "Gå ner i vikt snabbt och enkelt",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Börja idag!",
+        "ctaFootnote": "*Gäller vid tecknande av minst 6 månaders medlemskap t.o.m. 2017-05-31. I samarbete med sanctbandactive.com.",
+        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska institutet."
+      }
+    }
+  ]
+}

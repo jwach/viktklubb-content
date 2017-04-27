@@ -1,0 +1,48 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false,
+    "background": "gray3"
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": "0",
+      "props": {
+        "label": "ERBJUDANDE!",
+        "strength": 1,
+        "align": "center"
+      }
+    },
+    {
+      "type": "header",
+      "order": "0",
+      "props": {
+        "label": "Bara idag – 3 månader till halva priset",
+        "sublabel": "Viktklubb fyller 14 år och det firar vi med ett riktigt kalaserbjudande – 3 månader för endast 224 kr (ord pris 447 kr)*",
+        "strength": 2,
+        "align": "center"
+      }
+    },
+    {
+      "type": "cta-element",
+      "order": "1",
+      "props": {
+        "timer": {
+          "text": "Erbjudandet går ut om:",
+          "endDate": "2017-05-02T23:00:00.000Z"
+        },
+        "label": "Börja nu"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": "2",
+      "props": {
+        "text": ""
+      }
+    }
+  ]
+}
