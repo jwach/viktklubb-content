@@ -21,7 +21,7 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "BARA IDAG! Halva priset",
+          "sticker": "ERBJUDANDE!",
           "cta": "Välj",
           "offer": "special-offer",
           "stickerImage": {
