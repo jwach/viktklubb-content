@@ -13,7 +13,7 @@
         "sublabel": "Du har viljan – vi har resten",
         "strength": 2,
         "cssClass": "bg-image-header",
-        "backgroundImage": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24014474.ab/BINARY/Blimedlem-background-2.jpg"
+        "backgroundImage": "http://images.contentful.com/aa1ihitfvo88/3qZbYTX2lyEOM0sa62YISM/5db5a0b6f139d355d1155abb5894bccb/Blimedlem-background-2.jpg"
       }
     },
     {
@@ -27,7 +27,7 @@
           "stickerImage": {
             "imageId": "24695880",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695880.ab/BINARY/gummiband.png"
+              "binary": "http://images.contentful.com/aa1ihitfvo88/5PDnrbr6nu8ycIw04giYks/50801015c692c37aa42a159000e9b620/gummiband.png"
             },
             "alt": "Gummiband på köpet, värde 99 kr",
             "format": "binary"
@@ -46,7 +46,7 @@
             "stickerImage": {
               "imageId": "24695880",
               "sources": {
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695880.ab/BINARY/gummiband.png"
+                "binary": "http://images.contentful.com/aa1ihitfvo88/5PDnrbr6nu8ycIw04giYks/50801015c692c37aa42a159000e9b620/gummiband.png"
               },
               "alt": "Gummiband på köpet, värde 99 kr",
               "format": "binary"

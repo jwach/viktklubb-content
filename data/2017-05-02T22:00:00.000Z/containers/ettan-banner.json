@@ -13,7 +13,7 @@
           "desktop" : {
             "imageId": "24695899",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695899.ab/BINARY/Leila-gradient-name-cp.png"
+              "binary": "http://images.contentful.com/aa1ihitfvo88/S3XdTt1jAiacM2aQkAweo/132323914dff75e4e485f6faa980ea1e/Leila-gradient-name-cp.png"
             },
             "alt": "Leila Söderholm, träningsexpert",
             "format": "binary"
@@ -21,7 +21,7 @@
           "tablet": {
             "imageId": "24695947",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695947.ab/BINARY/Leila-gradient-name-tablet-cp.png"
+              "binary": "http://images.contentful.com/aa1ihitfvo88/5LFXVg5sdiUKC0QOGyiAgW/aedafc7e676dca7dace6d9148a083cfa/Leila-gradient-name-tablet-cp.png"
             },
             "alt": "Leila Söderholm, träningsexpert",
             "format": "binary"
@@ -29,7 +29,7 @@
           "mobile": {
             "imageId": "24695947",
             "sources": {
-              "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article24695947.ab/BINARY/Leila-gradient-name-tablet-cp.png"
+              "binary": "http://images.contentful.com/aa1ihitfvo88/5LFXVg5sdiUKC0QOGyiAgW/aedafc7e676dca7dace6d9148a083cfa/Leila-gradient-name-tablet-cp.png"
             },
             "alt": "Leila Söderholm, träningsexpert",
             "format": "binary"

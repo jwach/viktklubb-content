@@ -20,7 +20,7 @@
             "image": {
               "imageId": "23978481",
               "sources": {
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23978481.ab/BINARY/Logbook_Startpage_compressed.png"
+                "binary": "http://images.contentful.com/aa1ihitfvo88/5D7KMlamwoyIsas0YgmAce/f83321be137a18d72dd2d84d7890d6a4/Logbook_Startpage_compressed.png"
               },
               "alt": "Logbook Start Page",
               "format": "binary"
@@ -32,7 +32,7 @@
             "image": {
               "imageId": "23978488",
               "sources": {
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23978488.ab/BINARY/Reciepes_Startpage_compressed.png"
+                "binary": "http://images.contentful.com/aa1ihitfvo88/atJCk9pup2ImWemWsc86g/0e3a0e9e88f9ce8833171a8dc56d05b2/Reciepes_Startpage_compressed.png"
               },
               "alt": "Recipe Start Page",
               "format": "binary"
@@ -44,7 +44,7 @@
             "image": {
               "imageId": "23978490",
               "sources": {
-                "binary": "http://gfx.aftonbladet-cdn.se/viktklubb/saljsida/saljbilder/article23978490.ab/BINARY/DevGraph_Startpage_compressed.png"
+                "binary": "http://images.contentful.com/aa1ihitfvo88/7yeDdpeqooEUKMKmuMCw0K/a415344a2306109845b87248e43c6f23/DevGraph_Startpage_compressed.png"
               },
               "alt": "Development Graph Start Page",
               "format": "binary"
