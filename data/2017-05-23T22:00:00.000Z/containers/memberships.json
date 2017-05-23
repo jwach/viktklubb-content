@@ -1,0 +1,101 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "single",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Börja ditt hälsosamma liv idag!",
+        "sublabel": "Du har viljan – vi har resten",
+        "strength": 2,
+        "cssClass": "bg-image-header",
+        "backgroundImage": "http://images.contentful.com/aa1ihitfvo88/3qZbYTX2lyEOM0sa62YISM/5db5a0b6f139d355d1155abb5894bccb/Blimedlem-background-2.jpg"
+      }
+    },
+    {
+      "type": "special-offering",
+      "order": 1,
+      "props": {
+        "special": {
+          "sticker": "Populärast!",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "stickerImage": {
+            "imageId": "24884513",
+            "sources": {
+              "binary": "https://images.contentful.com/aa1ihitfvo88/L0DpYH2zwiM4YM2KWOA6g/3ac70b08b27059b1bbb9b7b58170889f/splash_1kr_gummiband.png"
+            },
+            "alt": "1 kr första månaden + gummiband på köpet*",
+            "format": "binary"
+          }
+        },
+        "monthly": [
+          {
+            "sticker": "Kickstart!",
+            "cta": "Välj",
+            "offer": "three-months-monthly"
+          },
+          {
+            "sticker": "Billigast!",
+            "cta": "Välj",
+            "offer": "twelve-months-monthly",
+            "stickerImage": {
+              "imageId": "24884513",
+              "sources": {
+                "binary": "https://images.contentful.com/aa1ihitfvo88/L0DpYH2zwiM4YM2KWOA6g/3ac70b08b27059b1bbb9b7b58170889f/splash_1kr_gummiband.png"
+              },
+              "alt": "1 kr första månaden + gummiband på köpet*",
+              "format": "binary"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "order": 2,
+      "props": {
+        "label": "Ett samarbete med Karolinska Institutet",
+        "align": "center",
+        "strength": 2,
+        "cssClass": "small-header"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 3,
+      "props": {
+        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil."
+      }
+    },
+    {
+      "type": "header",
+      "order": 4,
+      "props": {
+        "label": "Visste du att viktklubb täcks av friskvårdsbidraget?",
+        "align": "center",
+        "strength": 2,
+        "cssClass": "colored-bg-header"
+      }
+    },
+    {
+      "type": "htmlParagraf",
+      "order": 5,
+      "props": {
+        "text": "*1 kr första månaden (ord pris från 99 kr/månad) + gummiband på köpet (värde 99 kr), därefter ordinarie pris. Erbjudandet gäller vid tecknande av minst 6 månaders medlemskap t.o.m. 2017-05-31. I samarbete med sanctbandactive.com. <a href=\"http://viktklubb.aftonbladet.se/kampanj/artikel/24675724\">Läs mer här >></a>"
+      }
+    },
+    {
+      "type": "disclaimer-footer",
+      "order": 6,
+      "props": {
+        "safetyNote": "Betala säkert",
+        "disclaimer": ""
+      }
+    }
+  ]
+}
