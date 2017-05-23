@@ -10,7 +10,7 @@
         "price": 149,
         "unit": "månad",
         "productId": "203215",
-        "campaignId": "11600"
+        "campaignId": "11635"
       },
       "six-months-monthly": {
         "months": 6,
@@ -21,10 +21,10 @@
       },
       "twelve-months-monthly": {
         "months": 12,
-        "price": 99,
-        "unit": "månad",
-        "productId": "203530",
-        "campaignId": "11600"
+        "price": 1,
+        "unit": "första månaden",
+        "productId": "203543",
+        "campaignId": "11635"
       },
       "three-months-upfront": {
         "months": 3,
@@ -49,10 +49,10 @@
       },
       "special-offer": {
         "months": 6,
-        "price": 129,
-        "unit": "månad",
-        "productId": "203529",
-        "campaignId": "11600",
+        "price": 1,
+        "unit": "första månaden",
+        "productId": "203542",
+        "campaignId": "11635",
         "offerLength": 6,
         "lengthUnit": "månader"
       }

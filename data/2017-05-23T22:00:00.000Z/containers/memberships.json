@@ -25,11 +25,11 @@
           "cta": "Välj",
           "offer": "special-offer",
           "stickerImage": {
-            "imageId": "24695880",
+            "imageId": "24884513",
             "sources": {
-              "binary": "http://images.contentful.com/aa1ihitfvo88/5PDnrbr6nu8ycIw04giYks/50801015c692c37aa42a159000e9b620/gummiband.png"
+              "binary": "http://images.contentful.com/aa1ihitfvo88/5PDnrbr6nu8ycIw04giYks/50801015c692c37aa42a159000e9b620/splash_1kr_gummiband.png"
             },
-            "alt": "Gummiband på köpet, värde 99 kr",
+            "alt": "1 kr första månaden + gummiband på köpet*",
             "format": "binary"
           }
         },
@@ -44,11 +44,11 @@
             "cta": "Välj",
             "offer": "twelve-months-monthly",
             "stickerImage": {
-              "imageId": "24695880",
+              "imageId": "24884513",
               "sources": {
-                "binary": "http://images.contentful.com/aa1ihitfvo88/5PDnrbr6nu8ycIw04giYks/50801015c692c37aa42a159000e9b620/gummiband.png"
+                "binary": "http://images.contentful.com/aa1ihitfvo88/5PDnrbr6nu8ycIw04giYks/50801015c692c37aa42a159000e9b620/splash_1kr_gummiband.png"
               },
-              "alt": "Gummiband på köpet, värde 99 kr",
+              "alt": "1 kr första månaden + gummiband på köpet*",
               "format": "binary"
             }
           }
@@ -86,7 +86,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "*Erbjudandet gäller vid tecknande av minst 6 månaders medlemskap t.o.m. 2017-05-31. I samarbete med sanctbandactive.com. <a href=\"http://viktklubb.aftonbladet.se/kampanj/artikel/24675724\">Läs mer här  >></a>"
+        "text": "*1 kr första månaden (ord pris från 99 kr/månad) + gummiband på köpet (värde 99 kr), därefter ordinarie pris. Erbjudandet gäller vid tecknande av minst 6 månaders medlemskap t.o.m. 2017-05-31. I samarbete med sanctbandactive.com. <a href=\"http://viktklubb.aftonbladet.se/kampanj/artikel/24675724\">Läs mer här >></a>"
       }
     },
     {

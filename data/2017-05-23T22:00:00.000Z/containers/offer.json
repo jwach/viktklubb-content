@@ -11,7 +11,7 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "JUST NU! Gummiband på köpet*",
+        "label": "JUST NU! 1 kr första månaden + gummiband på köpet*",
         "strength": 1,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "*värde 99 kr. Gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 31 maj 2017"
+        "text": "*1 kr första månaden (ord pris från 99 kr/månad) + gummiband på köpet (värde 99 kr), därefter ordinarie pris. Gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 31 maj 2017"
       }
     }
   ]
