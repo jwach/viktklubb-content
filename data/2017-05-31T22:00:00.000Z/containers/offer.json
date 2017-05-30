@@ -11,7 +11,7 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "JUST NU! 1 kr första månaden + gummiband på köpet*",
+        "label": "JUST NU! Bli medlem i Viktklubb idag och få 50% rabatt*",
         "strength": 1,
         "align": "center"
       }
@@ -20,14 +20,14 @@
       "type": "cta-element",
       "order": "1",
       "props": {
-        "label": "Börja nu"
+        "label": "Börja nu!"
       }
     },
     {
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "*1 kr första månaden (ord pris från 99 kr/månad) + gummiband på köpet (värde 99 kr), därefter ordinarie pris. Gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 31 maj 2017"
+        "text": "*Erbjudandet gäller endast vid tecknande av 6 månaders medlemskap t.o.m. 8 juni 2017"
       }
     }
   ]

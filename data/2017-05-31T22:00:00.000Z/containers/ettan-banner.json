@@ -45,14 +45,14 @@
         },
         "bulletList": [
           "Vanlig, fräsch och nyttig mat",
-          "Loggboken håller koll på kalorierna",
-          "NYHET! Gummibandsträning med Leila"
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
         ],
         "header": "Gå ner i vikt snabbt och enkelt",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": "Börja idag!",
-        "ctaFootnote": "*Gäller vid tecknande av minst 6 månaders medlemskap t.o.m. 2017-05-31. I samarbete med sanctbandactive.com.",
-        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska institutet."
+        "ctaFootnote": "*Erbjudandet gäller endast vid tecknande av 6 månaders medlemskap t.o.m. 8 juni 2017",
+        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska institutet"
       }
     }
   ]

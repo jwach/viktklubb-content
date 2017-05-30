@@ -21,15 +21,15 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "Halva priset!*",
           "cta": "Välj",
           "offer": "special-offer",
           "stickerImage": {
-            "imageId": "24884513",
+            "imageId": "24908389",
             "sources": {
-              "binary": "https://images.contentful.com/aa1ihitfvo88/L0DpYH2zwiM4YM2KWOA6g/3ac70b08b27059b1bbb9b7b58170889f/splash_1kr_gummiband.png"
+              "binary": "http://images.contentful.com/8s9lban1fwf8/1mODebCY8A8sKqioKsW2WC/4019b90f94f7a57abb794932c519ff26/Offer20170601v1.png"
             },
-            "alt": "1 kr första månaden + gummiband på köpet*",
+            "alt": "Bli medlem i Viktklubb idag och få 50% rabatt*",
             "format": "binary"
           }
         },
@@ -42,15 +42,7 @@
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly",
-            "stickerImage": {
-              "imageId": "24884513",
-              "sources": {
-                "binary": "https://images.contentful.com/aa1ihitfvo88/L0DpYH2zwiM4YM2KWOA6g/3ac70b08b27059b1bbb9b7b58170889f/splash_1kr_gummiband.png"
-              },
-              "alt": "1 kr första månaden + gummiband på köpet*",
-              "format": "binary"
-            }
+            "offer": "twelve-months-monthly"
           }
         ]
       }
@@ -86,7 +78,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "*1 kr första månaden (ord pris från 99 kr/månad) + gummiband på köpet (värde 99 kr), därefter ordinarie pris. Erbjudandet gäller vid tecknande av minst 6 månaders medlemskap t.o.m. 2017-05-31. I samarbete med sanctbandactive.com. <a href=\"http://viktklubb.aftonbladet.se/kampanj/artikel/24675724\">Läs mer här >></a>"
+        "text": "*6 månader till halva priset: Erbjudandet gäller t.o.m. 8 juni 2017. 6 månader för endast 387 kr (ord pris 774 kr). Därefter 129 kr/månad tills uppsägning."
       }
     },
     {
