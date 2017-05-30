@@ -13,7 +13,7 @@
           "desktop" : {
             "imageId": "24695899",
             "sources": {
-              "binary": "http://images.contentful.com/aa1ihitfvo88/S3XdTt1jAiacM2aQkAweo/132323914dff75e4e485f6faa980ea1e/Leila-gradient-name-cp.png"
+              "binary": "http://images.contentful.com/8s9lban1fwf8/2n3cDSsifGGiGQqS6CCMgq/aab3584d30457ebf4dc743a3a22955a4/Offer20170601.png"
             },
             "alt": "Leila Söderholm, träningsexpert",
             "format": "binary"
@@ -21,7 +21,7 @@
           "tablet": {
             "imageId": "24695947",
             "sources": {
-              "binary": "http://images.contentful.com/aa1ihitfvo88/5LFXVg5sdiUKC0QOGyiAgW/aedafc7e676dca7dace6d9148a083cfa/Leila-gradient-name-tablet-cp.png"
+              "binary": "http://images.contentful.com/8s9lban1fwf8/2n3cDSsifGGiGQqS6CCMgq/aab3584d30457ebf4dc743a3a22955a4/Offer20170601.png"
             },
             "alt": "Leila Söderholm, träningsexpert",
             "format": "binary"
@@ -29,13 +29,20 @@
           "mobile": {
             "imageId": "24695947",
             "sources": {
-              "binary": "http://images.contentful.com/aa1ihitfvo88/5LFXVg5sdiUKC0QOGyiAgW/aedafc7e676dca7dace6d9148a083cfa/Leila-gradient-name-tablet-cp.png"
+              "binary": "http://images.contentful.com/8s9lban1fwf8/2n3cDSsifGGiGQqS6CCMgq/aab3584d30457ebf4dc743a3a22955a4/Offer20170601.png"
             },
             "alt": "Leila Söderholm, träningsexpert",
             "format": "binary"
           }
         },
-        "backgroundColor": "#519EC1",
+        "backgroundImage": {
+          "imageId": "24029822",
+          "sources": {
+            "binary": "http://images.contentful.com/8s9lban1fwf8/68sAbsF2us8uay2YYIcggI/1a86ba29bfe7a85b9f24ea739786658f/Cmp20170601.png"
+          },
+          "alt": "Campaign-background",
+          "format": "binary"
+        },
         "bulletList": [
           "Vanlig, fräsch och nyttig mat",
           "Loggboken håller koll på kalorierna",
