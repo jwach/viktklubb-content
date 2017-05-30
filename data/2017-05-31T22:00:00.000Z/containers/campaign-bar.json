@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Gummiband på köpet*",
+        "label": "JUST NU! 50% rabatt*",
         "strength": 2,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "Gäller vid tecknande av minst 6 månaders medlemskap"
+        "text": "*Gäller vid tecknande av 6 månaders medlemskap"
       }
     }
   ]
