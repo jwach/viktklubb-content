@@ -38,21 +38,17 @@
         "backgroundImage": {
           "imageId": "24029822",
           "sources": {
-            "binary": "http://images.contentful.com/8s9lban1fwf8/20XqhFkg76cUKy0WwWA8gC/3aa1d974c2d850715371bd290e9308e6/Cmp20170601.jpg"
+            "binary": "http://images.contentful.com/8s9lban1fwf8/2fw7C90vzua2MQMQWm0eie/3469ed586a8649a91fcc6216344fbd65/Cmp20170601v5.jpg"
           },
           "alt": "Campaign-background",
           "format": "binary"
         },
-        "bulletList": [
-          "Vanlig, fräsch och nyttig mat",
-          "Stöd från experter och medlemmar",
-          "Loggboken håller koll på kalorierna"
-        ],
         "header": "Gå ner i vikt snabbt och enkelt",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": "Börja idag!",
         "ctaFootnote": "*Erbjudandet gäller endast vid tecknande av 6 månaders medlemskap t.o.m. 8 juni 2017",
-        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska institutet"
+        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska institutet",
+        "bodyFootnote": "<a href=\"http://viktklubb.se/\">Läs mer om hans fantastiska viktresa här >></a>"
       }
     }
   ]
