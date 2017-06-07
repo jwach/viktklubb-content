@@ -11,7 +11,8 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "JUST NU! Bli medlem i Viktklubb idag och få 50% rabatt*",
+        "label": "Gå ner i vikt snabbt och enkelt",
+        "sublabel": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet",
         "strength": 1,
         "align": "center"
       }
@@ -21,13 +22,6 @@
       "order": "1",
       "props": {
         "label": "Börja nu!"
-      }
-    },
-    {
-      "type": "paragraf",
-      "order": "2",
-      "props": {
-        "text": "*Erbjudandet gäller endast vid tecknande av 6 månaders medlemskap t.o.m. 8 juni 2017"
       }
     }
   ]

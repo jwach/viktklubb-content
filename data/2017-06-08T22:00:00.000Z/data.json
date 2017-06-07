@@ -10,7 +10,7 @@
         "price": 149,
         "unit": "månad",
         "productId": "203215",
-        "campaignId": "11638"
+        "campaignId": "11646"
       },
       "six-months-monthly": {
         "months": 6,
@@ -24,7 +24,7 @@
         "price": 99,
         "unit": "månad",
         "productId": "203274",
-        "campaignId": "11638"
+        "campaignId": "11646"
       },
       "three-months-upfront": {
         "months": 3,
@@ -49,10 +49,10 @@
       },
       "special-offer": {
         "months": 6,
-        "price": 387,
-        "unit": "(ord pris 774 kr)*",
-        "productId": "203544",
-        "campaignId": "11638",
+        "price": 129,
+        "unit": "månad",
+        "productId": "203216",
+        "campaignId": "11646",
         "offerLength": 6,
         "lengthUnit": "månader"
       }

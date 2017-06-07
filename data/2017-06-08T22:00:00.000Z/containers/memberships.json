@@ -21,17 +21,9 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Halva priset!*",
+          "sticker": "Populärast!",
           "cta": "Välj",
-          "offer": "special-offer",
-          "stickerImage": {
-            "imageId": "24908389",
-            "sources": {
-              "binary": "http://images.contentful.com/8s9lban1fwf8/1etJo8h6eK2Q4maYkwkmEc/831af40506262fa039ed3748f6ae246a/Offer20170601v2c.png"
-            },
-            "alt": "Bli medlem i Viktklubb idag och få 50% rabatt*",
-            "format": "binary"
-          }
+          "offer": "special-offer"
         },
         "monthly": [
           {
@@ -75,15 +67,8 @@
       }
     },
     {
-      "type": "htmlParagraf",
-      "order": 5,
-      "props": {
-        "text": "*6 månader till halva priset: Erbjudandet gäller t.o.m. 8 juni 2017. 6 månader för endast 387 kr (ord pris 774 kr). Därefter 129 kr/månad tills uppsägning."
-      }
-    },
-    {
       "type": "disclaimer-footer",
-      "order": 6,
+      "order": 5,
       "props": {
         "safetyNote": "Betala säkert",
         "disclaimer": ""
