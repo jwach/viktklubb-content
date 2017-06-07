@@ -1,0 +1,56 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "primaryImage": {
+          "desktop" : {
+            "imageId": "24695899",
+            "sources": {
+              "binary": "http://images.contentful.com/8s9lban1fwf8/1etJo8h6eK2Q4maYkwkmEc/831af40506262fa039ed3748f6ae246a/Offer20170601v2c.png"
+            },
+            "alt": "Leila Söderholm, träningsexpert",
+            "format": "binary"
+          },
+          "tablet": {
+            "imageId": "24695947",
+            "sources": {
+              "binary": "http://images.contentful.com/8s9lban1fwf8/1etJo8h6eK2Q4maYkwkmEc/831af40506262fa039ed3748f6ae246a/Offer20170601v2c.png"
+            },
+            "alt": "Leila Söderholm, träningsexpert",
+            "format": "binary"
+          },
+          "mobile": {
+            "imageId": "24695947",
+            "sources": {
+              "binary": "http://images.contentful.com/8s9lban1fwf8/1etJo8h6eK2Q4maYkwkmEc/831af40506262fa039ed3748f6ae246a/Offer20170601v2c.png"
+            },
+            "alt": "Leila Söderholm, träningsexpert",
+            "format": "binary"
+          }
+        },
+        "backgroundImage": {
+          "imageId": "24029822",
+          "sources": {
+            "binary": "http://images.contentful.com/8s9lban1fwf8/2fw7C90vzua2MQMQWm0eie/3469ed586a8649a91fcc6216344fbd65/Cmp20170601v5.jpg"
+          },
+          "alt": "Campaign-background",
+          "format": "binary"
+        },
+        "bulletList": [],
+        "header": "Johan nådde sitt mål med Viktklubb – gör det du också!",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Börja idag!",
+        "ctaFootnote": "Gå med i Viktklubb idag och få 50% rabatt! Viktklubb i 6 månader för halva priset, 387 kr (ord pris 774 kr). Därefter 129 kr/månad.",
+        "body": "Johan Lagergren, 28, har gått ner 57 kilo på 20 månader",
+        "bodyFootnote": "<a href=\"http://viktklubb.aftonbladet.se/kampanj/artikel/sa-har-johan-gatt-ner-57-kilo-pa-20-manader\">Läs mer om hans fantastiska viktresa här >></a>"
+      }
+    }
+  ]
+}
