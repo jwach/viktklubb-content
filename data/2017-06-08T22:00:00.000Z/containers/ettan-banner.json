@@ -16,7 +16,7 @@
             },
             "alt": "Leila Söderholm, träningsexpert",
             "format": "binary",
-            "position": "bottom"
+            "position": "image-position-bottom"
           },
           "tablet": {
             "sources": {
@@ -24,7 +24,7 @@
             },
             "alt": "Leila Söderholm, träningsexpert",
             "format": "binary",
-            "position": "top"
+            "position": "image-position-top"
           },
           "mobile": {
             "sources": {
@@ -32,7 +32,7 @@
             },
             "alt": "Leila Söderholm, träningsexpert",
             "format": "binary",
-            "position": "bottom"
+            "position": "image-position-bottom"
           }
         },
         "backgroundImage": {
