@@ -28,25 +28,16 @@
         },
         "backgroundImage": {
           "desktop" : {
-            "sources": {
-              "binary": "http://images.contentful.com/8s9lban1fwf8/5W5ucRrBIWiK6OskAMuOu0/4539293985c89f1ab8005bfe20c48805/wx13.png"
-            },
-            "alt": "Leila Söderholm, träningsexpert",
-            "format": "binary"
+            "source": "http://images.contentful.com/8s9lban1fwf8/5W5ucRrBIWiK6OskAMuOu0/4539293985c89f1ab8005bfe20c48805/wx13.png",
+            "alt": "Leila Söderholm, träningsexpert"
           },
           "tablet": {
-            "sources": {
-              "binary": "http://images.contentful.com/8s9lban1fwf8/6xiDsBkE4EqO0skS8SQoUy/2938b45cd108ce62f379f89be402f20f/ex11.png"
-            },
-            "alt": "Leila Söderholm, träningsexpert",
-            "format": "binary"
+            "source": "http://images.contentful.com/8s9lban1fwf8/6xiDsBkE4EqO0skS8SQoUy/2938b45cd108ce62f379f89be402f20f/ex11.png",
+            "alt": "Leila Söderholm, träningsexpert"
           },
           "mobile": {
-            "sources": {
-              "binary": "http://images.contentful.com/8s9lban1fwf8/1RAP3wumucMs2mQc4eeY4a/f1db1bb8bbbe09f49df34eba8236d219/ex10.png"
-            },
-            "alt": "Leila Söderholm, träningsexpert",
-            "format": "binary"
+            "source": "http://images.contentful.com/8s9lban1fwf8/1RAP3wumucMs2mQc4eeY4a/f1db1bb8bbbe09f49df34eba8236d219/ex10.png",
+            "alt": "Leila Söderholm, träningsexpert"
           }
         },
         "bulletList": [
