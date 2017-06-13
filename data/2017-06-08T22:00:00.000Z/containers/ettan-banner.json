@@ -47,7 +47,11 @@
         ],
         "header": "Johan nådde sitt mål – gör det du också!",
         "ctaHref": "/kampanj/blimedlem",
-        "ctaLabel": "Börja idag!",
+        "ctaLabel": {
+          "desktop": "Börja idag! Desktop",
+          "tablet": "Börja idag! Tablet",
+          "mobile": "Börja idag! Mobile"
+        },
         "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet"
       }
     }
