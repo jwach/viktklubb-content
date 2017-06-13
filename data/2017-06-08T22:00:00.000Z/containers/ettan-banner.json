@@ -45,6 +45,7 @@
           "Stöd från experter och medlemmar",
           "Loggboken håller koll på kalorierna"
         ],
+        "topOffset": 240,
         "header": "Johan nådde sitt mål – gör det du också!",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
