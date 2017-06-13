@@ -28,15 +28,15 @@
         },
         "backgroundImage": {
           "desktop" : {
-            "source": "http://images.contentful.com/8s9lban1fwf8/5W5ucRrBIWiK6OskAMuOu0/4539293985c89f1ab8005bfe20c48805/wx13.png",
+            "source": "http://images.contentful.com/8s9lban1fwf8/OoKdp2CyEUAy26qE0oyw2/9d923e53a6e3f8f1fd5ded06dd4fa2d2/Johan-desktop.jpg",
             "alt": "Leila Söderholm, träningsexpert"
           },
           "tablet": {
-            "source": "http://images.contentful.com/8s9lban1fwf8/6xiDsBkE4EqO0skS8SQoUy/2938b45cd108ce62f379f89be402f20f/ex11.png",
+            "source": "http://images.contentful.com/8s9lban1fwf8/1xvQINgoFC8cOI2csWO6Im/fe18a0edfa1e90054b7ee7c1811d5a3e/johan-tablet.jpg",
             "alt": "Leila Söderholm, träningsexpert"
           },
           "mobile": {
-            "source": "http://images.contentful.com/8s9lban1fwf8/1RAP3wumucMs2mQc4eeY4a/f1db1bb8bbbe09f49df34eba8236d219/ex10.png",
+            "source": "http://images.contentful.com/8s9lban1fwf8/1lTQ01lqA0cmoCsAesiSww/8e3ebff3117c39c7797bd933ac4a35ab/johan-mobile.jpg",
             "alt": "Leila Söderholm, träningsexpert"
           }
         },
