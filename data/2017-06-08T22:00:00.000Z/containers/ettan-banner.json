@@ -10,11 +10,7 @@
       "order": "1",
       "props": {
         "primaryImage": {
-          "desktop" : {
-            "source": "http://images.contentful.com/8s9lban1fwf8/1etJo8h6eK2Q4maYkwkmEc/831af40506262fa039ed3748f6ae246a/Offer20170601v2c.png",
-            "alt": "Leila Söderholm, träningsexpert",
-            "position": "bottom"
-          },
+          "desktop" : {},
           "tablet": {
             "source": "http://images.contentful.com/8s9lban1fwf8/1etJo8h6eK2Q4maYkwkmEc/831af40506262fa039ed3748f6ae246a/Offer20170601v2c.png",
             "alt": "Leila Söderholm, träningsexpert",
@@ -28,7 +24,7 @@
         },
         "backgroundImage": {
           "desktop" : {
-            "source": "http://images.contentful.com/8s9lban1fwf8/1X96v9aB16OCAKKCgwiu0Q/74239a0474f3e0131db79e5a8d165354/Johan-desktop-v3.jpg",
+            "source": "http://images.contentful.com/8s9lban1fwf8/3pr66xHRZ6E0a0mU4Q4ECU/7836d2f43b9d1b8d90a44c69e769ba03/Johan-desktop-v4.jpg",
             "alt": "Leila Söderholm, träningsexpert"
           },
           "tablet": {
