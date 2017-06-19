@@ -18,7 +18,7 @@
       "props": {
         "header": {
           "align": "center",
-          "label": "Börja resan mot din nya vikt i dag!",
+          "label": "",
           "cssClass": "section-header"
         },
         "features": [
