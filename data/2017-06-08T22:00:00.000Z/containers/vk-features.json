@@ -5,6 +5,12 @@
     "margin": false,
     "grid": false
   },
+  "bulletList": [
+    "Vanlig, fräsch och nyttig mat",
+    "Loggboken håller koll på kalorierna",
+    "NYHET! Gummibandsträning med Leila"
+  ],
+  "bulletListHeader": "Ett personligt viktminskningsprogram utifrån dina förutsättningar och mål. I Viktklubbs app följer du enkelt dina framsteg och mål och motiveras av de andra medlemmarna.",
   "items": [
     {
       "type": "vk-features",
