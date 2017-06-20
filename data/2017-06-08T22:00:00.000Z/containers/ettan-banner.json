@@ -44,9 +44,9 @@
         "header": "Johan nådde sitt mål – gör det du också!",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
-          "desktop": "Börja idag! Desktop",
-          "tablet": "Börja idag! Tablet",
-          "mobile": "Börja idag! Mobile"
+          "desktop": "Börja idag!",
+          "tablet": "Börja idag!",
+          "mobile": "Börja idag!"
         },
         "ctaFootnote": "Gå med i Viktklubb idag och få 50% rabatt! Viktklubb i 6 månader för halva priset, 387 kr (ord pris 774 kr). Därefter 129 kr/månad.",
         "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet"
