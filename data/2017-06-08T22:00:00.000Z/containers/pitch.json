@@ -27,7 +27,7 @@
       "type": "cta-element",
       "order": "2",
       "props": {
-        "label": "Läs mer",
+        "label": "Bli medlem",
         "href": "/kampanj/blimedlem"
       }
     }
