@@ -99,6 +99,11 @@
         "bmi-calc"
       ]
     },
+    "article-test": {
+      "containers": [
+        "quiz"
+      ]
+    },
     "article-pitch": {
       "containers": [
         "pitch"
