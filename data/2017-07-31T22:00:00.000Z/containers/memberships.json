@@ -23,7 +23,15 @@
         "special": {
           "sticker": "Populärast!",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "special-offer",
+          "stickerImage": {
+            "imageId": "24908389",
+            "sources": {
+              "binary": "https://images.contentful.com/8s9lban1fwf8/qrfdpSkErQoiCciuu22K6/a786ea4e64d716ff265ea53a60b9150b/Splash-Medlem-cp.png"
+            },
+            "alt": "",
+            "format": "binary"
+          }
         },
         "monthly": [
           {
@@ -34,7 +42,15 @@
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly"
+            "offer": "twelve-months-monthly",
+            "stickerImage": {
+              "imageId": "24908389",
+              "sources": {
+                "binary": "https://images.contentful.com/8s9lban1fwf8/qrfdpSkErQoiCciuu22K6/a786ea4e64d716ff265ea53a60b9150b/Splash-Medlem-cp.png"
+              },
+              "alt": "",
+              "format": "binary"
+            }
           }
         ]
       }
@@ -71,7 +87,7 @@
       "order": 5,
       "props": {
         "safetyNote": "Betala säkert",
-        "disclaimer": ""
+        "disclaimer": "*Erbjudandet gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 31 aug 2017 eller så långt lagret räcker."
       }
     }
   ]

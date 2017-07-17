@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Från 99 kronor/månad",
+        "label": "Stegräknare på köpet*",
         "strength": 2,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "Gå ner i vikt snabbt och enkelt med Viktklubb"
+        "text": "Gäller vid tecknande av minst 6 månaders medlemskap"
       }
     }
   ]
