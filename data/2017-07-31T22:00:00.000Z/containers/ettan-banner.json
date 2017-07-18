@@ -1,0 +1,59 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "primaryImage": {
+          "desktop" : {
+            "source": "https://images.contentful.com/8s9lban1fwf8/1EreYlExC4kWAwqwMc6iOq/d686e420eb220f7ac0a4322ab93a9e28/Splash-Ettan-cp.png",
+            "alt": "Leila Söderholm, träningsexpert"
+          },
+          "tablet": {
+            "source": "https://images.contentful.com/8s9lban1fwf8/1EreYlExC4kWAwqwMc6iOq/d686e420eb220f7ac0a4322ab93a9e28/Splash-Ettan-cp.png",
+            "alt": "Leila Söderholm, träningsexpert"
+          },
+          "mobile": {
+            "source": "https://images.contentful.com/8s9lban1fwf8/1EreYlExC4kWAwqwMc6iOq/d686e420eb220f7ac0a4322ab93a9e28/Splash-Ettan-cp.png",
+            "alt": "Leila Söderholm, träningsexpert"
+          }
+        },
+        "backgroundImage": {
+          "desktop" : {
+            "source": "http://images.contentful.com/8s9lban1fwf8/4ASVUnC44MGC8egG68QcMU/cd709c64c8e0b0a0c078b2fd64adcc29/Johan-desktop-v5.jpg",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "tablet": {
+            "source": "http://images.contentful.com/8s9lban1fwf8/4aYyxkXLaUiOmw00W2GOsa/7ac473c34cdbff8f7299d7582784e4c7/johan-tablet-v2.jpg",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "mobile": {
+            "source": "http://images.contentful.com/8s9lban1fwf8/3ZW46X3DgQ8WscyMYYuOag/680f56086d077cb0e5c0e81b5b87c50a/johan-mobile-v4.jpg",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          }
+        },
+        "topOffset": 200,
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål.",
+        "header": "Gå ner i vikt snabbt och enkelt",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": {
+          "desktop": "Börja idag!",
+          "tablet": "Börja idag!",
+          "mobile": "Börja idag! Stegräknare på köpet*"
+        },
+        "ctaFootnote": "*Gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 31 aug 2017 eller så långt lagret räcker.",
+        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet"
+      }
+    }
+  ]
+}
