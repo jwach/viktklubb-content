@@ -25,15 +25,15 @@
         },
         "backgroundImage": {
           "desktop" : {
-            "source": "https://images.contentful.com/8s9lban1fwf8/3Tw0MC2VywoYm0ScIKyWWQ/f6f9b462e3f910c99e57469a10bfc2f5/rolf-desktop.jpg",
+            "source": "https://images.contentful.com/8s9lban1fwf8/3SMqeX1vOEi4EwaWMqsEo4/9eba7fb400db89caa6cd678ea7230252/Helena-desktop.jpg",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "tablet": {
-            "source": "https://images.contentful.com/8s9lban1fwf8/1u4jnKRO1mGKagoW88WgyG/986822949da560caf959e311ca6cf368/rolf-tablet.jpg",
+            "source": "https://images.contentful.com/8s9lban1fwf8/a6uUW9gXssauomwykMaOu/9bd6f73a5b753fb2138131115febc503/Helena-tablet.jpg",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "mobile": {
-            "source": "https://images.contentful.com/8s9lban1fwf8/VaHvu4OmwUqcYgEWmeaWO/c4c742ab0ca56bc3ff2c0a75000aa090/rolf-mobile.jpg",
+            "source": "https://images.contentful.com/8s9lban1fwf8/43uHvBhYwM88MS6ycsUiww/97f30e7b19245837876169638f026ae9/Helena-mobile.jpg",
             "alt": "Gå ner i vikt snabbt och enkelt"
           }
         },
