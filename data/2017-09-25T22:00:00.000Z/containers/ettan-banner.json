@@ -39,9 +39,9 @@
         },
         "topOffset": 200,
         "bulletList": [
-          "Vanlig, fräsch och nyttig mat",
+          "Loggboken håller koll på kalorierna",
           "Stöd från experter och medlemmar",
-          "Loggboken håller koll på kalorierna"
+          "NYHET! Kom i form på 90 dagar med Mårten Nylén"
         ],
         "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål.",
         "header": "Gå ner i vikt snabbt och enkelt",
@@ -49,9 +49,9 @@
         "ctaLabel": {
           "desktop": "Börja idag!",
           "tablet": "Börja idag!",
-          "mobile": "Börja idag! Stegräknare på köpet*"
+          "mobile": "Börja idag!"
         },
-        "ctaFootnote": "*Gäller vid tecknande av medlemskap på minst 6 månader t.o.m. 17 sep 2017",
+        "ctaFootnote": "*Gäller vid tecknande av 90 dagars medlemskap t.o.m. 31 okt 2017",
         "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet"
       }
     }
