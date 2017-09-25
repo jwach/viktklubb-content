@@ -11,29 +11,29 @@
       "props": {
         "primaryImage": {
           "desktop" : {
-            "source": "https://images.contentful.com/8s9lban1fwf8/1EreYlExC4kWAwqwMc6iOq/d686e420eb220f7ac0a4322ab93a9e28/Splash-Ettan-cp.png",
+            "source": "https://images.contentful.com/aa1ihitfvo88/1VCD9qJKCgAm6eYiCcsOUm/7a5a52399d2ceb50fccf52241b30832a/splash_180x180.png",
             "alt": "Leila Söderholm, träningsexpert"
           },
           "tablet": {
-            "source": "https://images.contentful.com/8s9lban1fwf8/1EreYlExC4kWAwqwMc6iOq/d686e420eb220f7ac0a4322ab93a9e28/Splash-Ettan-cp.png",
+            "source": "https://images.contentful.com/aa1ihitfvo88/1VCD9qJKCgAm6eYiCcsOUm/7a5a52399d2ceb50fccf52241b30832a/splash_180x180.png",
             "alt": "Leila Söderholm, träningsexpert"
           },
           "mobile": {
-            "source": "https://images.contentful.com/8s9lban1fwf8/1EreYlExC4kWAwqwMc6iOq/d686e420eb220f7ac0a4322ab93a9e28/Splash-Ettan-cp.png",
+            "source": "https://images.contentful.com/aa1ihitfvo88/1VCD9qJKCgAm6eYiCcsOUm/7a5a52399d2ceb50fccf52241b30832a/splash_180x180.png",
             "alt": "Leila Söderholm, träningsexpert"
           }
         },
         "backgroundImage": {
           "desktop" : {
-            "source": "https://images.contentful.com/8s9lban1fwf8/3SMqeX1vOEi4EwaWMqsEo4/9eba7fb400db89caa6cd678ea7230252/Helena-desktop.jpg",
+            "source": "https://images.contentful.com/aa1ihitfvo88/6J6AKMyuuQMoW2aSi6eAOW/f55a59df13e7a5c6d52cb22e2a66cf9c/Hero_Large_Marten.jpg",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "tablet": {
-            "source": "https://images.contentful.com/8s9lban1fwf8/a6uUW9gXssauomwykMaOu/9bd6f73a5b753fb2138131115febc503/Helena-tablet.jpg",
+            "source": "https://images.contentful.com/aa1ihitfvo88/1Ts76rFQ6scCAimKACuo0i/524fb591c9941f97a9fd36f46f09ac8f/Hero_Medium_Marten.jpg",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "mobile": {
-            "source": "https://images.contentful.com/8s9lban1fwf8/43uHvBhYwM88MS6ycsUiww/97f30e7b19245837876169638f026ae9/Helena-mobile.jpg",
+            "source": "https://images.contentful.com/aa1ihitfvo88/5ZYadmLyuIcsuAI4qyEk2k/4b139b435b6e28d6c92d2e0dd6ae9402/Hero_Small_Marten.jpg",
             "alt": "Gå ner i vikt snabbt och enkelt"
           }
         },
