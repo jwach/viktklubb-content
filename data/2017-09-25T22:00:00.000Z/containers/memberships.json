@@ -27,7 +27,7 @@
           "stickerImage": {
             "imageId": "24908389",
             "sources": {
-              "binary": "https://images.contentful.com/8s9lban1fwf8/qrfdpSkErQoiCciuu22K6/a786ea4e64d716ff265ea53a60b9150b/Splash-Medlem-cp.png"
+              "binary": "https://images.contentful.com/aa1ihitfvo88/17X1tNxNcyGmWSo66go2OW/4e0ba9957f75b4a2310bf2756b28850d/splash_200x200.png"
             },
             "alt": "",
             "format": "binary"
@@ -42,15 +42,7 @@
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly",
-            "stickerImage": {
-              "imageId": "24908389",
-              "sources": {
-                "binary": "https://images.contentful.com/8s9lban1fwf8/qrfdpSkErQoiCciuu22K6/a786ea4e64d716ff265ea53a60b9150b/Splash-Medlem-cp.png"
-              },
-              "alt": "",
-              "format": "binary"
-            }
+            "offer": "twelve-months-monthly"
           }
         ]
       }
