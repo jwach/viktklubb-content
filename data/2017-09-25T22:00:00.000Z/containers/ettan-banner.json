@@ -12,29 +12,29 @@
         "primaryImage": {
           "desktop" : {
             "source": "https://images.contentful.com/aa1ihitfvo88/1VCD9qJKCgAm6eYiCcsOUm/7a5a52399d2ceb50fccf52241b30832a/splash_180x180.png",
-            "alt": "Leila Söderholm, träningsexpert"
+            "alt": "Kampanjerbjudande"
           },
           "tablet": {
             "source": "https://images.contentful.com/aa1ihitfvo88/1VCD9qJKCgAm6eYiCcsOUm/7a5a52399d2ceb50fccf52241b30832a/splash_180x180.png",
-            "alt": "Leila Söderholm, träningsexpert"
+            "alt": "Kampanjerbjudande"
           },
           "mobile": {
             "source": "https://images.contentful.com/aa1ihitfvo88/1VCD9qJKCgAm6eYiCcsOUm/7a5a52399d2ceb50fccf52241b30832a/splash_180x180.png",
-            "alt": "Leila Söderholm, träningsexpert"
+            "alt": "Kampanjerbjudande"
           }
         },
         "backgroundImage": {
           "desktop" : {
             "source": "https://images.contentful.com/aa1ihitfvo88/6J6AKMyuuQMoW2aSi6eAOW/f55a59df13e7a5c6d52cb22e2a66cf9c/Hero_Large_Marten.jpg",
-            "alt": "Gå ner i vikt snabbt och enkelt"
+            "alt": "Mårten Nyhlén - Personlig tränare"
           },
           "tablet": {
             "source": "https://images.contentful.com/aa1ihitfvo88/1Ts76rFQ6scCAimKACuo0i/524fb591c9941f97a9fd36f46f09ac8f/Hero_Medium_Marten.jpg",
-            "alt": "Gå ner i vikt snabbt och enkelt"
+            "alt": "Mårten Nyhlén - Personlig tränare"
           },
           "mobile": {
             "source": "https://images.contentful.com/aa1ihitfvo88/5ZYadmLyuIcsuAI4qyEk2k/4b139b435b6e28d6c92d2e0dd6ae9402/Hero_Small_Marten.jpg",
-            "alt": "Gå ner i vikt snabbt och enkelt"
+            "alt": "Mårten Nyhlén - Personlig tränare"
           }
         },
         "topOffset": 200,
