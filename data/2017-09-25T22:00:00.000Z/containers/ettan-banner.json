@@ -25,15 +25,15 @@
         },
         "backgroundImage": {
           "desktop" : {
-            "source": "https://images.contentful.com/aa1ihitfvo88/5NlDwEGGM8WOqs8ic6IcC2/4fca2b21a2527ebec4192ec08ac9cc7e/Hero_Large_Marten.jpg",
+            "source": "https://images.contentful.com/aa1ihitfvo88/62MCXnjz0coAe8IGQGk86y/3f4e03218272d897f41b871799abb12d/Hero_Large_Marten.jpg",
             "alt": "Mårten Nyhlén - Personlig tränare"
           },
           "tablet": {
-            "source": "https://images.contentful.com/aa1ihitfvo88/6s9rzTHzoI8CyIyECaoe6o/9f25c4c913e4592f6b2e90adb147b27f/Hero_Medium_Marten.jpg",
+            "source": "https://images.contentful.com/aa1ihitfvo88/5RYtdAdmOQ2uIcWUkKIgka/58b53f4573675b1ed54092937d231a50/Hero_Medium_Marten.jpg",
             "alt": "Mårten Nyhlén - Personlig tränare"
           },
           "mobile": {
-            "source": "https://images.contentful.com/aa1ihitfvo88/HhB1hAZCAUq0GuOYuaeKU/e0c3537a23cc23ddb4f01470c2ce470d/Hero_Small_Marten.jpg",
+            "source": "https://images.contentful.com/aa1ihitfvo88/5nFOKJu54AAymY0GwUeOe/f7f900620db81520c93475badd9006b9/Hero_Small_Marten.jpg",
             "alt": "Mårten Nyhlén - Personlig tränare"
           }
         },
