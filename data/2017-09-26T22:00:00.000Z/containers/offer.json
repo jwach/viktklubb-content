@@ -1,0 +1,28 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false,
+    "background": "gray3"
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": "0",
+      "props": {
+        "label": "Kom i form på 90 dagar med Mårten Nylén",
+        "sublabel": "90 dagar i Viktklubb för endast 389 kr (ord pris 447 kr)*",
+        "strength": 1,
+        "align": "center"
+      }
+    },
+    {
+      "type": "cta-element",
+      "order": "1",
+      "props": {
+        "label": "Börja idag!"
+      }
+    }
+  ]
+}
