@@ -11,15 +11,15 @@
       "props": {
         "primaryImage": {
           "desktop" : {
-            "source": "https://images.contentful.com/aa1ihitfvo88/1VCD9qJKCgAm6eYiCcsOUm/7a5a52399d2ceb50fccf52241b30832a/splash_180x180.png",
+            "source": "https://images.contentful.com/aa1ihitfvo88/IhWXJadqSI24E4UESCI4O/81d9d31b1471906c93fdf0d6eedaa369/389kr.png",
             "alt": "Kampanjerbjudande"
           },
           "tablet": {
-            "source": "https://images.contentful.com/aa1ihitfvo88/1VCD9qJKCgAm6eYiCcsOUm/7a5a52399d2ceb50fccf52241b30832a/splash_180x180.png",
+            "source": "https://images.contentful.com/aa1ihitfvo88/IhWXJadqSI24E4UESCI4O/81d9d31b1471906c93fdf0d6eedaa369/389kr.png",
             "alt": "Kampanjerbjudande"
           },
           "mobile": {
-            "source": "https://images.contentful.com/aa1ihitfvo88/1VCD9qJKCgAm6eYiCcsOUm/7a5a52399d2ceb50fccf52241b30832a/splash_180x180.png",
+            "source": "https://images.contentful.com/aa1ihitfvo88/IhWXJadqSI24E4UESCI4O/81d9d31b1471906c93fdf0d6eedaa369/389kr.png",
             "alt": "Kampanjerbjudande"
           }
         },
