@@ -21,13 +21,20 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "Erbjudande!",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "special-offer",
+          "stickerImage": {
+            "sources": {
+              "binary": "https://images.contentful.com/aa1ihitfvo88/5y6PY3cgiQewuaQW6cqmCa/2211c484d7ac56098f04768ee2dd9bce/splash-200x200.png"
+            },
+            "alt": "",
+            "format": "binary"
+          }
         },
         "monthly": [
           {
-            "sticker": "Kickstart!",
+            "sticker": "Populärast!",
             "cta": "Välj",
             "offer": "three-months-monthly"
           },
@@ -70,7 +77,8 @@
       "type": "disclaimer-footer",
       "order": 5,
       "props": {
-        "safetyNote": "Betala säkert"
+        "safetyNote": "Betala säkert",
+        "disclaimer": "*90 dagar i Viktklubb för endast 389 kr (ord pris 447 kr), därefter 149 kr/månad. Erbjudandet gäller vid tecknande av 90 dagars medlemskap t.o.m. 14 nov 2017."
       }
     }
   ]
