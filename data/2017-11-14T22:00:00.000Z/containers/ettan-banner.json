@@ -1,0 +1,59 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "primaryImage": {
+          "desktop" : {
+            "source": "https://images.contentful.com/aa1ihitfvo88/IhWXJadqSI24E4UESCI4O/81d9d31b1471906c93fdf0d6eedaa369/389kr.png",
+            "alt": "Kampanjerbjudande"
+          },
+          "tablet": {
+            "source": "https://images.contentful.com/aa1ihitfvo88/IhWXJadqSI24E4UESCI4O/81d9d31b1471906c93fdf0d6eedaa369/389kr.png",
+            "alt": "Kampanjerbjudande"
+          },
+          "mobile": {
+            "source": "https://images.contentful.com/aa1ihitfvo88/IhWXJadqSI24E4UESCI4O/81d9d31b1471906c93fdf0d6eedaa369/389kr.png",
+            "alt": "Kampanjerbjudande"
+          }
+        },
+        "backgroundImage": {
+          "desktop" : {
+            "source": "https://images.contentful.com/aa1ihitfvo88/6Guj4NnE6QeKcmEYS844Q4/03faae94fc625e3aeb9f796a2c40dce9/Hero_Large_Marten_Modified.jpg",
+            "alt": "Mårten Nylén - Personlig tränare"
+          },
+          "tablet": {
+            "source": "https://images.contentful.com/aa1ihitfvo88/5RYtdAdmOQ2uIcWUkKIgka/58b53f4573675b1ed54092937d231a50/Hero_Medium_Marten.jpg",
+            "alt": "Mårten Nylén - Personlig tränare"
+          },
+          "mobile": {
+            "source": "https://images.contentful.com/aa1ihitfvo88/5nFOKJu54AAymY0GwUeOe/f7f900620db81520c93475badd9006b9/Hero_Small_Marten.jpg",
+            "alt": "Mårten Nylén - Personlig tränare"
+          }
+        },
+        "topOffset": 200,
+        "bulletList": [
+          "Loggboken håller koll på kalorierna",
+          "Stöd från experter och medlemmar",
+          "NYHET! Kom i form på 90 dagar med Mårten Nylén"
+        ],
+        "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål.",
+        "header": "Gå ner i vikt snabbt och enkelt",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": {
+          "desktop": "Börja idag!",
+          "tablet": "Börja idag!",
+          "mobile": "Börja idag!"
+        },
+        "ctaFootnote": "*Gäller vid tecknande av 90 dagars medlemskap t.o.m. 14 nov 2017",
+        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet"
+      }
+    }
+  ]
+}

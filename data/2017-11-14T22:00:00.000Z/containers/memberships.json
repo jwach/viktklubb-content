@@ -1,0 +1,85 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "single",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Börja ditt hälsosamma liv idag!",
+        "sublabel": "Du har viljan – vi har resten",
+        "strength": 2,
+        "cssClass": "bg-image-header",
+        "backgroundImage": "http://images.contentful.com/aa1ihitfvo88/3qZbYTX2lyEOM0sa62YISM/5db5a0b6f139d355d1155abb5894bccb/Blimedlem-background-2.jpg"
+      }
+    },
+    {
+      "type": "special-offering",
+      "order": 1,
+      "props": {
+        "special": {
+          "sticker": "Erbjudande!",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "stickerImage": {
+            "sources": {
+              "binary": "https://images.contentful.com/aa1ihitfvo88/5y6PY3cgiQewuaQW6cqmCa/2211c484d7ac56098f04768ee2dd9bce/splash-200x200.png"
+            },
+            "alt": "",
+            "format": "binary"
+          }
+        },
+        "monthly": [
+          {
+            "sticker": "Populärast!",
+            "cta": "Välj",
+            "offer": "three-months-monthly"
+          },
+          {
+            "sticker": "Billigast!",
+            "cta": "Välj",
+            "offer": "twelve-months-monthly"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "order": 2,
+      "props": {
+        "label": "Ett samarbete med Karolinska Institutet",
+        "align": "center",
+        "strength": 2,
+        "cssClass": "small-header"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 3,
+      "props": {
+        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil."
+      }
+    },
+    {
+      "type": "header",
+      "order": 4,
+      "props": {
+        "label": "Visste du att viktklubb täcks av friskvårdsbidraget?",
+        "align": "center",
+        "strength": 2,
+        "cssClass": "colored-bg-header"
+      }
+    },
+    {
+      "type": "disclaimer-footer",
+      "order": 5,
+      "props": {
+        "safetyNote": "Betala säkert",
+        "disclaimer": "*90 dagar i Viktklubb för endast 389 kr (ord pris 447 kr), därefter 149 kr/månad. Erbjudandet gäller vid tecknande av 90 dagars medlemskap t.o.m. 14 nov 2017."
+      }
+    }
+  ]
+}
