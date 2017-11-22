@@ -21,13 +21,13 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "Halva priset!*",
           "cta": "Välj",
           "offer": "special-offer"
         },
         "monthly": [
           {
-            "sticker": "Kickstart!",
+            "sticker": "Populärast!",
             "cta": "Välj",
             "offer": "three-months-monthly"
           },
@@ -67,8 +67,15 @@
       }
     },
     {
-      "type": "disclaimer-footer",
+      "type": "htmlParagraf",
       "order": 5,
+      "props": {
+        "text": "*3 månader till halva priset: Erbjudandet gäller t.o.m. 27 november 2017. 3 månader för endast 224 kr (ord pris 447 kr). Därefter 149 kr/månad tills uppsägning."
+      }
+    },
+    {
+      "type": "disclaimer-footer",
+      "order": 6,
       "props": {
         "safetyNote": "Betala säkert",
         "disclaimer": ""

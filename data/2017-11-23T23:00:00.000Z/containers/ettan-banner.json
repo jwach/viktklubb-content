@@ -33,10 +33,11 @@
         "header": "Gå ner i vikt snabbt och enkelt",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
-          "desktop": "Börja idag!",
-          "tablet": "Börja idag!",
-          "mobile": "Börja idag!"
+          "desktop": "JUST NU! 3 månader för halva priset*",
+          "tablet": "JUST NU! 50% rabatt*",
+          "mobile": "JUST NU! 50% rabatt*"
         },
+        "ctaFootnote": "*Erbjudandet gäller endast vid tecknande av 3 månaders medlemskap t.o.m. 27 november 2017",
         "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet"
       }
     }
