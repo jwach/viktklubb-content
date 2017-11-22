@@ -6,7 +6,7 @@
     "campaignQuery": "campaign_id",
     "offers": {
       "three-months-monthly": {
-        "months": 3,
+        "months": 6,
         "price": 129,
         "unit": "månad",
         "productId": "203216",
