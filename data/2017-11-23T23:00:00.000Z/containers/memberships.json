@@ -1,0 +1,93 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "single",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Börja ditt hälsosamma liv idag!",
+        "sublabel": "Du har viljan – vi har resten",
+        "strength": 2,
+        "cssClass": "bg-image-header",
+        "backgroundImage": "http://images.contentful.com/aa1ihitfvo88/3qZbYTX2lyEOM0sa62YISM/5db5a0b6f139d355d1155abb5894bccb/Blimedlem-background-2.jpg"
+      }
+    },
+    {
+      "type": "special-offering",
+      "order": 1,
+      "props": {
+        "special": {
+          "sticker": "Halva priset!*",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "stickerImage": {
+            "imageId": "24908389",
+            "sources": {
+              "binary": "http://images.contentful.com/8s9lban1fwf8/1etJo8h6eK2Q4maYkwkmEc/831af40506262fa039ed3748f6ae246a/Offer20170601v2c.png"
+            },
+            "alt": "Bli medlem i Viktklubb idag och få 50% rabatt*",
+            "format": "binary"
+          }
+        },
+        "monthly": [
+          {
+            "sticker": "Populärast!",
+            "cta": "Välj",
+            "offer": "three-months-monthly"
+          },
+          {
+            "sticker": "Billigast!",
+            "cta": "Välj",
+            "offer": "twelve-months-monthly"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "order": 2,
+      "props": {
+        "label": "Ett samarbete med Karolinska Institutet",
+        "align": "center",
+        "strength": 2,
+        "cssClass": "small-header"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 3,
+      "props": {
+        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil."
+      }
+    },
+    {
+      "type": "header",
+      "order": 4,
+      "props": {
+        "label": "Visste du att viktklubb täcks av friskvårdsbidraget?",
+        "align": "center",
+        "strength": 2,
+        "cssClass": "colored-bg-header"
+      }
+    },
+    {
+      "type": "htmlParagraf",
+      "order": 5,
+      "props": {
+        "text": "*3 månader till halva priset: Erbjudandet gäller t.o.m. 27 november 2017. 3 månader för endast 224 kr (ord pris 447 kr). Därefter 149 kr/månad tills uppsägning."
+      }
+    },
+    {
+      "type": "disclaimer-footer",
+      "order": 6,
+      "props": {
+        "safetyNote": "Betala säkert",
+        "disclaimer": ""
+      }
+    }
+  ]
+}
