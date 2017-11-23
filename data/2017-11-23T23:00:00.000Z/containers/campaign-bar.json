@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Från 99 kronor/månad",
+        "label": "JUST NU! 50% rabatt",
         "strength": 2,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "Gå ner i vikt snabbt och enkelt med Viktklubb"
+        "text": "3 månader för endast 224 kr (ord pris 447 kr)*"
       }
     }
   ]
