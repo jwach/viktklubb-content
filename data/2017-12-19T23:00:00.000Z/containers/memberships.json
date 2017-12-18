@@ -67,8 +67,15 @@
       }
     },
     {
-      "type": "disclaimer-footer",
+      "type": "htmlParagraf",
       "order": 5,
+      "props": {
+        "text": "*Erbjudandet gäller vid tecknande av medlemskap på minst 6 månader och så långt lagret räcker, dock längst t.o.m. 28 februari 2018."
+      }
+    },
+    {
+      "type": "disclaimer-footer",
+      "order": 6,
       "props": {
         "safetyNote": "Betala säkert",
         "disclaimer": ""
