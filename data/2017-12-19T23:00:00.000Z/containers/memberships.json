@@ -23,7 +23,14 @@
         "special": {
           "sticker": "Populärast!",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "special-offer",
+          "stickerImage": {
+            "sources": {
+              "binary": "https://images.contentful.com/aa1ihitfvo88/6aVkKjsKv6kawsuOKCo0kq/d9db42bc4468ac540872661d95c44fce/splash_sportbalte.png"
+            },
+            "alt": "",
+            "format": "binary"
+          }
         },
         "monthly": [
           {
@@ -34,7 +41,14 @@
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly"
+            "offer": "twelve-months-monthly",
+            "stickerImage": {
+              "sources": {
+                "binary": "https://images.contentful.com/aa1ihitfvo88/6aVkKjsKv6kawsuOKCo0kq/d9db42bc4468ac540872661d95c44fce/splash_sportbalte.png"
+              },
+              "alt": "",
+              "format": "binary"
+            }
           }
         ]
       }
