@@ -1,0 +1,47 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "backgroundImage": {
+          "desktop" : {
+            "source": "https://images.contentful.com/aa1ihitfvo88/1TYE8TyCbOAcOQKqUco2AA/758aee7b4f166199dff132adf0af56a8/mona-ettan-large.jpg",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "tablet": {
+            "source": "https://images.contentful.com/aa1ihitfvo88/3nJIq9fFaw8CMkOSea4yec/47de78a31adc8515718b54272a10d53c/mona-ettan-medium.jpg",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "mobile": {
+            "source": "https://images.contentful.com/aa1ihitfvo88/FsMG2yXcIw68ECaC0qWU4/3c55253f0df2b443d0711fdb7bed1510/mona-ettan-small.jpg",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          }
+        },
+        "topOffset": 200,
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
+        "header": "Gå ner i vikt snabbt och enkelt",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": {
+          "desktop": "Börja idag!",
+          "tablet": "Börja idag!",
+          "mobile": "Börja idag!"
+        },
+        "ctaFootnote": "*Värde 199 kr. Gäller vid tecknande av medlemskap på minst 6 mån och så långt lagret räcker, dock längst t.o.m. 28/2 -18",
+        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet",
+        "bodyEmphasizeTitle": "Just nu!",
+        "bodyEmphasizeText": "Sportbälte på köpet*"
+      }
+    }
+  ]
+}
