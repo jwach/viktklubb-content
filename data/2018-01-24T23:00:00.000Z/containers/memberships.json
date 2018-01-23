@@ -21,7 +21,7 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "Halva priset!",
           "cta": "Välj",
           "offer": "special-offer",
           "stickerImage": {
@@ -84,7 +84,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "*Värde 199 kr. Erbjudandet gäller vid tecknande av medlemskap på minst 6 månader och så långt lagret räcker, dock längst t.o.m. 28 februari 2018."
+        "text": "*6 månader för halva priset: Erbjudandet gäller t.o.m. 5 februari 2018. 6 månader för endast 387 kr (ord pris 774 kr). Därefter 129 kr/månad tills uppsägning."
       }
     },
     {
