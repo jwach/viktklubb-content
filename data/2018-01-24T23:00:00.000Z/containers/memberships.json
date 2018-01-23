@@ -41,14 +41,7 @@
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly",
-            "stickerImage": {
-              "sources": {
-                "binary": "https://cdn-2-yams.schibsted.com/api/v1/production/images/1a957a9f8f419db4b3e2963666086c2c66b66991?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjIwMCwiaGVpZ2h0IjoyMDAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9fX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcLzFhOTU3YTlmOGY0MTlkYjRiM2UyOTYzNjY2MDg2YzJjNjZiNjY5OTEifQ.kV-vbmImjBVL6guprqMBiXlr5xUQYcT3Tc06KI1LLCrSxY1IagaKj_6MEh9vkz2I1414AQ-Re2J7FsJ1evF9mJ17_hnO1JQOXVJ4h5YgnKTCNEnNFYV5TpucE0IGlGBlmuAn-T2suOrdiJ0QOo9hKnAd7G_6lWHGylySaBgI1r0tacw_iWNQoWlPNBRgH2bFrRVHzG9w_LdYJk7bN6ljdEtniaZjmk5ISSyRahK5Mr22XrZxFn3Jj0tmpQrn3qle89Lu3K7nZ2q3qgIeJlsJBn3ap6QIzsnBpJwxT3h0fRhssGdvx18oGvCJ2tzfN2MaKjXhqSXtnax35tUdOj-wAw&AccessKeyId=d6f78ac930ac551d"
-              },
-              "alt": "",
-              "format": "binary"
-            }
+            "offer": "twelve-months-monthly"
           }
         ]
       }
