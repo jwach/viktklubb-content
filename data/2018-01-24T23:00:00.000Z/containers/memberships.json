@@ -1,0 +1,92 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "single",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Börja ditt hälsosamma liv idag!",
+        "sublabel": "Du har viljan – vi har resten",
+        "strength": 2,
+        "cssClass": "bg-image-header",
+        "backgroundImage": "https://cdn-0-yams.schibsted.com/api/v1/production/images/f3b6544fb8fcae105d46508ab740738014df5248?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjM2ODAsImhlaWdodCI6MjQ1NiwiZml0Ijp7InR5cGUiOiJjcm9wIn19fV19fSwicnFzIjoiR0VUXFxcL3Byb2R1Y3Rpb25cL2ltYWdlc1wvZjNiNjU0NGZiOGZjYWUxMDVkNDY1MDhhYjc0MDczODAxNGRmNTI0OCJ9.IDsIFYleoox4NEyT7E69Xr5AWNDkl7A15gA6HHIfsYdabmc-8yVC60_gPTqYvsyGhqRRwOrQDU17YlT9rnQ_OHxVDdDfKevVyHjhVZfh97RhaJ_TQSsH98NOk027Mo5ZabVL7hHCwF_C4SFBteK7ZRlTcFlpizXnUoaREopdAyi8ZxASsh9PIqT9Ght0Qb77KQIIDSOUduKf2PCFDK3Jy-A-xcFoyZLP6NPXto9MRT_oFi40N-_sDn0EiOJCgmGI-0Qu3xIKhD8fneA3lak4QwufYCVWsq75rg-b9ofBeZuNOnCUCrfkivDhU-9v_PtiAhwYMF8oWLhNQexaR1Kokw&AccessKeyId=d6f78ac930ac551d"
+      }
+    },
+    {
+      "type": "special-offering",
+      "order": 1,
+      "props": {
+        "special": {
+          "sticker": "Halva priset!",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "stickerImage": {
+            "sources": {
+              "binary": "https://cdn-3-yams.schibsted.com/api/v1/production/images/c43b1c6a12a5cfeb8d0733ad4d1bdcc3908aa138?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjIwMCwiaGVpZ2h0IjoxOTYsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9fX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcL2M0M2IxYzZhMTJhNWNmZWI4ZDA3MzNhZDRkMWJkY2MzOTA4YWExMzgifQ.Jui3o5V0mQ4UbEfp00xX8XQkn3p76iMprvAPTVNkzZVywDFwaTAu3YIarIqCHR2ULz4mEiWxaVaKPGpUZnP9t4ExaCet4yWoNM832MhtDoXjJNqxARva5vBHmtCbCg1Nc9XuN_cprgQMNaGjBY33JIZ7r3l5hcYXBM2NnBAQiuxxa2Zbf3YHSqhHLhLu2ns5GdAZxCZQgk_fe5QtYqw79PUm22DbyV3QG1ZBsQjROQeAdkEYZ30cQesJHayYECU8DzQZ2B9455p8wxPFaUi7c5bViS3AX54sc6yEK-0AJ59jKZ8Var8JWNBWMjKrxc7XyqzpvHco_dl3ViqsITnwQA&AccessKeyId=d6f78ac930ac551d"
+            },
+            "alt": "",
+            "format": "binary"
+          }
+        },
+        "monthly": [
+          {
+            "sticker": "Kickstart!",
+            "cta": "Välj",
+            "offer": "three-months-monthly"
+          },
+          {
+            "sticker": "Billigast!",
+            "cta": "Välj",
+            "offer": "twelve-months-monthly"
+          }
+        ]
+      }
+    },
+    {
+      "type": "header",
+      "order": 2,
+      "props": {
+        "label": "Ett samarbete med Karolinska Institutet",
+        "align": "center",
+        "strength": 2,
+        "cssClass": "small-header"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 3,
+      "props": {
+        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil."
+      }
+    },
+    {
+      "type": "header",
+      "order": 4,
+      "props": {
+        "label": "Visste du att viktklubb täcks av friskvårdsbidraget?",
+        "align": "center",
+        "strength": 2,
+        "cssClass": "colored-bg-header"
+      }
+    },
+    {
+      "type": "htmlParagraf",
+      "order": 5,
+      "props": {
+        "text": "*6 månader för halva priset: Erbjudandet gäller t.o.m. 5 februari 2018. 6 månader för endast 387 kr (ord pris 774 kr). Därefter 129 kr/månad tills uppsägning."
+      }
+    },
+    {
+      "type": "disclaimer-footer",
+      "order": 6,
+      "props": {
+        "safetyNote": "Betala säkert",
+        "disclaimer": ""
+      }
+    }
+  ]
+}
