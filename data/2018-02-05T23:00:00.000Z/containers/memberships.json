@@ -51,7 +51,7 @@
       "type": "paragraf",
       "order": 2,
       "props": {
-        "text": "Visste du att viktklubb täcks av friskvårdsbidraget?",
+        "text": "Visste du att Viktklubb täcks av friskvårdsbidraget?",
         "cssClass": "memberships__health-benefit"
       }
     },
