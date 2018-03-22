@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Från 99 kronor/månad",
+        "label": "Kanonerbjudande!",
         "strength": 2,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "Gå ner i vikt snabbt och enkelt"
+        "text": "90 dagar för endast 389 kr + löparbälte på köpet (värde 199 kr)*"
       }
     }
   ]

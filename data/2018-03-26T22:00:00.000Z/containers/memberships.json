@@ -21,13 +21,17 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "Erbjudande!",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "special-offer",
+          "additionalOffer": {
+            "backgroundImage": "",
+            "label": "Löparbälte på köpet*"
+          }
         },
         "monthly": [
           {
-            "sticker": "Kickstart!",
+            "sticker": "Populärast!",
             "cta": "Välj",
             "offer": "three-months-monthly"
           },
@@ -61,6 +65,14 @@
       "props": {
         "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil.",
         "cssClass": "memberships__karolinska-paragraph"
+      }
+    },
+    {
+      "type": "htmlParagraf",
+      "order": 5,
+      "props": {
+        "text": "*90 dagar i Viktklubb för endast 389 kr (ord pris 447 kr) + löparbälte på köpet (värde 199 kr). Erbjudandet gäller vid tecknande av vårt 90-dagars medlemskap och så långt lagret räcker, dock längst t.o.m. 22 april 2018.",
+        "cssClass": "memberships__offer-disclaimer"
       }
     }
   ]
