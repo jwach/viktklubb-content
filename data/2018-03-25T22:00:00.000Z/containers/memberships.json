@@ -71,7 +71,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "*90 dagar i Viktklubb för endast 389 kr (ord pris 447 kr) + löparbälte på köpet (värde 199 kr). Erbjudandet gäller vid tecknande av vårt 90-dagars medlemskap och så långt lagret räcker, dock längst t.o.m. 22 april 2018.",
+        "text": "*90 dagar i Viktklubb för endast 389 kr (ord pris 447 kr) + löparbälte på köpet (värde 199 kr). Erbjudandet gäller vid tecknande av vårt 90-dagars medlemskap och så långt lagret räcker, dock längst t.o.m. 22 april 2018. Information om löparbältet hittar du <a href='http://bit.ly/villkorlöparbälte'>här.</a>",
         "cssClass": "memberships__offer-disclaimer"
       }
     }
