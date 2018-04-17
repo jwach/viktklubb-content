@@ -1,0 +1,28 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false,
+    "background": "gray3"
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": "0",
+      "props": {
+        "label": "Just nu! 15 kronor första månaden*",
+        "sublabel": "Viktklubb fyller 15 år – vi firar med ett kalaserbjudande!",
+        "strength": 1,
+        "align": "center"
+      }
+    },
+    {
+      "type": "cta-element",
+      "order": "1",
+      "props": {
+        "label": "Bli medlem nu"
+      }
+    }
+  ]
+}
