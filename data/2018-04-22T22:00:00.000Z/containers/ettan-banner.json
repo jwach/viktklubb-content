@@ -1,0 +1,47 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "backgroundImage": {
+          "desktop" : {
+            "source": "https://cdn-3-yams.schibsted.com/api/v1/production/images/7be6acd234e4a48f802d2d617382fd9cb5e670ec?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn19fV19fSwicnFzIjoiR0VUXFxcL3Byb2R1Y3Rpb25cL2ltYWdlc1wvN2JlNmFjZDIzNGU0YTQ4ZjgwMmQyZDYxNzM4MmZkOWNiNWU2NzBlYyJ9.SbYmtXh185C0Bt5oomcYC3LX1RhPzckpVrekcMuwbh3tqt9sSjpEm-TL3SuIdW0L0H0fDKAZielBPzWMGQcqJ1mYTttARSDhyPHzsoa6YcYp_t-XcQLgrbQgQE95WJw2_KZ5vvGXg41t7ts4RDk4A874uwfbsyjBHeGdHTACJ6KCeO698n9JGGvyhfQ5IuGOa3iGJ3v8IXCpmDi07S4NOaaw6o2elU5txs5TkbEGyg-IwCaqbIM_jouO7Hpv64iIh6TOtyLhjmNRhgSo6zsSiMc0fIAumUIiVsnaY_BM5iUo5EBeW3i1dDeLOdmQKb6eShQhc10Vk4U_QLSQhlYG1w&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "tablet": {
+            "source": "https://cdn-5-yams.schibsted.com/api/v1/production/images/b648634070cad78f969c228cfe2511f9238d0e1b?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjkyMCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9fX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcL2I2NDg2MzQwNzBjYWQ3OGY5NjljMjI4Y2ZlMjUxMWY5MjM4ZDBlMWIifQ.LF_rfZTyExsgLDz9NSGhboZgZ34Ozi5PpEPyqzzEpn00eU_XxIVSRQ4MhZIcZWBU2mvnos0UKjEJkV-XNnxv4NZMMa0lgkZnUc6SwNBqOcGWrYkkGM5hsSoLm2b0RIihz9FkCxKaurp6uD2Mt3uL492AmJos8zaMDgQbMUCEA2sr1o76uFr335DUtWTNjGtbO_cmFU2lxDapleWVQWZp5HeGqg-09sRJ_CEWxZt5GxZmkVqRGpf2E7MuX-SKOeNTpXF2gTusqGlvMu-fA8a6i3bg5JDjqTGQfhwRB10Z3ciPjYxktBaS9132u8INVhbE6_6FHTZl4MWoaUx-fOUs7g&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "mobile": {
+            "source": "https://cdn-4-yams.schibsted.com/api/v1/production/images/2a07ae836fa8c8e0c4f4ec9a7d8992d275eb1752?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9fX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcLzJhMDdhZTgzNmZhOGM4ZTBjNGY0ZWM5YTdkODk5MmQyNzVlYjE3NTIifQ.hjLkRCvpkKT1MRUI0iUgCf-_iMwL1zzKO0Qb7Do4plKCP3EUHqW0uQBUnnOXFkq9UOXkDmIc_ns3R_Cg7Oqc3p-yAHRtAnogSqgaDsxWAHrTu9DLMcfUaLDVnQkAYffBIMey66K488IyJgznuTxxFGyPeoOuvKgZRRqHX9YiNbLsJzeTIlLeJqaEdhyZ0DwZA_2h2uYlW7XdPwqmcFEz17Pa4Ew7JZFDb74oVVyFV-bj9S2w5H5Potu9Z_F_KYpmPcViNc8XRfEKe-XtYAYb6eKVnIXDdz08hWRwfuQcPUxsamXZ5mPeMFWZVpKDdsAIAMiirKJxxKoxLrRjRa1cQA&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          }
+        },
+        "topOffset": 200,
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
+        "header": "Gå ner i vikt snabbt och enkelt",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": {
+          "desktop": "Börja idag!",
+          "tablet": "Börja idag!",
+          "mobile": "Börja idag!"
+        },
+        "ctaFootnote": "*90 dagar i Viktklubb för endast 389 kr (ord pris 447 kr) + löparbälte på köpet (värde 199 kr)",
+        "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet",
+        "bodyEmphasizeTitle": "Just nu!",
+        "bodyEmphasizeText": "Kom i form på 90 dagar med Mårten Nylén. Löparbälte på köpet (värde 199 kr)*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "payment": {
+    "externalHost": "https://login.aftonbladet.se",
+    "path": "purchase",
+    "productQuery": "product_id",
+    "campaignQuery": "campaign_id",
+    "offers": {
+      "three-months-monthly": {
+        "months": 6,
+        "price": 129,
+        "unit": "månad",
+        "productId": "203216",
+        "campaignId": "11815"
+      },
+      "six-months-monthly": {
+        "months": 6,
+        "price": 129,
+        "unit": "månad",
+        "productId": "203216",
+        "campaignId": "11690"
+      },
+      "twelve-months-monthly": {
+        "months": 12,
+        "price": 99,
+        "unit": "månad",
+        "productId": "203274",
+        "campaignId": "11815"
+      },
+      "three-months-upfront": {
+        "months": 3,
+        "price": 372,
+        "unit": "kr",
+        "productId": "203285",
+        "campaignId": "11292"
+      },
+      "six-months-upfront": {
+        "months": 6,
+        "price": 709,
+        "unit": "kr",
+        "productId": "203313",
+        "campaignId": "11244"
+      },
+      "twelve-months-upfront": {
+        "months": 12,
+        "price": 1138,
+        "unit": "kr",
+        "productId": "203314",
+        "campaignId": "11244"
+      },
+      "special-offer": {
+        "months": 3,
+        "price": 389,
+        "unit": "(ord pris 447 kr)",
+        "productId": "203555",
+        "campaignId": "11814",
+        "offerLength": 90,
+        "lengthUnit": "dagar"
+      }
+    }
+  },
+  "pages": {
+    "frontpage": {
+      "containers": [
+        "ettan-banner",
+        "vk-features",
+        "bmi-calc",
+        "karolinska",
+        "campaign-bar"
+      ]
+    },
+    "vk-content": {
+      "containers": [
+        "intro-box",
+        "testimonials",
+        "experts"
+      ]
+    },
+    "bmi": {
+      "containers": [
+        "bmi-calc",
+        "vk-features"
+      ]
+    },
+
+    "article-top-ad": {
+      "containers": [
+      ]
+    },
+    "article-bottom-ad": {
+      "containers": [
+        "bmi-calc"
+      ]
+    },
+    "article-bmi": {
+      "containers": [
+        "bmi-calc"
+      ]
+    },
+    "article-test": {
+      "containers": [
+        "quiz"
+      ]
+    },
+    "article-pitch": {
+      "containers": [
+        "pitch"
+      ]
+    },
+    "article-offer": {
+      "containers": [
+        "offer"
+      ]
+    },
+    "memberships": {
+      "containers": [
+        "memberships"
+      ]
+    }
+  }
+}
