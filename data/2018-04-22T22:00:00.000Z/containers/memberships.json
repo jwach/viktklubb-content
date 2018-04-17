@@ -21,24 +21,32 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Erbjudande!",
+          "sticker": "Populärast!",
           "cta": "Välj",
           "offer": "special-offer",
           "additionalOffer": {
             "backgroundImage": "",
-            "label": "Löparbälte på köpet*"
+            "label": "15 kronor första månaden*"
           }
         },
         "monthly": [
           {
-            "sticker": "Populärast!",
+            "sticker": "Kickstart!",
             "cta": "Välj",
-            "offer": "three-months-monthly"
+            "offer": "three-months-monthly",
+            "additionalOffer": {
+              "backgroundImage": "",
+              "label": "15 kronor första månaden*"
+            }
           },
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly"
+            "offer": "twelve-months-monthly",
+            "additionalOffer": {
+              "backgroundImage": "",
+              "label": "15 kronor första månaden*"
+            }
           }
         ]
       }
@@ -71,7 +79,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "*90 dagar i Viktklubb för endast 389 kr (ord pris 447 kr) + löparbälte på köpet (värde 199 kr). Erbjudandet gäller vid tecknande av vårt 90-dagars medlemskap och så långt lagret räcker, dock längst t.o.m. 22 april 2018. <a href='http://bit.ly/villkorlöparbälte'>Information om löparbältet hittar du här.</a>",
+        "text": "*15 kronor första månaden, därefter ordinarie pris. Erbjudandet gäller t.o.m. 30 april 2018.",
         "cssClass": "memberships__offer-disclaimer"
       }
     }
