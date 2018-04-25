@@ -21,32 +21,24 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "Erbjudande!",
           "cta": "Välj",
           "offer": "special-offer",
           "additionalOffer": {
             "backgroundImage": "",
-            "label": "15 kronor första månaden*"
+            "label": "BARA IDAG! 50% rabatt*"
           }
         },
         "monthly": [
           {
-            "sticker": "Kickstart!",
+            "sticker": "Populärast!",
             "cta": "Välj",
-            "offer": "three-months-monthly",
-            "additionalOffer": {
-              "backgroundImage": "",
-              "label": "15 kronor första månaden*"
-            }
+            "offer": "three-months-monthly"
           },
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly",
-            "additionalOffer": {
-              "backgroundImage": "",
-              "label": "15 kronor första månaden*"
-            }
+            "offer": "twelve-months-monthly"
           }
         ]
       }
@@ -79,7 +71,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "*15 kronor första månaden, därefter ordinarie pris. Erbjudandet gäller t.o.m. 30 april 2018.",
+        "text": "*3 månader för halva priset: Erbjudandet gäller bara idag, 1 maj 2018. 3 månader för endast 224 kr (ord. pris 447 kr). Därefter 149 kr/månad tills uppsägning.",
         "cssClass": "memberships__offer-disclaimer"
       }
     }

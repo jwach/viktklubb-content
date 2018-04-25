@@ -6,11 +6,11 @@
     "campaignQuery": "campaign_id",
     "offers": {
       "three-months-monthly": {
-        "months": 3,
-        "price": 149,
+        "months": 6,
+        "price": 129,
         "unit": "månad",
-        "productId": "203584",
-        "campaignId": "11829"
+        "productId": "203216",
+        "campaignId": "11839"
       },
       "six-months-monthly": {
         "months": 6,
@@ -23,8 +23,8 @@
         "months": 12,
         "price": 99,
         "unit": "månad",
-        "productId": "203586",
-        "campaignId": "11829"
+        "productId": "203274",
+        "campaignId": "11839"
       },
       "three-months-upfront": {
         "months": 3,
@@ -48,12 +48,12 @@
         "campaignId": "11244"
       },
       "special-offer": {
-        "months": 6,
-        "price": 129,
-        "unit": "månad",
-        "productId": "203585",
-        "campaignId": "11829",
-        "offerLength": 6,
+        "months": 3,
+        "price": 224,
+        "unit": "(ord pris 447 kr)",
+        "productId": "203219",
+        "campaignId": "11839",
+        "offerLength": 3,
         "lengthUnit": "månader"
       }
     }
