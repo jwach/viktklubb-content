@@ -11,8 +11,8 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "Just nu! 15 kronor första månaden*",
-        "sublabel": "Viktklubb fyller 15 år – vi firar med ett kalaserbjudande!",
+        "label": "Bli medlem idag!",
+        "sublabel": "Från 99 kronor/månad",
         "strength": 1,
         "align": "center"
       }
@@ -21,7 +21,7 @@
       "type": "cta-element",
       "order": "1",
       "props": {
-        "label": "Bli medlem nu"
+        "label": "Välj medlemskap"
       }
     }
   ]

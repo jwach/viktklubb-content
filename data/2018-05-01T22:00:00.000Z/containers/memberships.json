@@ -23,30 +23,18 @@
         "special": {
           "sticker": "Populärast!",
           "cta": "Välj",
-          "offer": "special-offer",
-          "additionalOffer": {
-            "backgroundImage": "",
-            "label": "15 kronor första månaden*"
-          }
+          "offer": "special-offer"
         },
         "monthly": [
           {
             "sticker": "Kickstart!",
             "cta": "Välj",
-            "offer": "three-months-monthly",
-            "additionalOffer": {
-              "backgroundImage": "",
-              "label": "15 kronor första månaden*"
-            }
+            "offer": "three-months-monthly"
           },
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly",
-            "additionalOffer": {
-              "backgroundImage": "",
-              "label": "15 kronor första månaden*"
-            }
+            "offer": "twelve-months-monthly"
           }
         ]
       }
@@ -73,14 +61,6 @@
       "props": {
         "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil.",
         "cssClass": "memberships__karolinska-paragraph"
-      }
-    },
-    {
-      "type": "htmlParagraf",
-      "order": 5,
-      "props": {
-        "text": "*15 kronor första månaden, därefter ordinarie pris. Erbjudandet gäller t.o.m. 30 april 2018.",
-        "cssClass": "memberships__offer-disclaimer"
       }
     }
   ]

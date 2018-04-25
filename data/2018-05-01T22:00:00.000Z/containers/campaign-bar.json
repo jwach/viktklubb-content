@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "15 kr första månaden*",
+        "label": "Från 99 kronor/månad",
         "strength": 2,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "Viktklubb fyller 15 år – vi firar med ett kalaserbjudande!"
+        "text": "Gå ner i vikt snabbt och enkelt med Viktklubb"
       }
     }
   ]
