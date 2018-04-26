@@ -1,0 +1,48 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "testimonials",
+      "order": 0,
+      "props": {
+        "users": [
+          {
+            "image": "johanna",
+            "title": "Johanna",
+            "tag": "-22 kg",
+            "body": "Jag gillar att det inte känns som att man bantar, utan ändrar sin livsstil."
+          },
+          {
+            "image": "monica",
+            "title": "Monica",
+            "tag": "-19 kg",
+            "body": "Tack vare Viktklubb förstår jag för första gången i livet hur olika livsmedel påverkar kroppen. Man kan äta allt – men inte alltid."
+          },
+          {
+            "image": "cristian",
+            "title": "Cristian",
+            "tag": "-30 kg",
+            "body": "Viktklubb blev den start jag behövde och att läsa om andra som hade klarat det jag ville göra blev min morot."
+          },
+          {
+            "image": "frida",
+            "title": "Frida",
+            "tag": "-25 kg",
+            "body": "Med hjälp av loggboken har jag kunnat planera mina matveckor i förväg och handlat utifrån det."
+          }
+        ],
+        "header": {
+          "align": "center",
+          "label": "Vi har lyckats",
+          "cssClass": "section-header"
+        },
+        "ctaHref": "/magasin/lyckats",
+        "ctaLabel": "Läs om fler medlemmar"
+      }
+    }
+  ]
+}
