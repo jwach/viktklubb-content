@@ -38,7 +38,11 @@
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly"
+            "offer": "twelve-months-monthly",
+            "additionalOffer": {
+              "backgroundImage": "",
+              "label": "Leilas träningsarmband på köpet*"
+            }
           }
         ]
       }
