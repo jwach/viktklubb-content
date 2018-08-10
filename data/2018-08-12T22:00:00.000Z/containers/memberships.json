@@ -25,7 +25,7 @@
           "cta": "Välj",
           "offer": "special-offer",
           "additionalOffer": {
-            "backgroundImage": "",
+            "backgroundImage": "https://cdn-3-yams.schibsted.com/api/v1/production/images/aa43c9ce59546f66fa75d6ba39d665ef5c786caf?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9hYTQzYzljZTU5NTQ2ZjY2ZmE3NWQ2YmEzOWQ2NjVlZjVjNzg2Y2FmIn0.StW6EYPOLXwZlxH6Qhvlbh3AWtAOkMXMGmmvJSmbctcnOwpEDGUjTfSfdi7JqU8eu4ZFG7Ez-5lpaaUR7SYzKXjBBXj6FexIi2dArDqYXwaW1wbd7R0jwW0YZZvN2__jQlUWXwnjinRCiL3n-osm1WLD7whQ5qeI2T54ORUsOzL16JYnZPjQv7AfUD_o3DU6mRnhFvYA-aXKrq1NXZRUedffhF6tzRYaYkmxuQXWR_ype_XtCyGDecxJOj-GBX8FgW3S-SeBhIzqBjuQNPEG4RPSq6gqTtKn-kbSX2xGbhBJ-fnTk35-Xj0Z5iuay282g2hsggj_VqAcE1d-X4yxQg&AccessKeyId=d6f78ac930ac551d",
             "label": "Leilas träningsarmband på köpet*"
           }
         },
