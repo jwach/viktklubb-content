@@ -23,7 +23,11 @@
         "special": {
           "sticker": "Populärast!",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "special-offer",
+          "additionalOffer": {
+            "backgroundImage": "",
+            "label": "Leilas träningsarmband på köpet*"
+          }
         },
         "monthly": [
           {
@@ -34,7 +38,11 @@
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly"
+            "offer": "twelve-months-monthly",
+            "additionalOffer": {
+              "backgroundImage": "",
+              "label": "Leilas träningsarmband på köpet*"
+            }
           }
         ]
       }
@@ -61,6 +69,14 @@
       "props": {
         "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil.",
         "cssClass": "memberships__karolinska-paragraph"
+      }
+    },
+    {
+      "type": "htmlParagraf",
+      "order": 5,
+      "props": {
+        "text": "*Leilas smarta träningsarmband på köpet (värde 199 kr). Erbjudandet gäller vid tecknande av medlemskap på minst 6 månader och så långt lagret räcker, dock längst t.o.m. 30 september 2018. Läs mer på <a href='http://bit.ly/styrkatogo'>bit.ly/styrkatogo</a>",
+        "cssClass": "memberships__offer-disclaimer"
       }
     }
   ]
