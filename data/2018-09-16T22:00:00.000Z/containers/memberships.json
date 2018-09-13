@@ -1,0 +1,89 @@
+{
+  "props": {
+    "shadowBox": false,
+    "margin": false,
+    "grid": false,
+    "contentPadding": false
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "strength": 1,
+      "props": {
+        "label": "Börja ditt hälsosamma liv idag!",
+        "sublabel": "Du har viljan – vi har resten",
+        "cssClass": "memberships__header"
+      }
+    },
+    {
+      "type": "special-offering",
+      "order": 1,
+      "props": {
+        "special": {
+          "sticker": "Populärast!",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "additionalOffer": {
+            "backgroundImage": {
+              "small": "https://cdn-6-yams.schibsted.com/api/v1/production/images/3e337af56e3a3637670b3ba5ae02c55d81a5412f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC8zZTMzN2FmNTZlM2EzNjM3NjcwYjNiYTVhZTAyYzU1ZDgxYTU0MTJmIn0.PbKPhVqF6Xb_TNqMcFOakfIUni0J5UVp4DLQ6TtnJc3s_Mn_zXlj_yv1fIhbzcG8bldmmwX8IBUtA3_TAb-MejsrTJDPjR-Iz8VwUHm986idDHFw7YOQwACfgqQLodsjZNx_efzYNL1nsCgRm9uPOV3AURXv2NJpsEUSmuC1aHM4g-Ybpw3rv5AoDOAf8mzraQ-Um9lp3-pANNal2ui3RGJeSdSS8bz5bN2ZxTa3yKuMblIIcU-j5pOSEeucwXVCk5wxrjhLJwVRKShYXFbbLOmJMY1B8JMd_UtiFmZll_lXiHV7WxdKwPyt7LA_wFoN_Q-LVIrqQTyPxrB6lYWPmg&AccessKeyId=d6f78ac930ac551d",
+              "large": "https://cdn-3-yams.schibsted.com/api/v1/production/images/45cb2dbae050548b084e61180eb60bf3715f430f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6ODc1LCJmaXQiOnsidHlwZSI6ImNyb3AifSwidXBzY2FsZSI6ZmFsc2V9fV19fSwicnFzIjoiR0VUXFxcL3Byb2R1Y3Rpb25cL2ltYWdlc1wvNDVjYjJkYmFlMDUwNTQ4YjA4NGU2MTE4MGViNjBiZjM3MTVmNDMwZiJ9.AunYF3sIJQm07Um7lFahze0UqO8xMKD98Z80N03Q2XyV3Ee_GMhnxpur1cUOFjHHNjlyGx-K84M0qIjpPVsvyYbqfuoV8M72tE2iF8JT35xEVm91ZWNjagz_WgDsfQM9_1TtkchRSG7K_aBYHbUBvF-ROj09KYec99w6NtlNrxzuH9imNvwevLRALRxDjgnK3a_4-BOWaqhlV1BPsF2wJY66WPeWJHFnmqta8ZjaJxO1Bor4aLNIA0tPe4ioWKtQiSxcInizJ_o9upCQ9R8bWB2AvSCRMoUP5YZLclvz6RoQaSeyki38xW188TI5wkxTVcHZgAvM1jZVV4j7s46oyg&AccessKeyId=d6f78ac930ac551d"
+            },
+            "label": "Leilas träningsarmband på köpet*"
+          }
+        },
+        "monthly": [
+          {
+            "sticker": "Kickstart!",
+            "cta": "Välj",
+            "offer": "three-months-monthly"
+          },
+          {
+            "sticker": "Billigast!",
+            "cta": "Välj",
+            "offer": "twelve-months-monthly",
+            "additionalOffer": {
+              "backgroundImage": {
+                "small": "https://cdn-6-yams.schibsted.com/api/v1/production/images/3e337af56e3a3637670b3ba5ae02c55d81a5412f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC8zZTMzN2FmNTZlM2EzNjM3NjcwYjNiYTVhZTAyYzU1ZDgxYTU0MTJmIn0.PbKPhVqF6Xb_TNqMcFOakfIUni0J5UVp4DLQ6TtnJc3s_Mn_zXlj_yv1fIhbzcG8bldmmwX8IBUtA3_TAb-MejsrTJDPjR-Iz8VwUHm986idDHFw7YOQwACfgqQLodsjZNx_efzYNL1nsCgRm9uPOV3AURXv2NJpsEUSmuC1aHM4g-Ybpw3rv5AoDOAf8mzraQ-Um9lp3-pANNal2ui3RGJeSdSS8bz5bN2ZxTa3yKuMblIIcU-j5pOSEeucwXVCk5wxrjhLJwVRKShYXFbbLOmJMY1B8JMd_UtiFmZll_lXiHV7WxdKwPyt7LA_wFoN_Q-LVIrqQTyPxrB6lYWPmg&AccessKeyId=d6f78ac930ac551d",
+                "large": "https://cdn-3-yams.schibsted.com/api/v1/production/images/45cb2dbae050548b084e61180eb60bf3715f430f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6ODc1LCJmaXQiOnsidHlwZSI6ImNyb3AifSwidXBzY2FsZSI6ZmFsc2V9fV19fSwicnFzIjoiR0VUXFxcL3Byb2R1Y3Rpb25cL2ltYWdlc1wvNDVjYjJkYmFlMDUwNTQ4YjA4NGU2MTE4MGViNjBiZjM3MTVmNDMwZiJ9.AunYF3sIJQm07Um7lFahze0UqO8xMKD98Z80N03Q2XyV3Ee_GMhnxpur1cUOFjHHNjlyGx-K84M0qIjpPVsvyYbqfuoV8M72tE2iF8JT35xEVm91ZWNjagz_WgDsfQM9_1TtkchRSG7K_aBYHbUBvF-ROj09KYec99w6NtlNrxzuH9imNvwevLRALRxDjgnK3a_4-BOWaqhlV1BPsF2wJY66WPeWJHFnmqta8ZjaJxO1Bor4aLNIA0tPe4ioWKtQiSxcInizJ_o9upCQ9R8bWB2AvSCRMoUP5YZLclvz6RoQaSeyki38xW188TI5wkxTVcHZgAvM1jZVV4j7s46oyg&AccessKeyId=d6f78ac930ac551d"
+              },
+              "label": "Leilas träningsarmband på köpet*"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 2,
+      "props": {
+        "text": "Visste du att Viktklubb täcks av friskvårdsbidraget?",
+        "cssClass": "memberships__health-benefit"
+      }
+    },
+    {
+      "type": "header",
+      "order": 3,
+      "props": {
+        "label": "Ett samarbete med Karolinska Institutet",
+        "cssClass": "memberships__karolinska-header"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 4,
+      "props": {
+        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil.",
+        "cssClass": "memberships__karolinska-paragraph"
+      }
+    },
+    {
+      "type": "htmlParagraf",
+      "order": 5,
+      "props": {
+        "text": "*Leilas smarta träningsarmband på köpet (värde 199 kr). Erbjudandet gäller vid tecknande av medlemskap på minst 6 månader och så långt lagret räcker, dock längst t.o.m. 30 september 2018. Läs mer på <a href='http://bit.ly/styrkatogo'>bit.ly/styrkatogo</a>",
+        "cssClass": "memberships__offer-disclaimer"
+      }
+    }
+  ]
+}
