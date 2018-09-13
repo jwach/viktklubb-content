@@ -6,11 +6,11 @@
     "campaignQuery": "campaign_id",
     "offers": {
       "three-months-monthly": {
-        "months": 3,
-        "price": 149,
+        "months": 6,
+        "price": 129,
         "unit": "månad",
-        "productId": "203215",
-        "campaignId": "11870"
+        "productId": "203216",
+        "campaignId": "11885"
       },
       "six-months-monthly": {
         "months": 6,
@@ -23,8 +23,8 @@
         "months": 12,
         "price": 99,
         "unit": "månad",
-        "productId": "203598",
-        "campaignId": "11869"
+        "productId": "203274",
+        "campaignId": "11885"
       },
       "three-months-upfront": {
         "months": 3,
@@ -48,13 +48,13 @@
         "campaignId": "11244"
       },
       "special-offer": {
-        "months": 6,
-        "price": 129,
+        "months": 3,
+        "price": 149,
         "unit": "månad",
-        "productId": "203599",
-        "campaignId": "11869",
-        "offerLength": 6,
-        "lengthUnit": "månader"
+        "productId": "203611",
+        "campaignId": "11884",
+        "offerLength": 90,
+        "lengthUnit": "dagar"
       }
     }
   },
