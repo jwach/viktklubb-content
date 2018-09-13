@@ -26,27 +26,6 @@
         "productId": "203274",
         "campaignId": "11885"
       },
-      "three-months-upfront": {
-        "months": 3,
-        "price": 372,
-        "unit": "kr",
-        "productId": "203285",
-        "campaignId": "11292"
-      },
-      "six-months-upfront": {
-        "months": 6,
-        "price": 709,
-        "unit": "kr",
-        "productId": "203313",
-        "campaignId": "11244"
-      },
-      "twelve-months-upfront": {
-        "months": 12,
-        "price": 1138,
-        "unit": "kr",
-        "productId": "203314",
-        "campaignId": "11244"
-      },
       "special-offer": {
         "months": 3,
         "price": 149,
