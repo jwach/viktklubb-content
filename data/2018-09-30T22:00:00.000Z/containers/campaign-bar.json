@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Kanonerbjudande!",
+        "label": "Från 99 kronor/månad",
         "strength": 2,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "Kom i form på 90 dagar! Premie på köpet (värde 199 kr)*"
+        "text": "Gå ner i vikt snabbt och enkelt med Viktklubb"
       }
     }
   ]

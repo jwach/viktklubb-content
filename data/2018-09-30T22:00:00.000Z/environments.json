@@ -7,8 +7,8 @@
       "campaignQuery": "campaign_id",
       "offers": {
         "three-months-monthly": {
-          "months": 6,
-          "price": 129,
+          "months": 3,
+          "price": 149,
           "unit": "månad",
           "productId": "10022",
           "campaignId": "11"
@@ -28,13 +28,13 @@
           "campaignId": "11"
         },
         "special-offer": {
-          "months": 3,
-          "price": 149,
+          "months": 6,
+          "price": 129,
           "unit": "månad",
           "productId": "200073",
           "campaignId": "12",
-          "offerLength": 90,
-          "lengthUnit": "dagar"
+          "offerLength": 6,
+          "lengthUnit": "månader"
         }
       }
     }

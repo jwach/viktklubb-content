@@ -11,15 +11,15 @@
       "props": {
         "backgroundImage": {
           "desktop" : {
-            "source": "https://cdn-0-yams.schibsted.com/api/v1/production/images/114a20834a252ea4e41047215d2506778699c210?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcLzExNGEyMDgzNGEyNTJlYTRlNDEwNDcyMTVkMjUwNjc3ODY5OWMyMTAifQ.UkLQT1-LQ91Y6N23OslZNmrsBW0Jy7I2kUwT4IwZc8pW6mRvthypj0peQHeGK1h0iK6lbZ6SutAMh6cbxWuWXgsdP3jAXmkOW4t5PM-SAobap_CYMdHeFyQQXzxo3qIWMrwUNrTrcowcq4UvRlw2kICgtGZ2GgND7aRXhhb7KN2tykuH4OwLR7NPmp3pFf1onFtYY6QtJCpKEOpXvyhdBkpIh1_VZIdq7RuGHIKYlNJ8gjQzHoewmqfEKSNg0d5ULq_yPuGdCWJLyTx4sEaRbVV92pLFBs1svhmPRs8_c3r7PZPMOu7m5P-gV5TYbVVfL8fGvegQDWy6PA1Q9Bjrlg&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-0-yams.schibsted.com/api/v1/production/images/bae679bbf8c71fe20a0c7f782f985cc310df3faf?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcL2JhZTY3OWJiZjhjNzFmZTIwYTBjN2Y3ODJmOTg1Y2MzMTBkZjNmYWYifQ.RcWT02GZapnONNv4MfHD5i85aL2YxCnnwVWTISXdnLiV-X2Ab9LvFP3Oe8zq1JCpXsUG3UK_rZv0cijT6mk3gKDgb4bVKkBpQ2rwL6IyXb-r5MqSVyRn5DQvmNRLxq_BO2Heknw8Uhw3m_WYa79AJZxFhM8NMdpYhwETs8mh-CSFTGxt-k7cw3RZd8XbAWAjbA8skRkHJ2Dp7gB0r8Q_E68vvKkPrVhXu3DdBfx2ypgP8Roehba0QvVpKfUlJsVasJnGHX6FG6hcZle8YNby9HE1n89iWKHoTAL81HS99piDGkrGVqyLaZuBXLldFqQAF9cvdW5YfoUu62fCZrOypQ&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "tablet": {
-            "source": "https://cdn-7-yams.schibsted.com/api/v1/production/images/672829c327c2a44f8656059474bbe8579576cd41?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC82NzI4MjljMzI3YzJhNDRmODY1NjA1OTQ3NGJiZTg1Nzk1NzZjZDQxIn0.hQhiFEIBVOcrkgCpf9sU4RsMT2dPLSuUV7PK-iEoDhukGFH3qgBDyEm2ciCSLcyKlleraRcZ8uqCek8uZJ-lUnaWsylVUeM6rH9h-h5M-8JscI7xeMNt1UPTSv-UaumXhe9KefjY9iL-976T6yFziQsYRIK6Ay3OWCOm5sGuUaczQJmGWsFCd7JjdZ48FsMz5PPVaKgXdYXCg1ocUdbLxyljaEEOggytd8Zf9No6rYDuXRRarqjHlc64BnD65svivcSdGiDq5QmWRsyc0zRDKHPrOt0j2Jm5kDViTFfpdMWz80mJyzsvOpMPD5QXzbAhY0j8C-7PP3NRzh_lrazzuQ&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-0-yams.schibsted.com/api/v1/production/images/e371e926b00def19958d1112159a10d1b15a7ceb?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9lMzcxZTkyNmIwMGRlZjE5OTU4ZDExMTIxNTlhMTBkMWIxNWE3Y2ViIn0.e0M3FCdMPcSup06qQKsmTGVR2de91irysyeoKrM9XEVcLqIFrlD149dubxg3t7v0idF_t-0o8uS22qkTUnYOOElKFmS9SP9up38qVAseSRoVwx7mFalnqkL5Ythf3bsxE5QSKoMYEyChkX_gsXKpZLLsrxnE1RuD9GXSI5USS33oUyAdpKilob_4eTud9XzlWSF74F9XBgIgjqBjLzp1vQ-8RXMg2_K7l9dNUvabi-QRW2O6WbI6U3ArtQD_tFaeeH9HmRWkhDYl_hUpjnh3lB1vfQ5jpz3AXE4EgIGksQMgOcjtPHZL1KtI3kTPBm0jIugxuYpnvQ2Er6wX5y2QaA&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "mobile": {
-            "source": "https://cdn-5-yams.schibsted.com/api/v1/production/images/b3e32fcc87fa18bed3dfb522111fb82a920561b1?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9iM2UzMmZjYzg3ZmExOGJlZDNkZmI1MjIxMTFmYjgyYTkyMDU2MWIxIn0.jar7BbYjkHRc1pRr-LHw8Oy4q5iWmVw-McGxJRHo8nBC2L4V9LR5Q3z5yO27wMGMR0rDpd3SGU-H_lbUakf_vjMWTM7OB7GDEk4h1smoq68chHSDEm0IEwGvJLzdtu3oKQ8YQs7zo9PmeUbTX1ehbHu2I0GFAEBgZxyJxDNrzt2Ol5SN11OLWpMuk-xq2ZwJgqzxhLqbYEEydWDqE4IWbfZCNlZEVSNtQ16NOCTsiXSB3HhU-ESY5hh6EIMK4VWq_0RZIF1AumRCgPQXlubKnSihBqU2s1TAI2CqyPBfkMs3uJVXzHPER4KT-IvIjrL-SSiXZ8apVadD5PRWHJoE6g&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-4-yams.schibsted.com/api/v1/production/images/bf8ccd4d569eaf695d6fa82975cd72581ef9f07c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9iZjhjY2Q0ZDU2OWVhZjY5NWQ2ZmE4Mjk3NWNkNzI1ODFlZjlmMDdjIn0.NNEoH9CM0wzKNB43mmV6AqBURzcbIEJuvwIOyfgo1FNkPA_KLJFdT4Q52EpuHKt1-iObe9-bcSrJOyb1l7-2O_HGo56CXpS-0sW3ngDK7WuWkHFmF0QPBgX8Km-H8dSxoYdyYnhw2KfnYV0pkPLg17JqXNdUSdQ-QpYKsVFJsJ_6MZZTaZIQS3kUE3OjZUSAzH_H6NaSglsPuMoX8c4yjOcLKE7wMSii1ZipO94lZEi2ROW1U5DMI0vsCdxMly4YbisWi_SGadMLxDAbRRsRTKFVjmnOapnPVETNFoT1LaxDiiXDd8QLsLgQndncPOZ-STW_vD1JAqExBqSrD-JfbQ&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           }
         },
@@ -33,14 +33,13 @@
         "header": "Gå ner i vikt snabbt och enkelt",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
-          "desktop": "Börja idag!",
-          "tablet": "Börja idag!",
-          "mobile": "Börja idag!"
+          "desktop": "Bli medlem nu",
+          "tablet": "Bli medlem nu",
+          "mobile": "Bli medlem nu"
         },
-        "ctaFootnote": "*Erbjudandet gäller vid tecknande av medlemskap på 90 dagar och så långt lagret räcker, dock längst t.o.m. 30 september 2018. Läs mer på <a href='http://bit.ly/villkorlöparbälte'>bit.ly/villkorlöparbälte</a>",
         "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet",
-        "bodyEmphasizeTitle": "JUST NU!",
-        "bodyEmphasizeText": "Kom i form på 90 dagar. Premie på köpet*"
+        "bodyEmphasizeTitle": "BÖRJA IDAG!",
+        "bodyEmphasizeText": "Från 99 kr/månad"
       }
     }
   ]
