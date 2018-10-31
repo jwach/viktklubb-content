@@ -37,9 +37,10 @@
           "tablet": "Bli medlem nu",
           "mobile": "Bli medlem nu"
         },
+        "ctaFootnote": "*Erbjudandet gäller vid tecknande av medlemskap på minst 6 månader och så långt lagret räcker, dock längst t.o.m. 26 november 2018. Läs mer på <a href='http://bit.ly/villkorlöparbälte'>bit.ly/villkorlöparbälte</a>",
         "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet",
-        "bodyEmphasizeTitle": "BÖRJA IDAG!",
-        "bodyEmphasizeText": "Från 99 kr/månad"
+        "bodyEmphasizeTitle": "JUST NU:",
+        "bodyEmphasizeText": "Löparbälte på köpet! (värde 199 kr)*"
       }
     }
   ]
