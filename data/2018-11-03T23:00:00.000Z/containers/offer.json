@@ -11,8 +11,8 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "JUST NU: Löparbälte på köpet!",
-        "sublabel": "Gå ner i vikt snabbt och enkelt",
+        "label": "Gå ner i vikt snabbt och enkelt",
+        "sublabel": "JUST NU: Löparbälte på köpet (värde 199 kr)",
         "strength": 1,
         "align": "center"
       }
@@ -21,7 +21,7 @@
       "type": "cta-element",
       "order": "1",
       "props": {
-        "label": "Bli medlem nu!"
+        "label": "Bli medlem nu"
       }
     }
   ]
