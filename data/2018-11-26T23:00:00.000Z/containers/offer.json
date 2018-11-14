@@ -12,7 +12,7 @@
       "order": "0",
       "props": {
         "label": "Gå ner i vikt snabbt och enkelt",
-        "sublabel": "JUST NU: Löparbälte på köpet! (värde 199 kr)*",
+        "sublabel": "Bli medlem från 99 kr/månad",
         "strength": 1,
         "align": "center"
       }
@@ -21,7 +21,7 @@
       "type": "cta-element",
       "order": "1",
       "props": {
-        "label": "Bli medlem nu"
+        "label": "Välj medlemskap"
       }
     }
   ]
