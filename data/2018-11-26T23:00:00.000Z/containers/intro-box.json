@@ -1,0 +1,30 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "intro",
+      "order": 0,
+      "props": {
+        "header": "Vi tror på enkel matematik: Kalorier in - Kalorier ut",
+        "body": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över en halv miljon medlemmar att skaffa en hälsosammare livsstil och gå ner i vikt. Du kan räkna med oss! ",
+        "items": [
+          "Full kontroll på ditt dagliga kaloriintag - logga mat och träning via app eller dator!",
+          "Personlig kostplan och tusentals kaloriberäknade recept. Lika goda som nyttiga!",
+          "Ta hjälp av våra duktiga experter inom mat, motion och motivation!"
+        ],
+        "splash": {
+          "imageId": "20677899",
+          "sources": {
+            "binary": "https://cdn-4-yams.schibsted.com/api/v1/production/images/f94f4817176099214d65fbd41bc40393fc5c6df1?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjE2NywiaGVpZ2h0IjoxNjcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9fX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcL2Y5NGY0ODE3MTc2MDk5MjE0ZDY1ZmJkNDFiYzQwMzkzZmM1YzZkZjEifQ.justpColOnvrknML1csU1t8lcRXUoPRnHaltms-9bNES8mblrHVlDLOZcmcLnNfdp6wFjCibx5TjHSwOHdTWsI4piyioi6IMb2j7pbI0wFtZ4PgSl2ElCJ2evPVgazNyXXFKjX8SvvFbBGdrnWOq9CUoBFdp4t-VsBvU-ymgk6E2v1Agc1UcrXqYH8pgzpCbhnhsmi2qVQtafOgZGQRfmJAZZquL24w5MeJWVgiXp2NIAzXcow8u6Wopn-H76ssT58c4JpbWPARoJKgQ0Tri_ix-CmhNDR6f2OBOaC8gTBMLMELrDd38TzRVTGrhITcdTrUefWTNM7CbDKH0B_nMzA&AccessKeyId=d6f78ac930ac551d"
+          },
+          "alt": "Utvecklad med Karolinska Institutet",
+          "format": "binary"
+        }
+      }
+    }
+  ]
+}
