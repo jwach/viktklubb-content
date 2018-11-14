@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Från 99 kronor/månad",
+        "label": "Från 99 kr/månad",
         "strength": 2,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "JUST NU: Löparbälte på köpet! (värde 199 kr)*"
+        "text": "Gå ner i vikt snabbt och enkelt"
       }
     }
   ]
