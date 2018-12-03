@@ -12,7 +12,7 @@
           "unit": "månad",
           "productId": "10022",
           "campaignId": "11",
-          "zuoraId": "VK-3M-T"
+          "zuoraId": "VK-3MT-E"
         },
         "six-months-monthly": {
           "months": 6,
@@ -28,7 +28,7 @@
           "unit": "månad",
           "productId": "10024",
           "campaignId": "11",
-          "zuoraId": "VK-12M-T"
+          "zuoraId": "VK-12MT-E"
         },
         "special-offer": {
           "months": 6,
@@ -38,7 +38,7 @@
           "campaignId": "12",
           "offerLength": 6,
           "lengthUnit": "månader",
-          "zuoraId": "VK-6M-T"
+          "zuoraId": "VK-12MT-E"
         }
       }
     }
