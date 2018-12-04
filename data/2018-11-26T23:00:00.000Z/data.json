@@ -10,21 +10,24 @@
         "price": 149,
         "unit": "månad",
         "productId": "203215",
-        "campaignId": "11891"
+        "campaignId": "11891",
+        "zuoraId": "VK-3MT-E"
       },
       "six-months-monthly": {
         "months": 6,
         "price": 129,
         "unit": "månad",
         "productId": "203216",
-        "campaignId": "11690"
+        "campaignId": "11690",
+        "zuoraId": ""
       },
       "twelve-months-monthly": {
         "months": 12,
         "price": 99,
         "unit": "månad",
         "productId": "203274",
-        "campaignId": "11891"
+        "campaignId": "11891",
+        "zuoraId": "VK-12MT-E"
       },
       "special-offer": {
         "months": 6,
@@ -33,7 +36,8 @@
         "productId": "203216",
         "campaignId": "11891",
         "offerLength": 6,
-        "lengthUnit": "månader"
+        "lengthUnit": "månader",
+        "zuoraId": "VK-6MT-E"
       }
     }
   },
