@@ -1,0 +1,28 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false,
+    "background": "gray3"
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": "0",
+      "props": {
+        "label": "Gå ner i vikt snabbt och enkelt",
+        "sublabel": "Bli medlem från 129 kr/månad",
+        "strength": 1,
+        "align": "center"
+      }
+    },
+    {
+      "type": "cta-element",
+      "order": "1",
+      "props": {
+        "label": "Välj medlemskap"
+      }
+    }
+  ]
+}
