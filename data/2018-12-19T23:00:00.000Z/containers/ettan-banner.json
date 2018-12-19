@@ -37,9 +37,10 @@
           "tablet": "Bli medlem nu",
           "mobile": "Bli medlem nu"
         },
+        "ctaFootnote": "*Erbjudandet gäller vid tecknande av medlemskap på minst 6 månader och så långt lagret räcker, dock längst t.o.m. 28 februari 2019. Läs mer på <a href='http://bit.ly/villkormatvåg'>bit.ly/villkormatvåg</a>",
         "body": "Viktminskningstjänst utvecklad i samarbete med Karolinska Institutet",
-        "bodyEmphasizeTitle": "BÖRJA IDAG!",
-        "bodyEmphasizeText": "Från 129 kr/månad"
+        "bodyEmphasizeTitle": "JUST NU!",
+        "bodyEmphasizeText": "Matvåg på köpet (värde 149 kr)*"
       }
     }
   ]
