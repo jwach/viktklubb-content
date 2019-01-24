@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "JUST NU! 50% rabatt!",
+        "label": "JUST NU: 50% rabatt!",
         "strength": 2,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "6 månader för halva priset (ord. pris 149 kr/mån)*"
+        "text": "6 månader för halva priset (ord. pris 149 kr/månad)*"
       }
     }
   ]
