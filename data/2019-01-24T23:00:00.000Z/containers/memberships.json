@@ -11,8 +11,8 @@
       "order": 0,
       "strength": 1,
       "props": {
-        "label": "Vi tror på enkel matematik: Kalorier in - Kalorier ut",
-        "sublabel": "Du kan räkna med oss!",
+        "label": "Du kan räkna med oss!",
+        "sublabel": "Vi tror på enkel matematik: Kalorier in - Kalorier ut",
         "cssClass": "memberships__header"
       }
     },
