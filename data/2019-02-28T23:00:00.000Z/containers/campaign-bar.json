@@ -20,14 +20,14 @@
       "type": "cta-element",
       "order": "1",
       "props": {
-        "label": "Bli medlem nu"
+        "label": "Bli medlem"
       }
     },
     {
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "JUST NU! Få en matvåg på köpet (värde 149 kr)*"
+        "text": ""
       }
     }
   ]
