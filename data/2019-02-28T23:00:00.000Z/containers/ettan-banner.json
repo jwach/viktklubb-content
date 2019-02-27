@@ -30,17 +30,17 @@
           "Loggboken håller koll på kalorierna"
         ],
         "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
-        "header": "Du kan äta allt... men inte alltid!",
+        "header": "Vi hjälper dig att nå dina mål",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
-          "desktop": "Bli medlem nu",
-          "tablet": "Bli medlem nu",
-          "mobile": "Bli medlem nu"
+          "desktop": "Bli medlem",
+          "tablet": "Bli medlem",
+          "mobile": "Bli medlem"
         },
-        "ctaFootnote": "*Erbjudandet gäller vid tecknande av medlemskap på minst 6 månader och så långt lagret räcker, dock längst t.o.m. 28 februari 2019. Läs mer på <a href='http://bit.ly/villkormatvåg'>bit.ly/villkormatvåg</a>",
-        "body": "Nytt år och nya vanor – vi hjälper dig att nå dina mål. Kickstarta året med oss!",
-        "bodyEmphasizeTitle": "JUST NU!",
-        "bodyEmphasizeText": "Matvåg på köpet (värde 149 kr)*"
+        "ctaFootnote": "",
+        "body": "Vetenskapligt framtagen metod som bygger på kalorier in och kalorier ut. Vår filosofi är att du kan äta allt, men inte alltid.",
+        "bodyEmphasizeTitle": "",
+        "bodyEmphasizeText": ""
       }
     }
   ]
