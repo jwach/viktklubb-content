@@ -66,10 +66,7 @@
     {
       "type": "htmlParagraf",
       "order": 5,
-      "props": {
-        "text": "*Erbjudandet gäller vid tecknande av medlemskap på minst 6 månader och så långt lagret räcker, dock längst t.o.m. 28 februari 2019. Läs mer på <a href='http://bit.ly/villkormatvåg'>bit.ly/villkormatvåg</a>",
-        "cssClass": "memberships__offer-disclaimer"
-      }
+      "props": {}
     }
   ]
 }
