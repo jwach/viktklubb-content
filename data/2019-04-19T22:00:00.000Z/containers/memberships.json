@@ -74,7 +74,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "*Erbjudandet gäller endast vid tecknande av 3 månaders medlemskap t.o.m. 26 april 2019",
+        "text": "*Erbjudandet gäller vid tecknande av 3 månaders medlemskap t.o.m. 26 april 2019",
         "cssClass": "memberships__offer-disclaimer"
       }
     }
