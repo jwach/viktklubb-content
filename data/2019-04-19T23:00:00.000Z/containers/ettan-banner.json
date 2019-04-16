@@ -1,0 +1,47 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "backgroundImage": {
+          "desktop" : {
+            "source": "https://cdn-7-yams.schibsted.com/api/v1/production/images/9b9d604c2d0d53dd095e9c0f30bdcb0aad779a05?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcLzliOWQ2MDRjMmQwZDUzZGQwOTVlOWMwZjMwYmRjYjBhYWQ3NzlhMDUifQ.Z5FybTOcMq8CWI1fRDp1f9NxAs2BuieyT6zuuGAwcgGYnzxsjYiUaC5qZLoM22SdHSQCIkr4hnk4CjcsVfLpy0qMEvwmfyUxAwceUpVlIrZP5Eq57jRdBiqPzsAgYcElhhVGTJykyn5wgn86n8sKffl1VGMPLAkgvwMzTwCs79qhp20V-HEBZh1ALfE9zoUFfyTI_ogB2qo_0Y9Te6QI3yqZcd1JVORVALtmSdMl8Xu7YbKG5rcSvBLJT6lpySFdV4MZYk4FOTO8ZZrx5oqvow-nA_W9Ub-n3Czsl6c3co_0935GyVVuzSzHT_02koHSrU6zDs2hoolLkdKZPlsGwg&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "tablet": {
+            "source": "https://cdn-1-yams.schibsted.com/api/v1/production/images/cd79cbf2916f3e4afa062716f5128630f09606d3?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9jZDc5Y2JmMjkxNmYzZTRhZmEwNjI3MTZmNTEyODYzMGYwOTYwNmQzIn0.KsBBgNQHxKm9AkbQtpuZJpKAK4QRioNdcwMLezUSP3tul6cppozbvSmUmvf24YiQloFVzOiqclNAOn_ELyWmjdDjT51g4-o53xVDxpFeP7AdytlhsM2Jmfpt-1I6-omFt6aU7w3Oph7YgFgBgMBVywJgDFQrqh8UO1YOZBeL4ZngBIXoW3lxrUDGAyNK2xv4dliJJkGMNem5RMuUoc_2vGKpKfJr_a4emMnhBmkDK0AFh0Oe4yUxuZTxgKkoSQN45kMB82HQeiulBFBvcTiFbnD_menBC48MHY_orNY-kbpm2MpP3KE87heK2BiybOkjKIVN60bebcvYMTAqYowVrQ&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "mobile": {
+            "source": "https://cdn-6-yams.schibsted.com/api/v1/production/images/ee7d32ecfc05597a6c2b231ae64a773a9f35de82?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9lZTdkMzJlY2ZjMDU1OTdhNmMyYjIzMWFlNjRhNzczYTlmMzVkZTgyIn0.Xid4ka-H9SV1nmaVpAHwOgx3XptyrWNnAC07_RFXyekxUJqeG8cN9vUhxL30th-pDH-P9gF-3hl7gG6KULnkqKHVG0WzsIUtLNc-DEXOdGH_iLImFArhEVWV4fsmOphxEVbIFBqOKV6WNheuIPnuAzcj5P15RSC78SRuhfAtbUs0i0LafDF5XTOvwUAmF37uovr4iF6jFWAfR0b89q3l-gY5_Um1AHKGlDBBjGeWB-DELWbIO5WvLggOD0rdzL-k6O__XxgDFPYocBObhzbSW2y6JOnQ1oK9BKvxNh7uQFh7vUBO5FR4SY8f6U7_pbMr_Xy5D_GktzxSmHUbiEAKgA&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          }
+        },
+        "topOffset": 200,
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
+        "header": "Vi hjälper dig att nå dina mål!",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": {
+          "desktop": "Bli medlem",
+          "tablet": "Bli medlem",
+          "mobile": "Bli medlem"
+        },
+        "ctaFootnote": "",
+        "body": "Vetenskapligt framtagen metod som bygger på kalorier in och kalorier ut.",
+        "bodyEmphasizeTitle": "",
+        "bodyEmphasizeText": "Vår filosofi är att du kan äta allt, men inte alltid."
+      }
+    }
+  ]
+}
