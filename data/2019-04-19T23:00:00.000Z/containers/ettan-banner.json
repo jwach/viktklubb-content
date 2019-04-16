@@ -30,14 +30,14 @@
           "Loggboken håller koll på kalorierna"
         ],
         "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
-        "header": "Vi hjälper dig att nå dina mål!",
+        "header": "Det ska vara gott att leva!",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
-          "desktop": "Bli medlem",
-          "tablet": "Bli medlem",
-          "mobile": "Bli medlem"
+          "desktop": "PÅSKERBJUDANDE! HALVA PRISET*",
+          "tablet": "JUST NU! 50%*",
+          "mobile": "JUST NU! 50%*"
         },
-        "ctaFootnote": "",
+        "ctaFootnote": "*Erbjudandet gäller vid tecknande av 3 månaders medlemskap t.o.m. 26 april 2019.",
         "body": "Vetenskapligt framtagen metod som bygger på kalorier in och kalorier ut.",
         "bodyEmphasizeTitle": "",
         "bodyEmphasizeText": "Vår filosofi är att du kan äta allt, men inte alltid."
