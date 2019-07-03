@@ -21,9 +21,12 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "ERBJUDANDE: 50%",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "special-offer",
+          "additionalOffer": {
+            "label": "JUST NU: Halva priset! (ord. pris 149 kr/mån)*"
+          }
         },
         "monthly": [
           {
@@ -66,7 +69,9 @@
     {
       "type": "htmlParagraf",
       "order": 5,
-      "props": {}
+      "props": {
+        "text": "*Erbjudandet gäller endast vid tecknande av 6 månaders medlemskap t.o.m. 17 augusti 2019"
+      }
     }
   ]
 }
