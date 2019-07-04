@@ -1,0 +1,81 @@
+{
+  "props": {
+    "shadowBox": false,
+    "margin": false,
+    "grid": false,
+    "contentPadding": false
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "strength": 1,
+      "props": {
+        "label": "Du kan räkna med oss!",
+        "sublabel": "Vi tror på enkel matematik: Kalorier in - Kalorier ut",
+        "cssClass": "memberships__header"
+      }
+    },
+    {
+      "type": "special-offering",
+      "order": 1,
+      "props": {
+        "special": {
+          "sticker": "ERBJUDANDE: 50% rabatt!*",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "additionalOffer": {
+            "backgroundImage": {
+              "small": "https://cdn-6-yams.schibsted.com/api/v1/production/images/8923651dae39de79ecfc81b1174da2fcd5f02c53?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC84OTIzNjUxZGFlMzlkZTc5ZWNmYzgxYjExNzRkYTJmY2Q1ZjAyYzUzIn0.VLe4GUKiucw0jT_iHfFuzwTjZW9nze9h5bvnlW2soW5xy5UWUZdoZO5aLNHY2btzLSCPcwC7PcEvj2bJo7E8JsZb3DkmwhVMYwfwE_ZE1YJJiC-LKVrJnqIWsnoXe_AE-V0vQ49pt4tK4BvbghQy95oe158y_186fjXwzARDnhARucwBQm-8pO_2ibGmYfa3aocBf9EqIEPvztcwGr9XydS4ziO-2w8ezEukF1TIBEk6x0_6dXwB97pBq19aNWcktxawk332V_MJt61YMmSmnoXGDz0Jz0rRkUcpMiy2944_kbesVvsYObT-E8wbsucjlognJ5ZqRsFFlDwsce6vjg&AccessKeyId=d6f78ac930ac551d",
+              "large": "https://cdn-2-yams.schibsted.com/api/v1/production/images/ea82a1ff07815a7a3c66259091006e319625886e?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6ODc1LCJmaXQiOnsidHlwZSI6ImNyb3AifSwidXBzY2FsZSI6ZmFsc2V9fV19fSwicnFzIjoiR0VUXFxcL3Byb2R1Y3Rpb25cL2ltYWdlc1wvZWE4MmExZmYwNzgxNWE3YTNjNjYyNTkwOTEwMDZlMzE5NjI1ODg2ZSJ9.UmKuS5PrJtob7IJl7fKsvwdzm4XmG2GqArPhcOcR6KVBh0t8_evuSu2OQHNmEm9oVpH2WC10z7d06h5Yt2J4CDTWYNXjZNTXQgiPO-g7Fjrsn27Hr-D_H88N60L6nWBrBywg4NcX-Wl-zWNH-pbIq9rYjRXtg7Ex5BTTteR5ySr7X6ebX_5NCaafeh1RnodSmTeZgeA0le9IidUSOOHmgaEX01BBw-Rf8VvEDegyiuuY0KWJYraZ36jCh-LN46xDzIPIqUlnmMwUTDAFk8PDDcUuyzpRZXGj2QZZ9tw9HV7zAAc0vyisEpQGU07VmaEOuR2GxQ5kSHS_KYcEm33_xw&AccessKeyId=d6f78ac930ac551d"
+            },
+            "label": "JUST NU: Halva priset! (ord. pris 149 kr/mån)*"
+          }
+        },
+        "monthly": [
+          {
+            "sticker": "Kickstart!",
+            "cta": "Välj",
+            "offer": "three-months-monthly"
+          },
+          {
+            "sticker": "Vi rekommenderar!",
+            "cta": "Välj",
+            "offer": "twelve-months-monthly"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 2,
+      "props": {
+        "text": "Visste du att Viktklubb täcks av friskvårdsbidraget?",
+        "cssClass": "memberships__health-benefit"
+      }
+    },
+    {
+      "type": "header",
+      "order": 3,
+      "props": {
+        "label": "Ett samarbete med Karolinska Institutet",
+        "cssClass": "memberships__karolinska-header"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 4,
+      "props": {
+        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil.",
+        "cssClass": "memberships__karolinska-paragraph"
+      }
+    },
+    {
+      "type": "htmlParagraf",
+      "order": 5,
+      "props": {
+        "text": "*Erbjudandet gäller endast vid tecknande av 6 månaders medlemskap t.o.m. 17 augusti 2019"
+      }
+    }
+  ]
+}
