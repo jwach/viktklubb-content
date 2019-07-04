@@ -33,9 +33,9 @@
         "header": "Det ska vara gott att leva!",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
-          "desktop": "JUST NU! 50% rabatt*",
-          "tablet": "JUST NU! 50% rabatt*",
-          "mobile": "JUST NU! 50% rabatt*"
+          "desktop": "JUST NU! 50% rabatt!*",
+          "tablet": "JUST NU! 50% rabatt!*",
+          "mobile": "JUST NU! 50% rabatt!*"
         },
         "ctaFootnote": "*Erbjudandet gäller vid tecknande av 6 månaders medlemskap t.o.m. 17 augusti 2019.",
         "body": "Vetenskapligt framtagen metod som bygger på kalorier in och kalorier ut.",
