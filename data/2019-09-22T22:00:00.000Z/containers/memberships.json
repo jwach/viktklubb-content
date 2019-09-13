@@ -26,8 +26,8 @@
           "offer": "special-offer",
           "additionalOffer": {
             "backgroundImage": {
-              "small": "?",
-              "large": "?"
+              "small": "https://cdn-5-yams.schibsted.com/api/v1/production/images/a2cd9909193e417ada30a6ac450cc72f701a1f31?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9hMmNkOTkwOTE5M2U0MTdhZGEzMGE2YWM0NTBjYzcyZjcwMWExZjMxIn0.aOwWOSgsttD5lnY1d7yCyjJ0FCPbVq008t8Mj1mv5ZvvnWZX7RTVFIAgbaCRuZYVJ1xasNLtSqkjZzdxH-e9vJcX9ZNZNhfL_mJlCLN-pieMubWYqx1xucVw-dNLjacVMmWeJHhhjSXy7k5RreTU4Oy3RcRnUlRH441mmEXkBU1ODmHjIx9air3UrBUZrsdHqa7HSj6HtY1vkq99I_gGCJXpNFgOFctz-yVbro-Nbjf5fNBVnia-tRNyZTHKuEVtmW0x76opAXot2iizZmAL_-Gql3lP6g35LtmXEoFzsEGQGxG1KE3wklvXQPg1qYlhG1VQuoDljHmqd4V_hu0XIw&AccessKeyId=d6f78ac930ac551d",
+              "large": "https://cdn-1-yams.schibsted.com/api/v1/production/images/384b16e603660b4b821f01a6a4acf53c43fd803b?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6ODc1LCJmaXQiOnsidHlwZSI6ImNyb3AifSwidXBzY2FsZSI6ZmFsc2V9fV19fSwicnFzIjoiR0VUXFxcL3Byb2R1Y3Rpb25cL2ltYWdlc1wvMzg0YjE2ZTYwMzY2MGI0YjgyMWYwMWE2YTRhY2Y1M2M0M2ZkODAzYiJ9.aaddV5ZzTkeol3Vk0cUMrfoi8e8Z5P_jFGxRq61wblDPjpjAc1B7KyOJPw6d6TLc123gxw3xpWvqnsuYLQXyN4dNQ7gA03LJKMy4aV898KPypGiJ1vxyI27CzPf1bd8duczdrP9Oph9nYbDjMTEbLFoN_rHCKWwSPJ9Z6T0nX6N6SzsSgzOOeMkveYoxwfkXb8OgkLS2_a8beNU8LfDx-duTcFkIvtai6npe9GCfJMq4TU_V7L-Cyypp9NQxUQOcN5FpJcriWbftiZq2tLfd71ZQSyHWJQ16sI_0cvnQEKa1Kjor6QyhpcmdO_mmHe7D24Yhaq4hfK_sJ_njYPy0aw&AccessKeyId=d6f78ac930ac551d"
             },
             "label": "30% rabatt! (ord. pris 199 kr/mån)*"
           }
