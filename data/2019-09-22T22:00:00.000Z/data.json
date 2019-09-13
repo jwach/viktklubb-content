@@ -55,13 +55,15 @@
       "containers": [
         "intro-box",
         "testimonials",
-        "experts"
+        "experts",
+        "campaign-bar"
       ]
     },
     "bmi": {
       "containers": [
         "bmi-calc",
-        "vk-features"
+        "vk-features",
+        "campaign-bar"
       ]
     },
 
@@ -71,7 +73,8 @@
     },
     "article-bottom-ad": {
       "containers": [
-        "bmi-calc"
+        "bmi-calc",
+        "campaign-bar"
       ]
     },
     "article-bmi": {
