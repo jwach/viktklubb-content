@@ -73,7 +73,9 @@
     {
       "type": "htmlParagraf",
       "order": 5,
-      "props": {}
+      "props": {
+        "text": "*Erbjudandet gäller endast vid tecknande av 3 månaders medlemskap t.o.m. 30 september 2019"
+      }
     }
   ]
 }
