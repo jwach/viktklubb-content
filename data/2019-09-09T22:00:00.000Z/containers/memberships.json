@@ -11,8 +11,8 @@
       "order": 0,
       "strength": 1,
       "props": {
-        "label": "Du kan räkna med oss!",
-        "sublabel": "Vi tror på enkel matematik: Kalorier in - Kalorier ut",
+        "label": "Nå dina mål - med våra verktyg",
+        "sublabel": "Som medlem i Viktklubb får du ett program som hjälper dig att nå och behålla din önskade vikt. Du får tillgång till vår loggbok som ger dig kontroll över vad du äter och dricker och hur mycket du rör på dig. Varmt välkommen till ditt nya liv!",
         "cssClass": "memberships__header"
       }
     },
