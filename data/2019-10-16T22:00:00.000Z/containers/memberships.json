@@ -12,7 +12,7 @@
       "strength": 1,
       "props": {
         "label": "Nå dina mål - med våra verktyg",
-        "sublabel": "Som medlem i Viktklubb får du ett program som hjälper dig att nå och behålla din önskade vikt. Du får tillgång till vår loggbok som ger dig kontroll över vad du äter och dricker och hur mycket du rör på dig. Varmt välkommen till ditt nya liv!",
+        "sublabel": "",
         "cssClass": "memberships__header"
       }
     },
