@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Just nu: Löparbälte på köpet!",
+        "label": "Löparbälte på köpet!",
         "strength": 2,
         "align": "center"
       }
