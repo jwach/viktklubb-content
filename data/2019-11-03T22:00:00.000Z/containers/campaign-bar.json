@@ -1,0 +1,34 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false,
+    "background": "primary1"
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Just nu: Löparbälte på köpet!",
+        "strength": 2,
+        "align": "center"
+      }
+    },
+    {
+      "type": "cta-element",
+      "order": "1",
+      "props": {
+        "label": "Bli medlem"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": "2",
+      "props": {
+        "text": "Gäller vid tecknande av minst 6 månaders medlemskap"
+      }
+    }
+  ]
+}
