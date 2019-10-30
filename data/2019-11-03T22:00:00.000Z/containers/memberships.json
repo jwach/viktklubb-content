@@ -23,7 +23,14 @@
         "special": {
           "sticker": "Just nu!",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "special-offer",
+          "additionalOffer": {
+            "backgroundImage": {
+              "small": "https://cdn-6-yams.schibsted.com/api/v1/production/images/2b025706224a203f20a5444c001ebecbc4ca915e?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC8yYjAyNTcwNjIyNGEyMDNmMjBhNTQ0NGMwMDFlYmVjYmM0Y2E5MTVlIn0.IIQaKOB4EeyrySO2OPtAiSDr09S2frBJZebDjHOmyJJMm-7HxB8OZpO0vu1bGI4ubJN86LlHVu7MHTTNLwRklaYabatu2m7a08W8ARnsyg7IEtiP5fjn8ZLW0A-53S_aCk5fJ3jNgg5Nqzo6IfGVM0uxwqAQ8vrY4OydJ6XcHLyjhTX_v3neTxUEcAxoyjE7zO2ZwZteZ0WaRmLSfZ9AwSRlO_2SI668HtcwIRdEhS-RTc-dDfg8dhrUsoIaf2ukhW5gisL3IIDRq1Fwjr7imjZVKUS5B_85w0XVf2tXPQlaHA6Gt0Kb6S3RojrQrcvPbd99GdLCrAVxNNUUI9B-SA&AccessKeyId=d6f78ac930ac551d",
+              "large": "https://cdn-1-yams.schibsted.com/api/v1/production/images/24797e757a2ae38906ce2d64504a11f6c24847c4?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6ODc1LCJmaXQiOnsidHlwZSI6ImNyb3AifSwidXBzY2FsZSI6ZmFsc2V9fV19fSwicnFzIjoiR0VUXFxcL3Byb2R1Y3Rpb25cL2ltYWdlc1wvMjQ3OTdlNzU3YTJhZTM4OTA2Y2UyZDY0NTA0YTExZjZjMjQ4NDdjNCJ9.cvt9lROQUh1n4PuYJRbakPhM8heARjr4XXWaTgRzWkTY_nAX0kl6xEk199MTo43kXfA9MUbqBFe_JUkdEo5JtaxQjcsZrzXhoGKm65hNSJ-GbUX1nah9BQVSc98NC5Ks7caZf87vpVrymdBq1awoVWqktOh9KRM8GqBQx42NNKXn-X1AImWmCSNFBdJazYviAyFPOuqg-L1J8Wc4qRQ6IZNh1JjNhZWDqauWXce3XoBF2-uj0RIOfDIru1B61gDvlOhfDf1OB3UjdZ6gYy8XIIiDTOxwz-6FBNDfhI66koe1g_sYgJ3CpyIgGTGduUKPM_oUfltFKSqzd2s_gfnKEg&AccessKeyId=d6f78ac930ac551d"
+            },
+            "label": "Löparbälte på köpet (värde 199 kr)*"
+          }
         },
         "monthly": [
           {
@@ -34,7 +41,14 @@
           {
             "sticker": "Just nu!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly"
+            "offer": "twelve-months-monthly",
+            "additionalOffer": {
+              "backgroundImage": {
+                "small": "https://cdn-6-yams.schibsted.com/api/v1/production/images/2b025706224a203f20a5444c001ebecbc4ca915e?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC8yYjAyNTcwNjIyNGEyMDNmMjBhNTQ0NGMwMDFlYmVjYmM0Y2E5MTVlIn0.IIQaKOB4EeyrySO2OPtAiSDr09S2frBJZebDjHOmyJJMm-7HxB8OZpO0vu1bGI4ubJN86LlHVu7MHTTNLwRklaYabatu2m7a08W8ARnsyg7IEtiP5fjn8ZLW0A-53S_aCk5fJ3jNgg5Nqzo6IfGVM0uxwqAQ8vrY4OydJ6XcHLyjhTX_v3neTxUEcAxoyjE7zO2ZwZteZ0WaRmLSfZ9AwSRlO_2SI668HtcwIRdEhS-RTc-dDfg8dhrUsoIaf2ukhW5gisL3IIDRq1Fwjr7imjZVKUS5B_85w0XVf2tXPQlaHA6Gt0Kb6S3RojrQrcvPbd99GdLCrAVxNNUUI9B-SA&AccessKeyId=d6f78ac930ac551d",
+                "large": "https://cdn-1-yams.schibsted.com/api/v1/production/images/24797e757a2ae38906ce2d64504a11f6c24847c4?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6ODc1LCJmaXQiOnsidHlwZSI6ImNyb3AifSwidXBzY2FsZSI6ZmFsc2V9fV19fSwicnFzIjoiR0VUXFxcL3Byb2R1Y3Rpb25cL2ltYWdlc1wvMjQ3OTdlNzU3YTJhZTM4OTA2Y2UyZDY0NTA0YTExZjZjMjQ4NDdjNCJ9.cvt9lROQUh1n4PuYJRbakPhM8heARjr4XXWaTgRzWkTY_nAX0kl6xEk199MTo43kXfA9MUbqBFe_JUkdEo5JtaxQjcsZrzXhoGKm65hNSJ-GbUX1nah9BQVSc98NC5Ks7caZf87vpVrymdBq1awoVWqktOh9KRM8GqBQx42NNKXn-X1AImWmCSNFBdJazYviAyFPOuqg-L1J8Wc4qRQ6IZNh1JjNhZWDqauWXce3XoBF2-uj0RIOfDIru1B61gDvlOhfDf1OB3UjdZ6gYy8XIIiDTOxwz-6FBNDfhI66koe1g_sYgJ3CpyIgGTGduUKPM_oUfltFKSqzd2s_gfnKEg&AccessKeyId=d6f78ac930ac551d"
+              },
+              "label": "Löparbälte på köpet (värde 199 kr)*"
+            }
           }
         ]
       }
