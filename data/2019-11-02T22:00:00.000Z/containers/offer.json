@@ -11,8 +11,8 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "Just nu: Löparbälte på köpet!",
-        "sublabel": "",
+        "label": "Bli medlem från 129 kr/mån",
+        "sublabel": "Just nu: Löparbälte på köpet! (Värde 199 kr)",
         "strength": 1,
         "align": "center"
       }
@@ -21,7 +21,7 @@
       "type": "cta-element",
       "order": "1",
       "props": {
-        "label": "Bli medlem"
+        "label": "Välj medlemskap"
       }
     }
   ]
