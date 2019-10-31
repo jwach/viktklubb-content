@@ -55,7 +55,8 @@
       "containers": [
         "intro-box",
         "testimonials",
-        "experts"
+        "experts",
+        "campaign-bar"
       ]
     },
     "bmi": {
