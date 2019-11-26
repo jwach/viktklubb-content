@@ -21,22 +21,22 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "50 % rabatt!",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "three-months-monthly",
+          "additionalOffer": {
+            "backgroundImage": {
+              "small": "https://cdn-5-yams.schibsted.com/api/v1/production/images/d69a43ea2ced421ab7bfc6987a6841a33b61cf65?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9kNjlhNDNlYTJjZWQ0MjFhYjdiZmM2OTg3YTY4NDFhMzNiNjFjZjY1In0.jQ8tmCkP5ZMLpkOUNpLqV2xeYf408Y9HG30s6lI0l7S4yyo7ng45yfB7ny1ZEBHzUAyvsis6is8w5n7mWmIs904eKs9xb66NNncMmVp6mUSqe7hjS55uGcoivTmcWlNpbvWTNJFLV641iUtUShx7BroEV14PsjFKpWfB84jVVoDU9BGTkt16P4sdwIGF3bviOQt-hrmOjj2KWpii6RloujNnJeKcyfOuSiH9_dj7eU1JL6KmyVG42lqQJ-xUEMpmB767QSDYACaJIhwrMxBblYJlSZxb-hY2GG6nxyBw00ax46qbNvGLEatr9gLgZ8qe8y49UrbXYQw8DCy7M9tZaw&AccessKeyId=d6f78ac930ac551d",
+              "large": "https://cdn-5-yams.schibsted.com/api/v1/production/images/d69a43ea2ced421ab7bfc6987a6841a33b61cf65?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9kNjlhNDNlYTJjZWQ0MjFhYjdiZmM2OTg3YTY4NDFhMzNiNjFjZjY1In0.jQ8tmCkP5ZMLpkOUNpLqV2xeYf408Y9HG30s6lI0l7S4yyo7ng45yfB7ny1ZEBHzUAyvsis6is8w5n7mWmIs904eKs9xb66NNncMmVp6mUSqe7hjS55uGcoivTmcWlNpbvWTNJFLV641iUtUShx7BroEV14PsjFKpWfB84jVVoDU9BGTkt16P4sdwIGF3bviOQt-hrmOjj2KWpii6RloujNnJeKcyfOuSiH9_dj7eU1JL6KmyVG42lqQJ-xUEMpmB767QSDYACaJIhwrMxBblYJlSZxb-hY2GG6nxyBw00ax46qbNvGLEatr9gLgZ8qe8y49UrbXYQw8DCy7M9tZaw&AccessKeyId=d6f78ac930ac551d"
+            },
+            "label": "Just nu: Halva priset! (Ord. pris 199 kr/mån)*"
+          }
         },
         "monthly": [
           {
-            "sticker": "50 % rabatt!",
+            "sticker": "Populärast!",
             "cta": "Välj",
-            "offer": "three-months-monthly",
-            "additionalOffer": {
-              "backgroundImage": {
-                "small": "https://cdn-0-yams.schibsted.com/api/v1/production/images/94d78bdd5bb5b82968e8ce203275b97c1c960e57?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC85NGQ3OGJkZDViYjViODI5NjhlOGNlMjAzMjc1Yjk3YzFjOTYwZTU3In0.DlMp57Z7-vwPJHIdWAX4WbcQC9SCXK_VRtPvQGWIRQUNP_KGVvtj7EFIBiNu6L1Dykl8Pz9y-8Ab1jK_uJrwGTvIi_20yvykOVgOj70FS7zrmQiV-kz2xQmIUup3jXSSAEYWVACJJV5f7_Y16h7sonMassHN91alHfdu34zVmirU3RQpLdi9M8P_IMRnrTqrVpFCsVEZWUQFmtXiVO620m_3O9R1_CqHRDJdLoawFpyMZKE9hsrsPy9AtLHzyRaX_cVJgiPTvxtye_llsSbFMtIcd2L0URgd_KqKrTs9qfsWNzQnsQ2guvonblr1YU_EUDKZe673Odturrh2_H7Ovw&AccessKeyId=d6f78ac930ac551d",
-                "large": "https://cdn-0-yams.schibsted.com/api/v1/production/images/94d78bdd5bb5b82968e8ce203275b97c1c960e57?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC85NGQ3OGJkZDViYjViODI5NjhlOGNlMjAzMjc1Yjk3YzFjOTYwZTU3In0.DlMp57Z7-vwPJHIdWAX4WbcQC9SCXK_VRtPvQGWIRQUNP_KGVvtj7EFIBiNu6L1Dykl8Pz9y-8Ab1jK_uJrwGTvIi_20yvykOVgOj70FS7zrmQiV-kz2xQmIUup3jXSSAEYWVACJJV5f7_Y16h7sonMassHN91alHfdu34zVmirU3RQpLdi9M8P_IMRnrTqrVpFCsVEZWUQFmtXiVO620m_3O9R1_CqHRDJdLoawFpyMZKE9hsrsPy9AtLHzyRaX_cVJgiPTvxtye_llsSbFMtIcd2L0URgd_KqKrTs9qfsWNzQnsQ2guvonblr1YU_EUDKZe673Odturrh2_H7Ovw&AccessKeyId=d6f78ac930ac551d"
-              },
-              "label": "Just nu: Halva priset! (Ord. pris 199 kr/mån)*"
-            }
+            "offer": "special-offer"
           },
           {
             "sticker": "Billigast!",
