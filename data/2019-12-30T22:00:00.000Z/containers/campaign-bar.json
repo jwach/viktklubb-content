@@ -13,7 +13,8 @@
       "props": {
         "label": "Från 129 kr/månad",
         "strength": 2,
-        "align": "center"
+        "align": "center",
+        "sublabel": ""
       }
     },
     {
@@ -27,7 +28,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": ""
+        "text": "JUST NU! Matvåg på köpet (värde 299 kr)"
       }
     }
   ]

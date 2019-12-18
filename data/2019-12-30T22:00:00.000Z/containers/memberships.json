@@ -11,7 +11,7 @@
       "order": 0,
       "strength": 1,
       "props": {
-        "label": "Nå dina mål - med våra verktyg",
+        "label": "Just nu: Matvåg på köpet",
         "sublabel": "",
         "cssClass": "memberships__header"
       }
@@ -21,9 +21,16 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "Just nu!",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "special-offer",
+          "additionalOffer": {
+            "backgroundImage": {
+              "small": "https://cdn-4-yams.schibsted.com/api/v1/production/images/b1175f060d5452911d1fe04f527064d773397045?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo3NTAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9iMTE3NWYwNjBkNTQ1MjkxMWQxZmUwNGY1MjcwNjRkNzczMzk3MDQ1In0.T-EXbdP-zO4M9Xj0uXaiUImXdOu2kckCDQFSeQgrFxKuvvIdHqsk7zPzyfPYPJpqsXNHKZtXPq9YU6YUZoes7zmZDF9ZPxRSIucqtGShR6kA46KFCFPVvSx8itwsOWBi_WYDcnSuFsuXaRNKv3drvnOpzZGNFc85n6q5EAAlYUhsY3AY2_vSQRnobvBS6mgPryJfDcRJYnlinWYN4pYFv0MNP8lIeJJx8A2Pr3jM9n3dsEMcZpCFprB4OFzVlSnw3l4VJ3-sKaQ60ZFzEB34NGdGgtO-JOylwLh3UHixcNSsOLa72zIcD2J5wMLHnI9EeaPzG46AMVPfmvCZxdi3zA&AccessKeyId=d6f78ac930ac551d",
+              "large": "https://cdn-4-yams.schibsted.com/api/v1/production/images/b1175f060d5452911d1fe04f527064d773397045?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo3NTAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9iMTE3NWYwNjBkNTQ1MjkxMWQxZmUwNGY1MjcwNjRkNzczMzk3MDQ1In0.T-EXbdP-zO4M9Xj0uXaiUImXdOu2kckCDQFSeQgrFxKuvvIdHqsk7zPzyfPYPJpqsXNHKZtXPq9YU6YUZoes7zmZDF9ZPxRSIucqtGShR6kA46KFCFPVvSx8itwsOWBi_WYDcnSuFsuXaRNKv3drvnOpzZGNFc85n6q5EAAlYUhsY3AY2_vSQRnobvBS6mgPryJfDcRJYnlinWYN4pYFv0MNP8lIeJJx8A2Pr3jM9n3dsEMcZpCFprB4OFzVlSnw3l4VJ3-sKaQ60ZFzEB34NGdGgtO-JOylwLh3UHixcNSsOLa72zIcD2J5wMLHnI9EeaPzG46AMVPfmvCZxdi3zA&AccessKeyId=d6f78ac930ac551d"
+            },
+            "label": "Just nu: Matvåg på köpet! (Värde 299kr)*"
+          }
         },
         "monthly": [
           {
@@ -32,9 +39,16 @@
             "offer": "three-months-monthly"
           },
           {
-            "sticker": "Billigast!",
+            "sticker": "Just nu!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly"
+            "offer": "twelve-months-monthly",
+            "additionalOffer": {
+              "backgroundImage": {
+                "small": "https://cdn-4-yams.schibsted.com/api/v1/production/images/b1175f060d5452911d1fe04f527064d773397045?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo3NTAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9iMTE3NWYwNjBkNTQ1MjkxMWQxZmUwNGY1MjcwNjRkNzczMzk3MDQ1In0.T-EXbdP-zO4M9Xj0uXaiUImXdOu2kckCDQFSeQgrFxKuvvIdHqsk7zPzyfPYPJpqsXNHKZtXPq9YU6YUZoes7zmZDF9ZPxRSIucqtGShR6kA46KFCFPVvSx8itwsOWBi_WYDcnSuFsuXaRNKv3drvnOpzZGNFc85n6q5EAAlYUhsY3AY2_vSQRnobvBS6mgPryJfDcRJYnlinWYN4pYFv0MNP8lIeJJx8A2Pr3jM9n3dsEMcZpCFprB4OFzVlSnw3l4VJ3-sKaQ60ZFzEB34NGdGgtO-JOylwLh3UHixcNSsOLa72zIcD2J5wMLHnI9EeaPzG46AMVPfmvCZxdi3zA&AccessKeyId=d6f78ac930ac551d",
+                "large": "https://cdn-4-yams.schibsted.com/api/v1/production/images/b1175f060d5452911d1fe04f527064d773397045?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo3NTAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9iMTE3NWYwNjBkNTQ1MjkxMWQxZmUwNGY1MjcwNjRkNzczMzk3MDQ1In0.T-EXbdP-zO4M9Xj0uXaiUImXdOu2kckCDQFSeQgrFxKuvvIdHqsk7zPzyfPYPJpqsXNHKZtXPq9YU6YUZoes7zmZDF9ZPxRSIucqtGShR6kA46KFCFPVvSx8itwsOWBi_WYDcnSuFsuXaRNKv3drvnOpzZGNFc85n6q5EAAlYUhsY3AY2_vSQRnobvBS6mgPryJfDcRJYnlinWYN4pYFv0MNP8lIeJJx8A2Pr3jM9n3dsEMcZpCFprB4OFzVlSnw3l4VJ3-sKaQ60ZFzEB34NGdGgtO-JOylwLh3UHixcNSsOLa72zIcD2J5wMLHnI9EeaPzG46AMVPfmvCZxdi3zA&AccessKeyId=d6f78ac930ac551d"
+              },
+              "label": "Just nu: Matvåg på köpet! (Värde 299kr)*"
+            }
           }
         ]
       }
