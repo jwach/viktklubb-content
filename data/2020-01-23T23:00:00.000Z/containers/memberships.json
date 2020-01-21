@@ -23,7 +23,14 @@
         "special": {
           "sticker": "Halva priset",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "special-offer",
+          "additionalOffer": {
+            "backgroundImage": {
+              "small": "https://cdn-0-yams.schibsted.com/api/v1/production/images/f85294bd7d59c38156eb26e91a9e606cadbd765b?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9mODUyOTRiZDdkNTljMzgxNTZlYjI2ZTkxYTllNjA2Y2FkYmQ3NjViIn0.eu9H7-gIUSct7ET2EEqm2A7JbiRWyAHCN8Vp1PHeyspfpZXd3DlqtfGj_Q8S7CdC3b9E44w3jfspTicBOgJQ5K8SpuZ25QM0phTWu6FQx6JvyxEM-ZzoQDFbkAkMGWA6t7ZuXvfZCVnqWcMCGtTz0OKRG8ZUDvaxMPbz6ja2fqC5-PVWXGrNVpP042fkNlFlN1olHQpb0U_5T9sGtiSpPHl1F4xPnhj6bt1nL4_hWXU34R2bUbLcQYLOSe8iyVDd-X6PBnSKlINnlrRYDaDEHKNvlO-LEOazBkcPzs5Uz2YHehENXz4fx95V8ZFFDesdL1QGpKmpjVpGbYIhSeOM8g&AccessKeyId=d6f78ac930ac551d",
+              "large": "https://cdn-0-yams.schibsted.com/api/v1/production/images/f85294bd7d59c38156eb26e91a9e606cadbd765b?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9mODUyOTRiZDdkNTljMzgxNTZlYjI2ZTkxYTllNjA2Y2FkYmQ3NjViIn0.eu9H7-gIUSct7ET2EEqm2A7JbiRWyAHCN8Vp1PHeyspfpZXd3DlqtfGj_Q8S7CdC3b9E44w3jfspTicBOgJQ5K8SpuZ25QM0phTWu6FQx6JvyxEM-ZzoQDFbkAkMGWA6t7ZuXvfZCVnqWcMCGtTz0OKRG8ZUDvaxMPbz6ja2fqC5-PVWXGrNVpP042fkNlFlN1olHQpb0U_5T9sGtiSpPHl1F4xPnhj6bt1nL4_hWXU34R2bUbLcQYLOSe8iyVDd-X6PBnSKlINnlrRYDaDEHKNvlO-LEOazBkcPzs5Uz2YHehENXz4fx95V8ZFFDesdL1QGpKmpjVpGbYIhSeOM8g&AccessKeyId=d6f78ac930ac551d"
+            },
+            "label": "JUST NU: Halva priset! (ord. pris 149kr/mån)*"
+          }
         },
         "monthly": [
           {
@@ -32,7 +39,7 @@
             "offer": "three-months-monthly"
           },
           {
-            "sticker": "Halva priset",
+            "sticker": "Billigast!",
             "cta": "Välj",
             "offer": "twelve-months-monthly"
           }
