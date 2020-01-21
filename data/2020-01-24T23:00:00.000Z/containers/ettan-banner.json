@@ -11,15 +11,15 @@
       "props": {
         "backgroundImage": {
           "desktop" : {
-            "source": "https://cdn-1-yams.schibsted.com/api/v1/production/images/232e007d233b2f1ccea454a664732e5fed2e391b?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcLzIzMmUwMDdkMjMzYjJmMWNjZWE0NTRhNjY0NzMyZTVmZWQyZTM5MWIifQ.Y466MEVQljx5U4x70ewxvJxju7bkeVWYBFkmM9aH7BJ4rSF-h002Avhk_sTdSYZoAXhgyMMRcEt0RDPRErShKpQt9Zf8yDKxynBAvMDHp93SiViVk8lBH8RHc_ub7KyFRxDjw3XH0EpoThAd_0JgSt6DR4rb-fln2RcjAFi23S4nx63iTkCrfuWHAcrajI2Wnki2V4GTsDO87cDF2NlEc7Rq0m1aP5L9ggUatrcsqSf98LCCbJR3bwRXx46sLM3O5t09CfxpQmR3oRhSspnGMsS0RF44eGtEbkh5YU-Win8PJtuSRkd-EH48IPH_tXEew0LFECrFgWMocMszAUkuqg&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-5-yams.schibsted.com/api/v1/production/images/b35c83183fb891e2154d66e005590a4bd290551c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcL2IzNWM4MzE4M2ZiODkxZTIxNTRkNjZlMDA1NTkwYTRiZDI5MDU1MWMifQ.Ksji34uORtMixlX1h2O-Vvk1mu3UZYCFGUamXskG4kGEjtIAtQD6oaihF5LDtHbXMgs1l_J9sOGzaUFrULFMShH4QEYGjfwOUtIbJdEg69tQRPNExEtuolNd7HE5UWKDkYUDXaaHf7Ksin8L93ETLzsh5Jz8pii5C9ERws6EyP_TKajE4LGUWJtZIDIFVUT58bWQFcm-AdeDf2hjItBVI36uibFxx9QSBO8MJ2jcd4GjkgaH3eEAqqXVGkL7v43sOaAeBpDhKOAkm9PgBBw4Ybrw2OqgZoedE2ug-2EteTCjP_0GiAWjmSvxLeqj9p1w9OrXg-va5c4LbCvHJHmAXA&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "tablet": {
-            "source": "https://cdn-3-yams.schibsted.com/api/v1/production/images/2787726c5c3ef026544a0c8e20a8cc7502784492?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC8yNzg3NzI2YzVjM2VmMDI2NTQ0YTBjOGUyMGE4Y2M3NTAyNzg0NDkyIn0.ImZmooLiytIpQg62HKNfng_eEvCrsRmOQ2h2IeY6cEiFlTQpyAq2XXjTStdyojKc5etk4QfFKtHDHanjv_ltJEwpaYEFrGtg59gGRCSxaAxXiUDSRlok7r_wSIhg2-JcFJ2eRo6rkHRKQZ-66RIjtfbA0Fqyr7vD1wLjA3lYgdY8We2eslxvqny8Bn3ra2OIZRIyL2cPb7rw8UzSdIZT8XtxkwrAZpaYNh3MoCmYGIjQNK5No7ZzWgvuS0CVuQWH7HV2uGaNAbrBql8W7rmt8bZ9qjobNr4IZrTf1uL3rvUXwyc4lq-ociZq8aX8I42o5imREwLEzfCi6B5VULF0ag&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-0-yams.schibsted.com/api/v1/production/images/f85294bd7d59c38156eb26e91a9e606cadbd765b?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9mODUyOTRiZDdkNTljMzgxNTZlYjI2ZTkxYTllNjA2Y2FkYmQ3NjViIn0.eu9H7-gIUSct7ET2EEqm2A7JbiRWyAHCN8Vp1PHeyspfpZXd3DlqtfGj_Q8S7CdC3b9E44w3jfspTicBOgJQ5K8SpuZ25QM0phTWu6FQx6JvyxEM-ZzoQDFbkAkMGWA6t7ZuXvfZCVnqWcMCGtTz0OKRG8ZUDvaxMPbz6ja2fqC5-PVWXGrNVpP042fkNlFlN1olHQpb0U_5T9sGtiSpPHl1F4xPnhj6bt1nL4_hWXU34R2bUbLcQYLOSe8iyVDd-X6PBnSKlINnlrRYDaDEHKNvlO-LEOazBkcPzs5Uz2YHehENXz4fx95V8ZFFDesdL1QGpKmpjVpGbYIhSeOM8g&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "mobile": {
-            "source": "https://cdn-0-yams.schibsted.com/api/v1/production/images/1c79fb0ee71a74f79912abe48cee5bb9084fa7ad?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC8xYzc5ZmIwZWU3MWE3NGY3OTkxMmFiZTQ4Y2VlNWJiOTA4NGZhN2FkIn0.EVGZiuQR-JdBwYyQPrinUZRDb5wygAtH-2kIAHuaI4BCPukjiekuLTUJXvXZwkjHnzD1L3Hd7kPIV0XejxRUsB_gXtwErlwtXgQUnM_bvCgcelLWaeS53-fvhYnN2OgvHnMsFHFG_dwYMzZNzS7BbRoJZQo8S_uGQlWHPniAmiQtN9AHKP1vD4WeqAGpq2eAATKaHisFLUNh35AJBsvaGYdCYuF8-Rn6GVdmFyVttkx1muOFZczFSppDzSVp2uxLpqpMJTeCITcqOBMUnxOpcXc2a2lTS-WIyQ6Ux0uGmRTzHoc2huRwbxskdzGM62mGdq0jllOSXDlfjTvNjaHGFQ&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-5-yams.schibsted.com/api/v1/production/images/9d933c4a96fcee152a87d18e2ab02e588d6a1150?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC85ZDkzM2M0YTk2ZmNlZTE1MmE4N2QxOGUyYWIwMmU1ODhkNmExMTUwIn0.XsktCNNRQRhQtPfN2SweVjxWqQmKMLglhmAYgnnlSduNkv5KUrbRXVYOr65OvyakDeHlpw69RALmeNXmCWhI2UbF-HrmevAJxd-h6caF5BeJgP_w1K_RtaQsdFGy8Sm8-7PqeRJxmSaum4ejksk6lQtzokBoSQb_xhm33e-4GtiSEs0YQCKTVg5AZXKiO5utN0H9K4ODHIFP5l9CcR4MQ4u8FEjhtJuhEpOgRhykCVLK-2HH_Sv4faSOOb8b3nnL_aiPI65uuZgChJ_qnYCmIg2eweKhXMYUSYWZfTXjg0guJjvvL5pzhtbmOjR7AKOQ7BmWXi0__9_UzcWPlylfKg&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           }
         },
@@ -30,17 +30,17 @@
           "Loggboken håller koll på kalorierna"
         ],
         "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
-        "header": "Det ska vara gott att leva!",
+        "header": "Gott nytt år!",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
           "desktop": "Bli medlem",
           "tablet": "Bli medlem",
           "mobile": "Bli medlem"
         },
-        "ctaFootnote": "",
-        "body": "Vetenskapligt framtagen metod som bygger på kalorier in och kalorier ut.",
-        "bodyEmphasizeTitle": "",
-        "bodyEmphasizeText": "Vår filosofi är att du kan äta allt, men inte alltid."
+        "ctaFootnote": "*Erbjudandet gäller vid tecknande av medlemskap på 6 månader dock längst t.o.m. 31 Januari 2020. ",
+        "body": "Nytt år och nya vanor – Kickstarta året med oss!",
+        "bodyEmphasizeTitle": "Just nu!",
+        "bodyEmphasizeText": "Halva priset"
       }
     }
   ]
