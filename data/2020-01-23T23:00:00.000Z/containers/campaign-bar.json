@@ -1,0 +1,35 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false,
+    "background": "primary1"
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Från 129 kr/månad",
+        "strength": 2,
+        "align": "center",
+        "sublabel": ""
+      }
+    },
+    {
+      "type": "cta-element",
+      "order": "1",
+      "props": {
+        "label": "Bli medlem"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": "2",
+      "props": {
+        "text": "JUST NU: Halva priset!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "props": {
+    "shadowBox": false,
+    "margin": false,
+    "grid": false,
+    "contentPadding": false
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "strength": 1,
+      "props": {
+        "label": "Just nu: Halva priset",
+        "sublabel": "",
+        "cssClass": "memberships__header"
+      }
+    },
+    {
+      "type": "special-offering",
+      "order": 1,
+      "props": {
+        "special": {
+          "sticker": "Halva priset",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "additionalOffer": {
+            "backgroundImage": {
+              "small": "https://cdn-5-yams.schibsted.com/api/v1/production/images/b35c83183fb891e2154d66e005590a4bd290551c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcL2IzNWM4MzE4M2ZiODkxZTIxNTRkNjZlMDA1NTkwYTRiZDI5MDU1MWMifQ.Ksji34uORtMixlX1h2O-Vvk1mu3UZYCFGUamXskG4kGEjtIAtQD6oaihF5LDtHbXMgs1l_J9sOGzaUFrULFMShH4QEYGjfwOUtIbJdEg69tQRPNExEtuolNd7HE5UWKDkYUDXaaHf7Ksin8L93ETLzsh5Jz8pii5C9ERws6EyP_TKajE4LGUWJtZIDIFVUT58bWQFcm-AdeDf2hjItBVI36uibFxx9QSBO8MJ2jcd4GjkgaH3eEAqqXVGkL7v43sOaAeBpDhKOAkm9PgBBw4Ybrw2OqgZoedE2ug-2EteTCjP_0GiAWjmSvxLeqj9p1w9OrXg-va5c4LbCvHJHmAXA&AccessKeyId=d6f78ac930ac551d",
+              "large": "https://cdn-5-yams.schibsted.com/api/v1/production/images/b35c83183fb891e2154d66e005590a4bd290551c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcL2IzNWM4MzE4M2ZiODkxZTIxNTRkNjZlMDA1NTkwYTRiZDI5MDU1MWMifQ.Ksji34uORtMixlX1h2O-Vvk1mu3UZYCFGUamXskG4kGEjtIAtQD6oaihF5LDtHbXMgs1l_J9sOGzaUFrULFMShH4QEYGjfwOUtIbJdEg69tQRPNExEtuolNd7HE5UWKDkYUDXaaHf7Ksin8L93ETLzsh5Jz8pii5C9ERws6EyP_TKajE4LGUWJtZIDIFVUT58bWQFcm-AdeDf2hjItBVI36uibFxx9QSBO8MJ2jcd4GjkgaH3eEAqqXVGkL7v43sOaAeBpDhKOAkm9PgBBw4Ybrw2OqgZoedE2ug-2EteTCjP_0GiAWjmSvxLeqj9p1w9OrXg-va5c4LbCvHJHmAXA&AccessKeyId=d6f78ac930ac551d"
+            },
+            "label": "JUST NU: Halva priset! (ord. pris 149kr/mån)*"
+          }
+        },
+        "monthly": [
+          {
+            "sticker": "Kickstart!",
+            "cta": "Välj",
+            "offer": "three-months-monthly"
+          },
+          {
+            "sticker": "Billigast!",
+            "cta": "Välj",
+            "offer": "twelve-months-monthly"
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 2,
+      "props": {
+        "text": "Visste du att Viktklubb täcks av friskvårdsbidraget?",
+        "cssClass": "memberships__health-benefit"
+      }
+    },
+    {
+      "type": "header",
+      "order": 3,
+      "props": {
+        "label": "Ett samarbete med Karolinska Institutet",
+        "cssClass": "memberships__karolinska-header"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 4,
+      "props": {
+        "text": "Viktklubb utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil.",
+        "cssClass": "memberships__karolinska-paragraph"
+      }
+    },
+    {
+      "type": "htmlParagraf",
+      "order": 5,
+      "props": {
+        "text": "*Erbjudandet gäller endast vid köp av 6 månaders medlemskap t.o.m 31 januari 2020.",
+        "cssClass": "memberships__offer-disclaimer"
+      }
+    }
+  ]
+}
