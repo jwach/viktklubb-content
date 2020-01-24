@@ -11,8 +11,8 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "Bli medlem från 129 kr/månad",
-        "sublabel": "Just nu: Halva priset",
+        "label": "Just nu: Halva Priset",
+        "sublabel": "Bli medlem från 75 kr/månad",
         "strength": 1,
         "align": "center"
       }
