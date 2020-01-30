@@ -4,16 +4,15 @@
     "width": "full",
     "margin": false,
     "grid": false,
-    "background": "gray3"
+    "background": "primary1"
   },
   "items": [
     {
       "type": "header",
-      "order": "0",
+      "order": 0,
       "props": {
-        "label": "Bli medlem från 129 kr/månad",
-        "sublabel": "Just nu: Matvåg på köpet (Värde 299 kr)",
-        "strength": 1,
+        "label": "Från 129 kr/månad",
+        "strength": 2,
         "align": "center"
       }
     },
@@ -22,6 +21,13 @@
       "order": "1",
       "props": {
         "label": "Bli medlem"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": "2",
+      "props": {
+        "text": ""
       }
     }
   ]
