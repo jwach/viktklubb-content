@@ -11,12 +11,6 @@
       "props": {
         "experts": [
           {
-            "image": "leila",
-            "title": "Leila",
-            "tag": "Träningsexpert",
-              "body": "Leila Söderholm har jobbat med träning, kost och hälsa i över 20 år. På Wellobe bidrar Leila med mängder av tips, råd och inspiration. Med smarta knep och övningar hjälper hon dig att få in träning på ett enkelt sätt i vardagen."
-          },
-          {
             "image": "josefine",
             "title": "Josefine",
             "tag": "Leg. dietist",
@@ -27,6 +21,12 @@
             "tag": "Personlig tränare",
             "title": "Mårten",
             "body": "Mårten Nylén har under flera år hjälpt och inspirerat människor att komma i form och gå ner i vikt. På Wellobe hittar du bl.a. Mårtens träningsprogram ”Smart träning”, individanpassad träning som funkar för alla."
+          },
+          {
+            "image": "leila",
+            "title": "Leila",
+            "tag": "Träningsexpert",
+              "body": "Leila Söderholm har jobbat med träning, kost och hälsa i över 20 år. På Wellobe bidrar Leila med mängder av tips, råd och inspiration. Med smarta knep och övningar hjälper hon dig att få in träning på ett enkelt sätt i vardagen."
           }
         ],
         "header": {
