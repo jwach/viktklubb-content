@@ -24,6 +24,7 @@
           "sticker": "Populärast!",
           "cta": "Välj",
           "offer": "special-offer",
+          "disclaimer": "yyyz",
           "additionalOffer": {
             "label": "Första månaden 199 kr, andra månaden är kostnadsfri. Löper sedan i två månader för 199 kr/mån."
           }
@@ -33,6 +34,7 @@
             "sticker": "Kickstart!",
             "cta": "Välj",
             "offer": "three-months-monthly",
+            "disclaimer": "yyy",
             "additionalOffer": {
               "label": "Första månaden 249 kr, andra månaden är kostnadsfri. Löper sedan i två månader för 249 kr/mån."
             }
@@ -41,6 +43,7 @@
             "sticker": "Billigast!",
             "cta": "Välj",
             "offer": "twelve-months-monthly",
+            "disclaimer": "yyyx",
             "additionalOffer": {
               "label": "Första månaden 179 kr, andra månaden är kostnadsfri. Löper sedan i två månader för 179 kr/mån."
             }
