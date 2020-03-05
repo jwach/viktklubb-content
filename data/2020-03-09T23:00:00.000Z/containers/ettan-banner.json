@@ -30,17 +30,17 @@
           "Loggboken håller koll på kalorierna"
         ],
         "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
-        "header": "Det ska vara gott att leva!",
+        "header": "Gör en hälsoresa, precis som Jessica.",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
-          "desktop": "Bli medlem",
-          "tablet": "Bli medlem",
-          "mobile": "Bli medlem"
+          "desktop": "Börja idag",
+          "tablet": "Börja idag",
+          "mobile": "Börja idag"
         },
         "ctaFootnote": "",
-        "body": "Vetenskapligt framtagen metod som bygger på kalorier in och kalorier ut.",
+        "body": "Men var beredd på du kanske kommer att behöva sälja en del kläder när du lyckats.",
         "bodyEmphasizeTitle": "",
-        "bodyEmphasizeText": "Vår filosofi är att du kan äta allt, men inte alltid."
+        "bodyEmphasizeText": ""
       }
     }
   ]

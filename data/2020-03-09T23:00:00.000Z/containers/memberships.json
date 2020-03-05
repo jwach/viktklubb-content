@@ -11,7 +11,7 @@
       "order": 0,
       "strength": 1,
       "props": {
-        "label": "Nå din målvikt tillsammans med oss",
+        "label": "Just nu: Matvåg på köpet",
         "sublabel": "",
         "cssClass": "memberships__header"
       }
@@ -23,18 +23,27 @@
         "special": {
           "sticker": "Populärast!",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "special-offer",
+          "additionalOffer": {
+            "label": "Första månaden 199 kr, andra månaden är kostnadsfri. Löper sedan i två månader för 199 kr/mån."
+          }
         },
         "monthly": [
           {
             "sticker": "Kickstart!",
             "cta": "Välj",
-            "offer": "three-months-monthly"
+            "offer": "three-months-monthly",
+            "additionalOffer": {
+              "label": "Första månaden 249 kr, andra månaden är kostnadsfri. Löper sedan i två månader för 249 kr/mån."
+            }
           },
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly"
+            "offer": "twelve-months-monthly",
+            "additionalOffer": {
+              "label": "Första månaden 179 kr, andra månaden är kostnadsfri. Löper sedan i två månader för 179 kr/mån."
+            }
           }
         ]
       }
