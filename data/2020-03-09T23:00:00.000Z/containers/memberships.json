@@ -24,31 +24,26 @@
           "sticker": "Populärast!",
           "cta": "Välj",
           "offer": "special-offer",
-          "priceDisclaimer": "+1 kostnadsfri mån*yyz",
-          "additionalOffer": {
-            "label": "Första månaden 199 kr, andra månaden är kostnadsfri. Löper sedan i två månader för 199 kr/mån."
-          }
+          "priceDisclaimer": "+1 kostnadsfri mån*yyz"
         },
         "monthly": [
           {
             "sticker": "Kickstart!",
             "cta": "Välj",
             "offer": "three-months-monthly",
-            "priceDisclaimer": "+1 kostnadsfri mån*",
-            "additionalOffer": {
-              "label": "Första månaden 249 kr, andra månaden är kostnadsfri. Löper sedan i två månader för 249 kr/mån."
-            }
+            "priceDisclaimer": "+1 kostnadsfri mån*"
           },
           {
             "sticker": "Billigast!",
             "cta": "Välj",
             "offer": "twelve-months-monthly",
-            "priceDisclaimer": "+1 kostnadsfri mån*",
-            "additionalOffer": {
-              "label": "Första månaden 179 kr, andra månaden är kostnadsfri. Löper sedan i två månader för 179 kr/mån."
-            }
+            "priceDisclaimer": "+1 kostnadsfri mån*"
           }
-        ]
+        ],
+        "additionalDisclaimer": {
+          "title": "*With this offer, you will receive one additional month free of charge.",
+          "desc": "The first month of your plan will be billed at the normal price. Then, you will receive one additional month, free of charge. Then, the remaining months of your 3, 6, or 12-month plan will be billed at the normal price."
+        }
       }
     },
     {
