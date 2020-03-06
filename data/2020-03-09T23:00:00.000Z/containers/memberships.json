@@ -24,7 +24,7 @@
           "sticker": "Populärast!",
           "cta": "Välj",
           "offer": "special-offer",
-          "priceDisclaimer": "+1 kostnadsfri mån*yyz"
+          "priceDisclaimer": "+1 kostnadsfri mån*"
         },
         "monthly": [
           {
@@ -73,7 +73,9 @@
     {
       "type": "htmlParagraf",
       "order": 5,
-      "props": {}
+      "props": {
+        "text": ""
+      }
     }
   ]
 }
