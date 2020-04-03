@@ -11,8 +11,8 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "Just nu: en månad på köpet",
-        "sublabel": "",
+        "label": "Bli medlem från 129 kr/mån",
+        "sublabel": "Erbjudandet gäller endast vid köp av 6 månaders medlemskap",
         "strength": 1,
         "align": "center"
       }

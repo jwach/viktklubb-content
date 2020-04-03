@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Just nu: en månad på köpet",
+        "label": "Just nu: halva priset",
         "strength": 2,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": ""
+        "text": "Gäller vid tecknande av 6 månaders medlemskap"
       }
     }
   ]
