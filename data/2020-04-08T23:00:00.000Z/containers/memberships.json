@@ -24,25 +24,25 @@
           "sticker": "Halva priset",
           "cta": "Välj",
           "offer": "special-offer",
-          "priceDisclaimer": "+1 kostnadsfri mån*"
+          "priceDisclaimer": "*Erbjudandet gäller endast vid köp av 6 månaders medlemskap t.o.m 14 April 2020."
         },
         "monthly": [
           {
             "sticker": "Kickstart!",
             "cta": "Välj",
             "offer": "three-months-monthly",
-            "priceDisclaimer": "+1 kostnadsfri mån*"
+            "priceDisclaimer": ""
           },
           {
             "sticker": "Billigast!",
             "cta": "Välj",
             "offer": "twelve-months-monthly",
-            "priceDisclaimer": "+1 kostnadsfri mån*"
+            "priceDisclaimer": ""
           }
         ],
         "additionalDisclaimer": {
-          "title": "*Med detta erbjudande får du en extra månad på köpet.",
-          "desc": "Första månaden betalar du enligt prisplan för valt medlemskap, därefter får du en extra månad kostnadsfritt. Efter det löper abonnemanget på till normalpris i ytterligare 2, 5 eller 11 månader – beroende på vilket abonnemang du har valt."
+          "title": "",
+          "desc": ""
         }
       }
     },
