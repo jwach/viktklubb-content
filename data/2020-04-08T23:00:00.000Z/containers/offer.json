@@ -12,7 +12,7 @@
       "order": "0",
       "props": {
         "label": "Just nu: halva priset",
-        "sublabel": "Erbjudandet gäller endast vid köp av 6 månaders medlemskap",
+        "sublabel": "Bli medlem från 100 kr/månad",
         "strength": 1,
         "align": "center"
       }
