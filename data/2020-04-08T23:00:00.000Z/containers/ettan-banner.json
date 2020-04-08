@@ -40,7 +40,11 @@
         "ctaFootnote": "*Erbjudandet gäller endast vid tecknande av 6 månaders medlemskap t.o.m. 16 April 2020. ",
         "body": "",
         "bodyEmphasizeTitle": "Just nu",
-        "bodyEmphasizeText": "50% påskrabatt på vårt mest populära medlemskap"
+        "bodyEmphasizeText": "50% påskrabatt på vårt mest populära medlemskap",
+        "topNoteText": "",
+        "topNoteLink": "",
+        "topNoteLinkText": "",
+        "feedDesc": ""
       }
     }
   ]
