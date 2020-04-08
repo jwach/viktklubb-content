@@ -1,0 +1,51 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "backgroundImage": {
+          "desktop" : {
+            "source": "https://cdn-4-yams.schibsted.com/api/v1/production/images/c47e1c7d23972a96b50bf66ebd319294f0aa8d27?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcL2M0N2UxYzdkMjM5NzJhOTZiNTBiZjY2ZWJkMzE5Mjk0ZjBhYThkMjcifQ.S7lur5Cf1wbt1tyuGn5IIDjO1_5nXk9iOXHyoz8uvR-KlYbUnIkbsucuQN-oJ0PZ2C8ZwoOdRSoXp_JcVQtj6rb5--QtXJA70sSCFvro2izcOktUL_e0hLQ6fmxH4SyDas5nUYh5KIwo9af-YjOlvsRI2JuKocaYlPXLA_KM5098eff22cmw63ZuwZN5KOk0vI1VkYzBVNE2p6Xwk6lW4xBfaRlzYsxef4x-6aSv3sA0X_zcRUOrAElFceQlq1SLA7z4fB42EyC1Uro1Q8I9fIWH0JzE4Z8TlswgvNNrYeWvoWgIi_pszRLIER_9uQjO7_cnnYs3MEbJyLi-hVNzsA&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "tablet": {
+            "source": "https://cdn-1-yams.schibsted.com/api/v1/production/images/bfc38fab5e464d09d8e724a246452bb020643c74?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9iZmMzOGZhYjVlNDY0ZDA5ZDhlNzI0YTI0NjQ1MmJiMDIwNjQzYzc0In0.Tl3SQnY5DHrDpYt3rBXeCAdgwPQ4VHW92RhROW7X875AVQr-hSJ0aHHACXbCPPgxLrGWNXsibLDUi8qpKFeriQMxTOrutTD9am3CAa_6q_wMwJWu_0evVbIUhmuBqeaQyVv65-jYQHgxHbubDn1rotCNK4f9HKH5CBLVTAHdZUm82D2-cv8T-qe6q2fVmGfE7wG10Fw_RVAKjZqIx1zdTSBLA266N0Cwk7fNTvyy17SESGbmU2nx9O2SJ8vRH7qW0LfwwFjQ3Mpl_t4kttREcuXYFNUAEF2PTo8-LMTPuTHgGgGshBDkOo5Oo2Pbl1BQMbEOZa0KTW3uwVCJGtX1vA&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "mobile": {
+            "source": "https://cdn-7-yams.schibsted.com/api/v1/production/images/2d8b5de32fa64986df096d8f031a24d5e7fdbe2f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC8yZDhiNWRlMzJmYTY0OTg2ZGYwOTZkOGYwMzFhMjRkNWU3ZmRiZTJmIn0.kuRLSjziJMlCWicJboK3rSVIVwuMgTPb-I_GAfv1ykFsAxV4zJ4WEQNQyQi87GTSNp6pBjx5oXBph1GEI2dQnQnP_PgCeAFxvNhA-8HQwB9EAEaqF7jo-b7yLErB7tcEF-pfQ04wPP762kcBlaX_Ghf3005mdtXSApiYlK8_SsMQ2EJvwIW1pFKOaYS6twoEzfmXJTwxh39lYPIeDmc25G11cG8P1DP8pvEUHybQwIzGJBXr6XmqSK0W_W70I7sodb1Hv3L_BIR_W3KqLrS-kKtrUnzTzdOsISLhOkcBVf9wZzFgGd7Whs_AJzFoF-civkRHTDXXIRn0WuOIubb38Q&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          }
+        },
+        "topOffset": 200,
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
+        "header": "Kickstarta våren",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": {
+          "desktop": "Börja idag",
+          "tablet": "Börja idag",
+          "mobile": "Börja idag"
+        },
+        "ctaFootnote": "*Erbjudandet gäller endast vid tecknande av 6 månaders medlemskap t.o.m. 16 April 2020. ",
+        "body": "",
+        "bodyEmphasizeTitle": "Just nu",
+        "bodyEmphasizeText": "50% påskrabatt på vårt mest populära medlemskap",
+        "topNoteText": "",
+        "topNoteLink": "",
+        "topNoteLinkText": "",
+        "feedDesc": ""
+      }
+    }
+  ]
+}
