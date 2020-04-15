@@ -11,15 +11,15 @@
       "props": {
         "backgroundImage": {
           "desktop" : {
-            "source": "https://cdn-5-yams.schibsted.com/api/v1/production/images/28c9b672299dd916e992b2ea214ebee89ec6122a?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcLzI4YzliNjcyMjk5ZGQ5MTZlOTkyYjJlYTIxNGViZWU4OWVjNjEyMmEifQ.M1pnJMjXqkxnmi6iQkUAZi1tylfYsxyhDb4Zt2tmo6st3lCVy564Sq_lOxTotLa27AvppjeSj1L6klVoDDYNQUhARwrvRjI9iGq1Vdk1Qm8lT3HXDSEuJh3T7VQHonPs2qPCBoTFaEJEXWl4LcDjJoZpPn96xussrvVWm_Rw8s4soWJdIq5HPsJa_HoUI21iuvJVwh19a1YYRv6B6fcSLjz0KWA5NpcxlM9cfGhYRjpCyp7Uo3OI-PmO9_cynvSEjY_gmzMDSUxYTHEYLhcHxQWj8JQ70p70Xz45xA6fkcZ2hKgCZ2gfPXgs7tgPQylT_5L4HDUZBMxHOVtIT66ksg&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-6-yams.schibsted.com/api/v1/production/images/ed14326a2223fafb85faf75f4fd113cb970d16e6?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcL2VkMTQzMjZhMjIyM2ZhZmI4NWZhZjc1ZjRmZDExM2NiOTcwZDE2ZTYifQ.dSiMYaERUfAru_JFdDE_Wq1CO2RRxqBv9Z2ppS6k6niCDz6GI8leQSJpxusUc8vd_4_CFIL-x22SMuoPS7uNdQ9ZAO8XqChNLp1XFkXxjj8jdxPekK9RvKsKSKukgp6nSBW8EKGMglZqHXZwcAjwF-sMmGTdHgBR85lK0X2E3Bd8n0WaK2TUZpWwTDIqm2sg3TxFjg68Y9knlGxO4rKbKLt7ifReaC4ExRg65al4ASMc0nHzPhTxNLm_fac1B5UfxthxISQr1XX3_Wbfcdebwj5KUeg_eJgeYmCP4OSdF1GeN2Crr-5ZZY8-o_l4f79hb1Q2_JlkcQtMhvXqXzMWBw&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "tablet": {
-            "source": "https://cdn-7-yams.schibsted.com/api/v1/production/images/d1c4e80ceb10ea44e6c05c524e57172c3445c8ef?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjEyODAsImhlaWdodCI6NjUwLCJmaXQiOnsidHlwZSI6ImNyb3AifSwidXBzY2FsZSI6ZmFsc2V9fV19fSwicnFzIjoiR0VUXFxcL3Byb2R1Y3Rpb25cL2ltYWdlc1wvZDFjNGU4MGNlYjEwZWE0NGU2YzA1YzUyNGU1NzE3MmMzNDQ1YzhlZiJ9.iN2vtuwHSAidP0CbkCKjico2rVpazEOZyFp2aOs3O3-Dhq4blMUF8IpetVwgjs383exJFcr-qItobp848lfgsFiJLxAgEN5S33louwJmAiqOKu-mbpA6Pc_-KK3N8qmXZHxYjHjiO06nKJ6yHQfytyOY3I-IbpciKQehC1yeCq5nMx_g8sv5k7LGBCmJaNuYYxolkNKEWgVYU2WHImRUqy-q8fajYg9WqwVxaJ914hBygNArH5boXJIiVYxSYHFfPFBGV_UFk-wutYa6ql8qjYhue5L_3ThrWfQTz8vQa6GD3ibL-blg-Sz-EYMLgHDAqlNys5b4U5pJFEg-Lh-dHA&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-4-yams.schibsted.com/api/v1/production/images/d3b28dddad7c421317da78a4ac8d7a0bb697ffb1?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9kM2IyOGRkZGFkN2M0MjEzMTdkYTc4YTRhYzhkN2EwYmI2OTdmZmIxIn0.Z0IT56b9b0cA8t5mSbYZA892buf59GPc2WV1snDlZhSMx_iz-ArcNF9W2Lt3es-1xnT1YngVqdFQJJUnOQW8zVFn0hpdyBZYDGPK9veR-Wrs8VhHRhHanEvoD-ns8iyBh2JitqHvVijWfSgWOXUfnjht2OC97BagkJ7BSAQfoA2uZboo_Qfu4hU5vvk19shShvI4hWauhjKwFDsicoN4n2bsk3E2m24ctRTPwgp10KZdh0GDJY0Xu237N9WO1H90COU6aAHg1L5heQlOlJCBYKISIcyIgIC7qsqGkwnbezbcMCR9Jqq0gMg-e7qAtkOVB7ia-GKtg3jK1HwzpTewAg&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "mobile": {
-            "source": "https://cdn-3-yams.schibsted.com/api/v1/production/images/51e6904be9184968dcf98e3033ef70495b169c4d?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjY2OCwiaGVpZ2h0Ijo5NDksImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC81MWU2OTA0YmU5MTg0OTY4ZGNmOThlMzAzM2VmNzA0OTViMTY5YzRkIn0.hvQoegTf1q_ajSYkiLIN2wTMv4nWDdbO4-cxzmDmh1KYDuLZwdfsAtp8knsP_XZmUXqbVKYkEV8feQ_qfo6m2FhsOz7cFBsC7YTxYbo0fdEO97Zi2zcP7VGy8CySovUZkU34q1VAQCToUrNlirn1ze1bUMn2HpZk3TbO9Dv0jdndFX8RbZn-FOwjPVrdyl0GuKutuLIY03ATMkdlUzBPXgfiP-O6nct0RPbwNSKSFJuplJOCpE1p0D8O2XCny1w-MeWV_7_oeMZvdGW9LgCOkpbxoCrzhJvRV6GBnF1X40uKxUptXAkalcGDGw6Js8sxlCxsA5oDGXIbEckI1XwO6A&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-4-yams.schibsted.com/api/v1/production/images/aff483bd6984ee799666105ccc2d4cac2e7dbc7d?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9hZmY0ODNiZDY5ODRlZTc5OTY2NjEwNWNjYzJkNGNhYzJlN2RiYzdkIn0.S0QIjzqBkFTdjsQ-8rc-BdBAtirYPz6tmq4HPNI9rPHLIoscpT32DRZmVZxjD4py3smfYKGKxgvmPQRZVEcD775Esx58bbD6SB666n7d_VQhK5XOA_cc5i2sUKz9ZwY5GX3D_VEWwCXiIUKO3d8ZWHOsPzojdURcotE3z132IyYCq5Gzj0g-vbVtdyp7dduua-EoswL97Ps4BuaLq6CWO39x8WIFbIg3NpZ0zT3s0fLLTzMJ9QyqmiNlKk8bedt1gNwHdbjRaZY5vqGWAiKyXaOKDrdTkS6tPa4-7gnsWdslg7ATigPdcoesnLTDVncGwd1yj3u9jw0-VtVi0sKCXg&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           }
         },
@@ -30,7 +30,7 @@
           "Loggboken håller koll på kalorierna"
         ],
         "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
-        "header": "Gör en hälsoresa, precis som Jessica.",
+        "header": "Kom i form på 30 dagar",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
           "desktop": "Börja idag",
@@ -38,9 +38,9 @@
           "mobile": "Börja idag"
         },
         "ctaFootnote": "",
-        "body": "Men var beredd på att du kanske kommer att behöva sälja en del kläder när du har lyckats.",
+        "body": "",
         "bodyEmphasizeTitle": "",
-        "bodyEmphasizeText": "",
+        "bodyEmphasizeText": "Vi hjälper dig hela vägen",
         "topNoteText": "Hej, Viktklubb har blivit Wellobe.",
         "topNoteLink": "/kampanj/artikel/34798273",
         "topNoteLinkText": " Läs mer om vårt namnbyte.",
