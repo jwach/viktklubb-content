@@ -30,7 +30,7 @@
           "Loggboken håller koll på kalorierna"
         ],
         "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
-        "header": "Kom i form på 30 dagar",
+        "header": "<p>Kom i form</p><p>på 30 dagar</p>",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
           "desktop": "Börja idag",
@@ -41,10 +41,10 @@
         "body": "",
         "bodyEmphasizeTitle": "",
         "bodyEmphasizeText": "Vi hjälper dig hela vägen",
-        "topNoteText": "Hej, Viktklubb har blivit Wellobe.",
-        "topNoteLink": "/kampanj/artikel/34798273",
-        "topNoteLinkText": " Läs mer om vårt namnbyte.",
-        "feedDesc": "Köp våra medlemmars gamla kläder hä"
+        "topNoteText": "",
+        "topNoteLink": "",
+        "topNoteLinkText": "",
+        "feedDesc": ""
       }
     }
   ]
