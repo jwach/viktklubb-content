@@ -11,28 +11,28 @@
       "props": {
         "users": [
           {
-            "image": "sandra",
-            "title": "Sandra",
-            "tag": "-18 kg",
-            "body": "Jag läste om Wellobes 5:2-metod och den verkade funka för andra. Det gjorde den även för mig."
+            "image": "carolina",
+            "title": "Carolina",
+            "tag": "-16 kg",
+            "body": "Innan jagade jag siffror på vågen. Idag är bättre sömn och mindre värk mina största vinster. Jag mår strålande!"
           },
           {
-            "image": "jennie",
-            "title": "Jennie",
-            "tag": "-36 kg",
-            "body": "Wellobes motto är att man kan äta allt, men inte alltid – och det har passat mig utmärkt!"
+            "image": "peter",
+            "title": "Peter",
+            "tag": "-31 kg",
+            "body": "Det är klart att det är svårt i början, men det är det värt. Jag har fått blodtryck som en 15-åring, bättre sömn, humör – och trivs framför spegeln. Jag kommer aldrig gå tillbaka!"
           },
           {
-            "image": "magnus",
-            "title": "Magnus",
-            "tag": "-38 kg",
-            "body": "Wellobe handlar inte om att banta, det handlar om att lära sig äta rätt mängd."
+            "image": "ingela",
+            "title": "Ingela",
+            "tag": "-21 kg",
+            "body": "Jag behövde skapa en bra balans mellan min mat och motion. När jag väl började äta mer och träna mindre kom resultaten"
           },
           {
-            "image": "niina",
-            "title": "Niina",
-            "tag": "-26 kg",
-            "body": "Jag kunde fortsätta att äta “allt” men gick ändå ner i vikt – med Wellobes hjälp."
+            "image": "ulf",
+            "title": "Ulf",
+            "tag": "-42 kg",
+            "body": "Jag höll mig till min kaloriplan, vägde all mat, loggade minsta vindruva och tränade en halvtimme om dagen. Wellobe har räddat mitt liv och min fru och mina barn är helt tagna."
           }
         ],
         "header": {
