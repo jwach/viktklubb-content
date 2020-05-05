@@ -11,15 +11,15 @@
       "props": {
         "backgroundImage": {
           "desktop" : {
-            "source": "https://cdn-6-yams.schibsted.com/api/v1/production/images/ed14326a2223fafb85faf75f4fd113cb970d16e6?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcL2VkMTQzMjZhMjIyM2ZhZmI4NWZhZjc1ZjRmZDExM2NiOTcwZDE2ZTYifQ.dSiMYaERUfAru_JFdDE_Wq1CO2RRxqBv9Z2ppS6k6niCDz6GI8leQSJpxusUc8vd_4_CFIL-x22SMuoPS7uNdQ9ZAO8XqChNLp1XFkXxjj8jdxPekK9RvKsKSKukgp6nSBW8EKGMglZqHXZwcAjwF-sMmGTdHgBR85lK0X2E3Bd8n0WaK2TUZpWwTDIqm2sg3TxFjg68Y9knlGxO4rKbKLt7ifReaC4ExRg65al4ASMc0nHzPhTxNLm_fac1B5UfxthxISQr1XX3_Wbfcdebwj5KUeg_eJgeYmCP4OSdF1GeN2Crr-5ZZY8-o_l4f79hb1Q2_JlkcQtMhvXqXzMWBw&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-1-yams.schibsted.com/api/v1/production/images/9427c1ec76246de8037dadf2d3cd0265f28dbe77?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcLzk0MjdjMWVjNzYyNDZkZTgwMzdkYWRmMmQzY2QwMjY1ZjI4ZGJlNzcifQ.SxceqeIVofKIdVQyOzrE9-rgBsOZoxP1eIrsuwC2uHYdZPqRsRNpvsV4cG3gyiOYGpghJKXfZscFTnqMvz0Ivv22mxyE36XxUuhmIi55mlm1vJHAY_033570yokommX9o0M9R_i8vhbzdOBM-U_Y0Zi34sikJSl_zYOvZs15mbJTRceBDBxZvi5sVHQjCCHuCBSc322M6TwA8h0gKiYFGUJQz6fTwBAkLe0Zs74KeD_qVDLvu3_FQrPsbocPQqba1rNOKCTMywyIMJ7teIoSGNyf5y5Fk-cd7Y35gLcMzSAWmbm0oKEhOOrE0avuVRHy6M-KN6yNrjX464zLqu2CUw&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "tablet": {
-            "source": "https://cdn-4-yams.schibsted.com/api/v1/production/images/d3b28dddad7c421317da78a4ac8d7a0bb697ffb1?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9kM2IyOGRkZGFkN2M0MjEzMTdkYTc4YTRhYzhkN2EwYmI2OTdmZmIxIn0.Z0IT56b9b0cA8t5mSbYZA892buf59GPc2WV1snDlZhSMx_iz-ArcNF9W2Lt3es-1xnT1YngVqdFQJJUnOQW8zVFn0hpdyBZYDGPK9veR-Wrs8VhHRhHanEvoD-ns8iyBh2JitqHvVijWfSgWOXUfnjht2OC97BagkJ7BSAQfoA2uZboo_Qfu4hU5vvk19shShvI4hWauhjKwFDsicoN4n2bsk3E2m24ctRTPwgp10KZdh0GDJY0Xu237N9WO1H90COU6aAHg1L5heQlOlJCBYKISIcyIgIC7qsqGkwnbezbcMCR9Jqq0gMg-e7qAtkOVB7ia-GKtg3jK1HwzpTewAg&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-4-yams.schibsted.com/api/v1/production/images/4e1afc0a7a20f4498b69a5165c54bdaafa535bc2?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC80ZTFhZmMwYTdhMjBmNDQ5OGI2OWE1MTY1YzU0YmRhYWZhNTM1YmMyIn0.jPjwRtzsv-BzUKL0HfCDsjbiBs-ijJ6a-fVBopaJFIBJIbHYWeHUB2aPlE8HDVUNb07O73zCNzSNuJF-AcPHHmkFFoc4Va6Z4O1Q6oAxyG-cmv-WPGVEtywyIb1zOfDBX3wdqcm0ehjVbj_Cw6d1x0Ka9tRx8UwLhJvCWI0xSmChGkzq7_mHkeben0fWxrFyO8L3RI_3N6u5ZVejhPOR06K_BTvsvGAR6BGXmMHhGwUVAGKWJ8Ov9n9tfg6ivDWm1BOPKvKR018tlIICTdlCI7Pxn_O9y5XcAcoW7K3Br7omY4cTW-SI5Jfmw_87E2Pvr7S2lKNUtCT3r5gPM8JwPQ&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "mobile": {
-            "source": "https://cdn-4-yams.schibsted.com/api/v1/production/images/aff483bd6984ee799666105ccc2d4cac2e7dbc7d?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9hZmY0ODNiZDY5ODRlZTc5OTY2NjEwNWNjYzJkNGNhYzJlN2RiYzdkIn0.S0QIjzqBkFTdjsQ-8rc-BdBAtirYPz6tmq4HPNI9rPHLIoscpT32DRZmVZxjD4py3smfYKGKxgvmPQRZVEcD775Esx58bbD6SB666n7d_VQhK5XOA_cc5i2sUKz9ZwY5GX3D_VEWwCXiIUKO3d8ZWHOsPzojdURcotE3z132IyYCq5Gzj0g-vbVtdyp7dduua-EoswL97Ps4BuaLq6CWO39x8WIFbIg3NpZ0zT3s0fLLTzMJ9QyqmiNlKk8bedt1gNwHdbjRaZY5vqGWAiKyXaOKDrdTkS6tPa4-7gnsWdslg7ATigPdcoesnLTDVncGwd1yj3u9jw0-VtVi0sKCXg&AccessKeyId=d6f78ac930ac551d",
+            "source": "https://cdn-1-yams.schibsted.com/api/v1/production/images/23db107adfbb4ef48fd9d2d0d673533a1eced272?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC8yM2RiMTA3YWRmYmI0ZWY0OGZkOWQyZDBkNjczNTMzYTFlY2VkMjcyIn0.XSeO9RTPKffH4DyLYr1ISUbEViRGP4IKUpYlhPK3UwK7ANtq9NBxInzgxU0NqFcA6BUsCUylc3dXWv91DQVFPeYbeEiZX1AtqsGFpQAelDRSmuP6hg51LMiXV7UPHKOMU4ZKtSbGYB1VMT89DqkEIlJyJq8rH6BDGIgoFtOUcdzuyYxrjH8_Wivxb8SuwqSQPWoi2abxLn5PoW6rJ6DXQ5Pv6t8pEIxCBibgNuoOGomReBqwccq48tfYgFTsTItS-HK_EMFbArk7axIthpMxTzN8PaEQpgCPZa-VVX1zf3MH-Kd2ucOlJqTg8jBFQwAZYWDMk26cNUu62H_K-DzFiQ&AccessKeyId=d6f78ac930ac551d",
             "alt": "Gå ner i vikt snabbt och enkelt"
           }
         },
@@ -30,7 +30,7 @@
           "Loggboken håller koll på kalorierna"
         ],
         "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
-        "header": "Kom i form med oss på Wellobe",
+        "header": "Nå din målvikt tillsammans med oss",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
           "desktop": "Börja idag",
@@ -38,7 +38,7 @@
           "mobile": "Börja idag"
         },
         "ctaFootnote": "",
-        "body": "",
+        "body": "Börja redan idag",
         "bodyEmphasizeTitle": "",
         "bodyEmphasizeText": "Du får loggbok, träningsprogram och kaloriberäknade recept",
         "topNoteText": "",

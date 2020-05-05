@@ -11,7 +11,7 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "Just nu: en månad på köpet",
+        "label": "Kom i form på 30 dagar",
         "sublabel": "",
         "strength": 1,
         "align": "center"
