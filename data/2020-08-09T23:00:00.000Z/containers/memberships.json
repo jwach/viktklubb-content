@@ -72,7 +72,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "*Erbjudandet gäller endast vid köp av 6 månaders medlemskap t.o.m 14 April 2020.",
+        "text": "*Erbjudandet gäller endast vid tecknande av 6 månaders medlemskap t.o.m. 16 Augusti 2020.",
         "cssClass": "memberships__offer-disclaimer"
       }
     }
