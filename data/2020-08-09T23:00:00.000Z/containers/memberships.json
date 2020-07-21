@@ -21,10 +21,10 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Halva priset",
+          "sticker": "Halva priset!",
           "cta": "Välj",
           "offer": "special-offer",
-          "priceDisclaimer": "*Erbjudandet gäller endast vid köp av 6 månaders medlemskap t.o.m 16 Augusti 2020."
+          "priceDisclaimer": "(ord.pris 199kr/månad)"
         },
         "monthly": [
           {
