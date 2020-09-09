@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Vi hjälper dig hela vägen",
+        "label": "Just nu: 50% rabatt!",
         "strength": 2,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": ""
+        "text": "3 månader för 124 kr/mån (ord. pris 249 kr/mån)*"
       }
     }
   ]
