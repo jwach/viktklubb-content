@@ -11,7 +11,7 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "JUST NU: 50% rabatt!",
+        "label": "Just nu: 50% rabatt!",
         "sublabel": "3 månader för 124 kr/mån (ord. pris 249 kr/mån)*",
         "strength": 1,
         "align": "center"
