@@ -30,17 +30,17 @@
           "Loggboken håller koll på kalorierna"
         ],
         "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
-        "header": "Nå din målvikt med oss",
+        "header": "Nå din målvikt med oss!",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
           "desktop": "Börja idag",
           "tablet": "Börja idag",
           "mobile": "Börja idag"
         },
-        "ctaFootnote": "",
-        "body": "",
-        "bodyEmphasizeTitle": "",
-        "bodyEmphasizeText": "Du får loggbok, träningsprogram och kaloriberäknade recept",
+        "ctaFootnote": "Erbjudandet gäller t.o.m. 22 november 2020",
+        "body": "Du får loggbok, kaloriberäknade recept och träningsprogram",
+        "bodyEmphasizeTitle": "JUST NU:",
+        "bodyEmphasizeText": "En månad på köpet!",
         "topNoteText": "",
         "topNoteLink": "",
         "topNoteLinkText": "",
