@@ -11,7 +11,7 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "JUST NU: En månad på köpet!*",
+        "label": "JUST NU: En månad på köpet!",
         "sublabel": "Bli medlem från 179 kr/månad",
         "strength": 1,
         "align": "center"
