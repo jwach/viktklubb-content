@@ -26,8 +26,8 @@
           "offer": "special-offer",
           "additionalOffer": {
             "backgroundImage": {
-              "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/69/69ded2e9-c178-4e9d-b00b-8a16ad2dcbd9?rule=original",
-              "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/81/8195c8e2-1fc7-46e6-a747-21b8f3772d2e?rule=original"
+              "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e3/e30644eb-e1d2-405e-b634-e61fda40106f?rule=original",
+              "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/47/4737bbff-10e8-4aaa-beb1-e44326a1cc01?rule=original"
             },
             "label": "JUST NU: En månad på köpet!*"
           }
@@ -39,8 +39,8 @@
             "offer": "three-months-monthly",
             "additionalOffer": {
               "backgroundImage": {
-                "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/69/69ded2e9-c178-4e9d-b00b-8a16ad2dcbd9?rule=original",
-                "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/81/8195c8e2-1fc7-46e6-a747-21b8f3772d2e?rule=original"
+                "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e3/e30644eb-e1d2-405e-b634-e61fda40106f?rule=original",
+                "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/47/4737bbff-10e8-4aaa-beb1-e44326a1cc01?rule=original"
               },
               "label": "JUST NU: En månad på köpet!*"
             }
@@ -51,8 +51,8 @@
             "offer": "twelve-months-monthly",
             "additionalOffer": {
               "backgroundImage": {
-                "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/69/69ded2e9-c178-4e9d-b00b-8a16ad2dcbd9?rule=original",
-                "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/81/8195c8e2-1fc7-46e6-a747-21b8f3772d2e?rule=original"
+                "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e3/e30644eb-e1d2-405e-b634-e61fda40106f?rule=original",
+                "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/47/4737bbff-10e8-4aaa-beb1-e44326a1cc01?rule=original"
               },
               "label": "JUST NU: En månad på köpet!*"
             }
