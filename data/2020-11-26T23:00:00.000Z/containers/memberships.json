@@ -26,8 +26,8 @@
           "offer": "special-offer",
           "additionalOffer": {
             "backgroundImage": {
-              "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e3/e30644eb-e1d2-405e-b634-e61fda40106f?rule=original",
-              "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/47/4737bbff-10e8-4aaa-beb1-e44326a1cc01?rule=original"
+              "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/84/84fec347-3295-4497-b1ce-f12502013ce0?rule=original",
+              "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/f2/f2118a0a-05cc-4055-9521-10676e3a88fe?rule=original"
             },
             "label": "JUST NU: 50% rabatt*"
           }
